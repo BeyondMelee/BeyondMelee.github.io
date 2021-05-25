@@ -1,0 +1,7 @@
+name: Beyond melee
+
+collections_dir: collections
+
+collections:
+    changelogs:
+        output: true
