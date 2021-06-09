@@ -6,8 +6,8 @@ h1 {
 
 .holder {
     width: 200px;
-    height: 50px;
-    transform: skew(20deg);
+    height: 70px;
+    transform: skew(-30deg);
     background: #555;
 }
 
