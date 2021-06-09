@@ -6,7 +6,7 @@ h1 {
 
 .holder {
     width: 200px;
-    height: 70px;
+    height: 80px;
     transform: skew(-30deg);
     background: #555;
 }
