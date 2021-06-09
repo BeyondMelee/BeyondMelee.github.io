@@ -3,3 +3,20 @@ h1 {
     text-align: center;
     font-size: 56px;
 }
+
+.holder {
+    width: 200px;
+    height: 50px;
+    transform: skew(20deg);
+    background: #555;
+}
+
+.center-div {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.center-text {
+    text-align: center;
+}
