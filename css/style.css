@@ -20,3 +20,27 @@ h1 {
 .center-text {
     text-align: center;
 }
+
+
+.brand-orange {
+    color: #ff5e00;
+}
+
+.brand-blue {
+    color: #0caee6;
+}
+
+.parallax {
+    background-image: url("");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.glowing-border {
+    border: 2px solid #ff5e00;
+    border-radius: 7px;
+    outline: none;
+    box-shadow: 0 0 10px #ff5e00;
+}
