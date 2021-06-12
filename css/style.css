@@ -1,5 +1,5 @@
 h1 {
-    color: #000000;
+    color: #fefefe;
     text-align: center;
     font-size: 56px;
 }
@@ -43,4 +43,8 @@ h1 {
     border-radius: 7px;
     outline: none;
     box-shadow: 0 0 10px #ff5e00;
+}
+
+.bottom-gap{
+    margin-bottom: 30px;
 }
