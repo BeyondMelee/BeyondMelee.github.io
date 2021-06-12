@@ -39,10 +39,10 @@ h1 {
 }
 
 .glowing-border {
-    border: 5% solid #ff5e00;
+    border: 2px solid #ff5e00;
     border-radius: 7px;
     outline: none;
-    box-shadow: 0 0 10px #ff5e00;
+    box-shadow: 0 0 12px #ff5e00;
 }
 
 .bottom-gap{
