@@ -35,7 +35,7 @@ h1 {
 }
 
 .no-transform {
-    transform: none;
+    transform: skew(25deg);
 }
 
 
