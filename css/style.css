@@ -1,6 +1,13 @@
+@font-face {
+    font-family: 'zef_rave';
+    src: url("/fonts/ZeF_RAVE/ZeF_RAVE.ttf")
+}
+
+
 h1 {
     color: #fefefe;
     text-align: center;
+    font-family: zef_rave;
     font-size: 56px;
 }
 
