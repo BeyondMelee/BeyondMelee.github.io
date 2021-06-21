@@ -11,6 +11,11 @@ h1 {
     font-size: 56px;
 }
 
+video {
+    position: relative;
+    z-index: 0;
+}
+
 .blur {
     filter: blur(8px);
     -webkit-filter: blur(8px);
