@@ -14,7 +14,7 @@ h1 {
 .holder {
     width: 200px;
     height: 80px;
-    transform: skew(-30deg);
+    transform: skew(-25deg);
     background: #555;
 }
 
@@ -32,6 +32,10 @@ h1 {
     padding: 0px;
     margin: 0px;
     border: 0px;
+}
+
+.no-transform {
+    transform: none;
 }
 
 
