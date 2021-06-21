@@ -11,6 +11,21 @@ h1 {
     font-size: 56px;
 }
 
+.blur {
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+}
+
+#bgVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+}
+
 .holder {
     width: 200px;
     height: 80px;
