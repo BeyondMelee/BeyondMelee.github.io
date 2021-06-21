@@ -28,6 +28,12 @@ h1 {
     text-align: center;
 }
 
+.no-border {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
 
 .brand-orange {
     color: #ff5e00;
