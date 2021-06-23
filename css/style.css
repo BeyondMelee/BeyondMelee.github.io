@@ -38,11 +38,11 @@ nav {
 .holder {
     width: 200px;
     height: 80px;
-    transform: skew(-25deg);
     background: #555;
 }
 
 .holder::before {
+    position: absolute;
     transform: skew(-25deg);
 }
 
