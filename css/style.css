@@ -13,6 +13,7 @@ h1 {
 
 video {
     position: relative;
+    z-index: 0;
 }
 
 nav {
@@ -35,28 +36,14 @@ nav {
 }
 
 .holder {
-    position: relative;
-    display: inline-block;
     width: 200px;
     height: 80px;
+    transform: skew(-25deg);
     background: #555;
-    overflow: hidden;
 }
 
-.holder::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    -webkit-transform-origin: 100% 0;
-    -ms-transform-origin: 100% 0;
-    transform-origin: 100% 0;
-    -webkit-transform: skew(-25deg);
-    -ms-transform: skew(-25deg);
+.holder::before {
     transform: skew(-25deg);
-    z-index: -1;
 }
 
 .center-div {
@@ -73,6 +60,10 @@ nav {
     padding: 0px;
     margin: 0px;
     border: 0px;
+}
+
+.no-transform {
+    transform: skew(25deg);
 }
 
 
