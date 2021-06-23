@@ -16,6 +16,10 @@ video {
     z-index: 0;
 }
 
+nav {
+    text-align: center;
+}
+
 .blur {
     filter: blur(8px);
     -webkit-filter: blur(8px);
@@ -34,8 +38,14 @@ video {
 .holder {
     width: 200px;
     height: 80px;
-    transform: skew(-25deg);
     background: #555;
+}
+
+.holder::after {
+    content: '';
+    -webkit-transform: skew(-25deg);
+    -ms-transform: skew(-25deg);
+    transform: skew(-25deg);
 }
 
 .center-div {
