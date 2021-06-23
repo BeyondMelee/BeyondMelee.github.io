@@ -39,10 +39,14 @@ nav {
     width: 200px;
     height: 80px;
     background: #555;
+    overflow: hidden;
 }
 
 .holder::after {
     content: '';
+    -webkit-transform-origin: 100% 0;
+    -ms-transform-origin: 100% 0;
+    transform-origin: 100% 0;
     -webkit-transform: skew(-25deg);
     -ms-transform: skew(-25deg);
     transform: skew(-25deg);
@@ -62,10 +66,6 @@ nav {
     padding: 0px;
     margin: 0px;
     border: 0px;
-}
-
-.no-transform {
-    transform: skew(25deg);
 }
 
 
