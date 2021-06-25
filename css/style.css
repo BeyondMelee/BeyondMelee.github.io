@@ -20,12 +20,9 @@ nav {
     text-align: center;
     width: 60%;
     overflow: hidden;
-    position: fixed;
-    z-index: 1;
     padding-top: 4px;
     padding-bottom: 4px;
     margin: auto;
-    background-size: 300px 300px;
     border: 5px #333;
     border-radius: 8px;
     background-color: #3330;
