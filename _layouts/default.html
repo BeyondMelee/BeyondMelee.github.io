@@ -1,5 +1,22 @@
 <!DOCTYPE html>
 
 <html>
-{{ content }}
+    <head>
+        {% include header.html %}
+        <title>{{ page.title }}</title>
+    </head>
+
+    {% include nav-bar.html %}
+
+    <div>
+        <h1>
+            Beyond Melee Website
+        </h1>
+        <div>
+            <body class="parallax">
+                {{content}}
+            </body>
+        </div>
+
+        {% include footer.html %}
 </html>
