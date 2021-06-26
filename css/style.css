@@ -167,8 +167,11 @@ main, p, article {
 }
 
 #introVideo {
-    display: block;
     width: 600px;
     max-width: 50%;
+    left: 50%;
     margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
