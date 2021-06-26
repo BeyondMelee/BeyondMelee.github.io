@@ -1,5 +1,5 @@
 ---
-layout: char
+layout: character
 title: Mario
 image: mario.png
 --
