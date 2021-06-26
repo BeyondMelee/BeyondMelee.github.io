@@ -4,5 +4,5 @@ title: Mario
 image: mario.png
 ---
 
-##Changes to Mario
+## Changes to Mario
 ![Mario](/images/content/css/mario.png)
