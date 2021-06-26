@@ -22,9 +22,12 @@ a:hover {
     text-decoration: none;
 }
 
+a:active {
+    color: #ff5e00;
+    text-decoration: none;
+}
+
 a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
     appearance: button;
 
     text-align: center;
@@ -34,11 +37,6 @@ a.button {
     color: #010101;
     padding: 6px;
     border-radius: 8px;
-}
-
-a.active {
-    color: #ff5e00;
-    text-decoration: none;
 }
 
 h1 {
