@@ -76,7 +76,8 @@ main, p, article {
     position: fixed;
     right: 0;
     bottom: 0;
-    width: 100%;
+    width: 75%;
+    min-width: 75%;
     margin: 0 auto;
 }
 
