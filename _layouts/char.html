@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        {% include header.html %}
+        <title>Beyond Melee: {{ page.title }}</title>
+    </head>
+
+    {% include nav-bar.html %}
+
+    <div>
+        <h1>
+            Beyond Melee Website
+        </h1>
+        <div>
+            <body class="parallax">
+                {{content}}
+            </body>
+        </div>
+
+        {% include footer.html %}
+</html>

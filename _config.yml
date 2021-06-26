@@ -3,5 +3,5 @@ name: Beyond melee
 collections_dir: collections
 
 collections:
-    changelogs:
+    characters:
         output: true
