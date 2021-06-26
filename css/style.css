@@ -167,10 +167,7 @@ main, p, article {
 }
 
 #introVideo {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    width: 400px;
+    width: 600px;
     max-width: 50%;
-    margin: 0 auto;
+    margin:auto;
 }
