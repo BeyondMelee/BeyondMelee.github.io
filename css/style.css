@@ -170,5 +170,5 @@ main, p, article {
     display: block;
     width: 600px;
     max-width: 50%;
-    margin:auto;
+    margin: 0 auto;
 }
