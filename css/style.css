@@ -7,6 +7,29 @@
     src: url("/fonts/Montserrat_Black/Montserrat-Black.otf")
 }
 
+a {
+    font-family: monts;
+}
+
+a:link {
+    color: lightgray;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #0caee6;
+    text-decoration: none;
+}
+
+a:hover {
+    color: gray;
+    text-decoration: none;
+}
+
+a:active {
+    color: #ff5e00;
+    text-decoration: none;
+}
 
 h1 {
     color: #fefefe;
