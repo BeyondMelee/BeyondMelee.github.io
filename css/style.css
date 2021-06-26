@@ -59,6 +59,8 @@ nav {
 
 main, p, article {
     font-family: monts;
+    color: white;
+    text-align: center;
 }
 
 .blur {
