@@ -1,7 +1,8 @@
 ---
 layout: character
-title: Mario
+title: mario
 image: mario.png
+name: Mario
 ---
 
 ## Changes to Mario
