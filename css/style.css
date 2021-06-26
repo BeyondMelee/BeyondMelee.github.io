@@ -167,6 +167,7 @@ main, p, article {
 }
 
 #introVideo {
+    display: block;
     width: 600px;
     max-width: 50%;
     margin:auto;
