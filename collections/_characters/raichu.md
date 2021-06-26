@@ -5,5 +5,5 @@ image: raichu.png
 name: raichu
 ---
 
-## Changes to Mario
+## Introduction of Raichu
 ![raichu](/images/content/css/raichu.png)

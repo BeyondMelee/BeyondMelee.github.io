@@ -5,5 +5,5 @@ image: roy.png
 name: roy
 ---
 
-## Changes to Mario
+## Changes to Roy
 ![roy](/images/content/css/roy.png)

@@ -5,5 +5,5 @@ image: zelda.png
 name: zelda
 ---
 
-## Changes to Mario
+## Changes to Zelda
 ![zelda](/images/content/css/zelda.png)

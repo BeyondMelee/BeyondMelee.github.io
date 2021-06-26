@@ -5,5 +5,5 @@ image: drmario.png
 name: Dr. Mario
 ---
 
-## Changes to Mario
+## Changes to Dr. Mario
 ![Dr. Mario](/images/content/css/drmario.png)

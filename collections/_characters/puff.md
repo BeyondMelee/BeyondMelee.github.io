@@ -5,5 +5,5 @@ image: puff.png
 name: puff
 ---
 
-## Changes to Mario
+## Changes to Jiggilypuff
 ![puff](/images/content/css/puff.png)

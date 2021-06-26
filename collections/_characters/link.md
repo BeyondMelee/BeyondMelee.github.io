@@ -5,5 +5,5 @@ image: link.png
 name: link
 ---
 
-## Changes to Mario
+## Changes to Link
 ![link](/images/content/css/link.png)

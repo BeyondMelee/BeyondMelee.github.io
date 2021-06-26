@@ -5,5 +5,5 @@ image: ganon.png
 name: Ganon
 ---
 
-## Changes to Mario
+## Changes to Ganon
 ![Ganon](/images/content/css/ganon.png)

@@ -5,5 +5,5 @@ image: fay.png
 name: fay
 ---
 
-## Changes to Mario
+## Introduction of Fay
 ![fay](/images/content/css/fay.png)

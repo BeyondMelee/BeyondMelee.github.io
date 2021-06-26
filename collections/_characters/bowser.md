@@ -5,5 +5,5 @@ image: bowser.png
 name: Bowser
 ---
 
-## Changes to Mario
+## Changes to Bowser
 ![Bowser](/images/content/css/bowser.png)

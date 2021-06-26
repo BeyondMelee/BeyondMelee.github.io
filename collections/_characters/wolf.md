@@ -5,5 +5,5 @@ image: wolf.png
 name: wolf
 ---
 
-## Changes to Mario
+## Upgrades to Wolf in Melee
 ![wolf](/images/content/css/wolf.png)

@@ -5,5 +5,5 @@ image: smewtwo.png
 name: smewtwo
 ---
 
-## Changes to Mario
+## Introduction of Shadow Mewtwo
 ![smewtwo](/images/content/css/smewtwo.png)

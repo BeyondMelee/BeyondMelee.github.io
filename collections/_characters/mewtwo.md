@@ -5,5 +5,5 @@ image: mewtwo.png
 name: mewtwo
 ---
 
-## Changes to Mario
+## Changes to Mewtwo
 ![mewtwo](/images/content/css/mewtwo.png)

@@ -5,5 +5,5 @@ image: younglink.png
 name: younglink
 ---
 
-## Changes to Mario
+## Changes to Young Link
 ![younglink](/images/content/css/younglink.png)

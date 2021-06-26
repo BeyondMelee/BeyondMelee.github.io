@@ -5,5 +5,5 @@ image: falcon.png
 name: Captain Falcon
 ---
 
-## Changes to Mario
+## Changes to Captain Falcon
 ![Captain Falcon](/images/content/css/falcon.png)

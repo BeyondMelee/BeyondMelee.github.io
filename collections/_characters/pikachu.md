@@ -5,5 +5,5 @@ image: pikachu.png
 name: pikachu
 ---
 
-## Changes to Mario
+## Changes to Pikachu
 ![pikachu](/images/content/css/pikachu.png)

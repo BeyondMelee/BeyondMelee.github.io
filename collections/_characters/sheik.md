@@ -5,5 +5,5 @@ image: sheik.png
 name: sheik
 ---
 
-## Changes to Mario
+## Changes to Sheik
 ![sheik](/images/content/css/sheik.png)

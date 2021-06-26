@@ -5,5 +5,5 @@ image: dk.png
 name: Donkey Kong
 ---
 
-## Changes to Mario
+## Changes to Donkey Kong
 ![Donkey Kong](/images/content/css/dk.png)
