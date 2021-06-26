@@ -68,12 +68,16 @@ main, p, article {
     -webkit-filter: blur(8px);
 }
 
+.black-bg {
+    background-color: black;
+}
+
 #introVideo {
     position: fixed;
     right: 0;
     bottom: 0;
-    min-width: 75%;
-    min-height: 100%;
+    width: 100%;
+    margin: 0 auto;
 }
 
 .container {
