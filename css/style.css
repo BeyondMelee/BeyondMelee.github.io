@@ -27,8 +27,13 @@ a.button {
     -moz-appearance: button;
     appearance: button;
 
+    text-align: center;
+    font-size: 24px;
     text-decoration: none;
-    background-color: #ff5e00
+    background-color: #ff5e00;
+    color: #010101;
+    padding: 2px;
+    border-radius: 6px;
 }
 
 a.active {
