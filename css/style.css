@@ -125,7 +125,7 @@ main, p, article {
     text-align: center;
 }
 
-.no-border {
+.no-spacing {
     padding: 0px;
     margin: 0px;
     border: 0px;
