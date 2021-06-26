@@ -28,12 +28,12 @@ a.button {
     appearance: button;
 
     text-align: center;
-    font-size: 24px;
+    font-size: 30px;
     text-decoration: none;
     background-color: #ff5e00;
     color: #010101;
-    padding: 2px;
-    border-radius: 6px;
+    padding: 6px;
+    border-radius: 8px;
 }
 
 a.active {
