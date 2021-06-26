@@ -101,12 +101,6 @@ main, p, article {
     margin-bottom: 30px;
 }
 
-.center-div {
-    margin: auto;
-    width: 65%;
-    padding: 10px;
-}
-
 .center-text {
     text-align: center;
 }
