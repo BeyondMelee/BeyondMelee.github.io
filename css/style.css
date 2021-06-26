@@ -84,35 +84,16 @@ main, p, article {
     background-color: black;
 }
 
-#introVideo {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    width: 100%;
-    margin: 0 auto;
+.brand-blue {
+    color: #0caee6;
 }
 
-.container {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-evenly;
-    align-items: stretch;
-    align-content: space-evenly;
+.brand-orange {
+    color: #ff5e00;
 }
 
-.item {
-    flex: 1 1 auto;
-}
-
-.holder {
-    width: 65%;
-    height: 80px;
-    background: #555;
-}
-
-.holder::before {
-    position: absolute;
-    transform: skew(-25deg);
+.bottom-gap{
+    margin-bottom: 30px;
 }
 
 .center-div {
@@ -125,31 +106,12 @@ main, p, article {
     text-align: center;
 }
 
-.no-spacing {
-    padding: 0px;
-    margin: 0px;
-    border: 0px;
-}
-
-.no-transform {
-    transform: skew(25deg);
-}
-
-
-.brand-orange {
-    color: #ff5e00;
-}
-
-.brand-blue {
-    color: #0caee6;
-}
-
-.parallax {
-    background-image: url("/images/graphics/bg.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: stretch;
+    align-content: space-evenly;
 }
 
 .glow-orange {
@@ -166,6 +128,47 @@ main, p, article {
     box-shadow: 0 0 12px #0caee6;
 }
 
-.bottom-gap{
-    margin-bottom: 30px;
+.holder {
+    width: 65%;
+    height: 80px;
+    background: #555;
+}
+
+.holder::before {
+    position: absolute;
+    transform: skew(-25deg);
+}
+
+.item {
+    flex: 1 1 auto;
+}
+
+.light-font {
+    color: #fefefe;
+}
+
+.no-spacing {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+.no-transform {
+    transform: skew(25deg);
+}
+
+.parallax {
+    background-image: url("/images/graphics/bg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#introVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    margin: 0 auto;
 }
