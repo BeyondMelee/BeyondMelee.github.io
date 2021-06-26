@@ -28,7 +28,7 @@ a.button {
     appearance: button;
 
     text-decoration: none;
-    color: initial;
+    background-color: #ff5e00
 }
 
 a.active {
