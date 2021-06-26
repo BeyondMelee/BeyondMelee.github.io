@@ -2,6 +2,10 @@
     font-family: 'zef_rave';
     src: url("/fonts/ZeF_RAVE/ZeF_RAVE.ttf")
 }
+@font-face {
+    font-family: 'monts';
+    src: url("/fonts/Montserrat_Black/Montserrat-Black.otf")
+}
 
 
 h1 {
@@ -17,6 +21,7 @@ video {
 }
 
 nav {
+    font-family: monts;
     text-align: center;
     width: 60%;
     overflow: hidden;
@@ -26,6 +31,10 @@ nav {
     border: 5px #333;
     border-radius: 8px;
     background-color: #3330;
+}
+
+main, p, article {
+    font-family: monts;
 }
 
 .blur {
