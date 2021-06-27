@@ -111,6 +111,7 @@ main, p, article {
     align-content: space-evenly;
     background: rgba(0.5, 0.5, 0.5, 0.5);
     width: 65%;
+    margin: 0 auto;
 }
 
 .glow-orange {
