@@ -104,6 +104,7 @@ main, p, article {
 }
 
 .container {
+    padding: 10px;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
@@ -148,6 +149,7 @@ main, p, article {
 
 .item {
     flex: 1 1 auto;
+    padding: 5px;
     background-color: #555;
 }
 
