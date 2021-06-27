@@ -149,7 +149,8 @@ main, p, article {
 
 .item {
     flex: 1 1 auto;
-    padding: 5px;
+    padding: 0px;
+    margin: 5px;
     background-color: #555;
 }
 
