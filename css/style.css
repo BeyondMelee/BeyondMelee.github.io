@@ -109,7 +109,8 @@ main, p, article {
     justify-content: space-evenly;
     align-items: stretch;
     align-content: space-evenly;
-    background: rgba(0.5, 0.5, 0.5, 0.5)
+    background: rgba(0.5, 0.5, 0.5, 0.5);
+    width: 65%;
 }
 
 .glow-orange {
@@ -139,11 +140,14 @@ main, p, article {
     transform: skew(-25deg);
 }
 
+.images {
+    min-height: 250px;
+    max-height: 250px;
+}
+
 .item {
     flex: 1 1 auto;
     background-color: #555;
-    min-height: 250px;
-    max-height: 250px;
 }
 
 .light-font {
