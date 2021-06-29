@@ -153,9 +153,7 @@ main, p, article {
 
 .holder::before {
     content: "";
-    position: absolute;
     transform: skew(-25deg);
-
 }
 
 .images {
