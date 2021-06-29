@@ -194,6 +194,12 @@ main, p, article {
     background-repeat: no-repeat;
 }
 
+.title-image {
+    max-height: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 #introVideo {
     width: 600px;
     max-width: 50%;
