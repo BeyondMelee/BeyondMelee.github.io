@@ -2,6 +2,7 @@
     font-family: 'zef_rave';
     src: url("/fonts/ZeF_RAVE/ZeF_RAVE.ttf")
 }
+
 @font-face {
     font-family: 'monts';
     src: url("/fonts/Montserrat_Black/Montserrat-Black.otf")
@@ -87,6 +88,12 @@ main, p, article {
     background-color: black;
 }
 
+.blurb {
+    color: white;
+    background-color: black;
+    font-size: 16px;
+}
+
 .brand-blue {
     color: #0caee6;
 }
@@ -145,13 +152,18 @@ main, p, article {
 .images {
     min-height: 250px;
     max-height: 250px;
+    transition: .5s ease;
 }
 
 .item {
     flex: 1 1 auto;
     padding: 0px;
     margin: 5px;
-    background-color: #555;
+    background-image: linear-gradient(grey, black);
+}
+
+.item:hover .blurb {
+    opacity: 0.5;
 }
 
 .light-font {
