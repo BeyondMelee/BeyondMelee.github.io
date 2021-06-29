@@ -129,6 +129,10 @@ main, p, article {
     margin: 0 auto;
 }
 
+.content {
+    position: relative;
+}
+
 .glow-orange {
     border: 2px solid #ff5e00;
     border-radius: 7px;
@@ -153,6 +157,7 @@ main, p, article {
 
 .holder::before {
     content: "";
+    position: absolute;
     transform: skew(-25deg);
 }
 
