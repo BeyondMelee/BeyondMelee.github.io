@@ -148,12 +148,13 @@ main, p, article {
     margin-right: auto;
     width: 65%;
     height: 80px;
-    transform: skew(-25deg);
     background: #555;
 }
 
 .holder::before {
+    content: "";
     position: absolute;
+    transform: skew(-25deg);
 
 }
 
