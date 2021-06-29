@@ -2,3 +2,14 @@
 layout: default
 title: Beyond Melee Changelog
 ---
+<ul class="container glow-blue">
+    {% for change in site.changelog %}
+        <li class="item glow-orange">
+            <h1>
+                {{ change.title }}
+            </h1>
+            <p>
+                {{ change.contents }}
+        </li>
+    {% endfor %}
+</ul>
