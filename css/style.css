@@ -110,6 +110,12 @@ main, p, article {
     text-align: center;
 }
 
+.center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .container {
     padding: 15px;
     display: flex;
