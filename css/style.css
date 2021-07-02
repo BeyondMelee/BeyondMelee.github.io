@@ -158,7 +158,7 @@ main, p, article {
 
 .holder::before {
     content: "";
-    display: flex;
+    display: inline-block;
     transform: skew(-25deg);
     backface-visibility: hidden;
 }
