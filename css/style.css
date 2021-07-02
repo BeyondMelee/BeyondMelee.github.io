@@ -160,6 +160,8 @@ main, p, article {
     content: "";
     display: inline-block;
     transform: skew(-25deg);
+    -webkit-transform: skew(-25deg);
+    -moz-transform: skew(-25deg);
     backface-visibility: hidden;
 }
 
