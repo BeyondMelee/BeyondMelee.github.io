@@ -154,7 +154,6 @@ main, p, article {
     height: 80px;
     background: #555;
     position: relative;
-    display: inline-block;
 }
 
 .holder::before {
