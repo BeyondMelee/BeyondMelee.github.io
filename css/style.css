@@ -154,6 +154,7 @@ main, p, article {
     height: 80px;
     background: #555;
     position: relative;
+    display: inline-block;
 }
 
 .holder::before {
@@ -162,6 +163,7 @@ main, p, article {
     transform: skew(-25deg);
     -webkit-transform: skew(-25deg);
     -moz-transform: skew(-25deg);
+    -o-transform: skew(-25deg);
     backface-visibility: hidden;
 }
 
