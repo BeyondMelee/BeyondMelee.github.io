@@ -153,10 +153,10 @@ main, p, article {
     width: 65%;
     height: 80px;
     background: #555;
-    position: relative;
+    /* position: relative; */
 }
 
-.holder::before {
+/* .holder::before {
     content: "";
     display: inline-block;
     transform: skew(-25deg);
@@ -164,7 +164,7 @@ main, p, article {
     -moz-transform: skew(-25deg);
     -o-transform: skew(-25deg);
     backface-visibility: hidden;
-}
+} */
 
 .images {
     min-height: 250px;
