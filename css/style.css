@@ -8,6 +8,12 @@
     src: url("/fonts/Montserrat_Black/Montserrat-Black.otf")
 }
 
+@keyframes fade {
+    from {box-shadow: 0 0 12px #ff5e00;}
+    to {box-shadow: 0 0 12px #0caee6;}
+    to {box-shadow: 0 0 12px #ff5e00;}
+}
+
 a:link {
     color: lightgray;
     text-decoration: none;
@@ -133,6 +139,19 @@ main, p, article {
     position: relative;
 }
 
+.download-glow {
+    border: 2px solid #ff5e00;
+    border-radius: 7px;
+    outline: none;
+    box-shadow: 0 0 12px #ff5e00;
+}
+
+.download-glow:hover {
+    animation-name: fade;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
 .glow-orange {
     border: 2px solid #ff5e00;
     border-radius: 7px;
@@ -152,7 +171,7 @@ main, p, article {
     margin-right: auto;
     width: 65%;
     height: 80px;
-    background: #555;
+    background: rgba(0.6, 0.6, 0.6, 0.6);
     /* position: relative; */
 }
 
@@ -187,6 +206,10 @@ main, p, article {
     color: #fefefe;
 }
 
+.main-home {
+    background: rgba(0.6, 0.6, 0.6, 0.6);
+}
+
 .no-spacing {
     padding: 0px;
     margin: 0px;
@@ -203,6 +226,10 @@ main, p, article {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.sidebar {
+    width: 25%;
 }
 
 .testclass {
