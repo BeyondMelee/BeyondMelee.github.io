@@ -144,9 +144,9 @@ main, p, article {
     border-radius: 7px;
     outline: none;
     box-shadow: 0 0 12px #ff5e00;
-} */
+}
 
-/* .download-glow:hover {
+.download-glow:hover {
     animation-name: fade;
     animation-duration: 5s;
     animation-iteration-count: infinite;
