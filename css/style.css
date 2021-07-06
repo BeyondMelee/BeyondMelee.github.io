@@ -249,6 +249,15 @@ main, p, article {
     margin-bottom: 20px;
 }
 
+.twitter-timeline {
+    position: static;
+    visibility: visible;
+    display: inline-block_0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    min-height: 200px;
+}
+
 #introVideo {
     width: 600px;
     max-width: 50%;
