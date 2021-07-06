@@ -37,6 +37,7 @@ a:active {
 a.button {
     appearance: button;
     font-family: monts;
+    width: 100px;
     text-align: center;
     font-size: 30px;
     text-decoration: none;
