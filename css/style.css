@@ -230,6 +230,7 @@ main, p, article {
 
 .sidebar {
     width: 25%;
+    margin: 10px;
 }
 
 .testclass {
