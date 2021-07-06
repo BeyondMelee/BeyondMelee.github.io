@@ -263,6 +263,10 @@ main, p, article {
     padding: 300px 0px;
 }
 
+.top-gap {
+    margin-top: 30px;
+}
+
 .twitter-timeline {
     position: static;
     visibility: visible;
