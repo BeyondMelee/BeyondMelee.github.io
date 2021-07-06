@@ -261,6 +261,11 @@ main, p, article {
     min-height: 200px;
 }
 
+.vert-align{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
 #introVideo {
     width: 600px;
     max-width: 50%;
