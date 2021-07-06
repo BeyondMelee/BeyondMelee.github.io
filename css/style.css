@@ -221,6 +221,7 @@ main, p, article {
 
 .page-title {
     height: auto;
+    margin: auto;
 }
 
 .parallax {
