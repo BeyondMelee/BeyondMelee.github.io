@@ -80,18 +80,9 @@ main, p, article {
     text-align: center;
 }
 
-video {
+/* video {
 
-}
-
-.blur {
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
-}
-
-.black-bg {
-    background-color: black;
-}
+} */
 
 .blurb {
     color: white;
