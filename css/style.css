@@ -254,7 +254,17 @@ main, p, article {
     min-height: 200px;
 }
 
-.vid-parallax {
+#introVideo {
+    width: 600px;
+    max-width: 50%;
+    left: 50%;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#headerVideo {
     position: absolute;
     top: 0;
     left: 0;
@@ -265,14 +275,4 @@ main, p, article {
     z-index: -1;
     object-position: center;
     object-fit: cover;
-}
-
-#introVideo {
-    width: 600px;
-    max-width: 50%;
-    left: 50%;
-    margin: 0 auto;
-    position: absolute;
-    top: 50%;
-    transform: translate(-50%, -50%);
 }
