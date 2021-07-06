@@ -211,8 +211,7 @@ main, p, article {
 }
 
 .page-title {
-    max-height: 300px;
-    height: 15%;
+    height: 35%;
 }
 
 .parallax {
