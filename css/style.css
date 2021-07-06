@@ -156,6 +156,10 @@ main, p, article {
     box-shadow: 0 0 12px #0caee6;
 }
 
+.header-image {
+    background-image: url("/images/graphics/bg.jpg")
+}
+
 .holder {
     margin-left: auto;
     margin-right: auto;
