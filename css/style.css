@@ -157,7 +157,10 @@ main, p, article {
 }
 
 .header-image {
-    background-image: url("/images/graphics/bg.jpg")
+    height: 40%;
+    width: 100%;
+    background-image: url("/images/graphics/bg.jpg");
+    background-size: cover;
 }
 
 .holder {
