@@ -37,7 +37,7 @@ a:active {
 a.button {
     appearance: button;
     font-family: monts;
-    width: 100px;
+    width: 200px;
     text-align: center;
     font-size: 30px;
     text-decoration: none;
@@ -251,6 +251,10 @@ main, p, article {
     max-height: 100px;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+.title-margin {
+    margin: auto 300;
 }
 
 .twitter-timeline {
