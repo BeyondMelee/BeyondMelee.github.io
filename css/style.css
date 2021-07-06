@@ -158,6 +158,10 @@ main, p, article {
 
 .header-image {
     background-image: url("/images/graphics/bg.jpg");
+    height: 50%;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
 }
 
 .holder {
@@ -215,7 +219,7 @@ main, p, article {
 }
 
 .page-title {
-    height: 1000px;
+    height: 500px;
 }
 
 .parallax {
