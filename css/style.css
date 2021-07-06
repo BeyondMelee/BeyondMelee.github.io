@@ -254,7 +254,7 @@ main, p, article {
 }
 
 .title-margin {
-    padding: 300px auto;
+    padding: 300px 0px;
 }
 
 .twitter-timeline {
