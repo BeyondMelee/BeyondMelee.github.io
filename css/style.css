@@ -47,6 +47,10 @@ a.button {
     border-radius: 8px;
 }
 
+body {
+    margin: 0;
+}
+
 h1 {
     color: #fefefe;
     text-align: center;
