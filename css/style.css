@@ -104,12 +104,16 @@ main, p, article {
     color: #0caee6;
 }
 
-.brand-orange {
-    color: #ff5e00;
+.brand-link {
+    float: left;
 }
 
 .brand-logo {
     max-width: 100px
+}
+
+.brand-orange {
+    color: #ff5e00;
 }
 
 .bottom-gap{
@@ -222,6 +226,10 @@ main, p, article {
     background: rgba(0.6, 0.6, 0.6, 0.6);
 }
 
+.nav-pages {
+    float: right;
+}
+
 .no-spacing {
     padding: 0px;
     margin: 0px;
@@ -235,6 +243,10 @@ main, p, article {
 .page-title {
     height: auto;
     margin: auto;
+}
+
+.page-wide {
+    width: 70%;
 }
 
 .parallax {
