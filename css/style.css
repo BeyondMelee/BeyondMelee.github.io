@@ -48,6 +48,10 @@ a.button {
     border-radius: 8px;
 }
 
+a.nav {
+
+}
+
 body {
     margin: 0;
     background-color: black;
@@ -69,10 +73,10 @@ h2 {
 
 nav {
     font-family: monts;
-    font-size: 32px;
+    font-size: 26px;
     text-align: center;
     overflow: hidden;
-    padding: 12px 0px;
+    padding: 16px 0px;
     margin: auto;
     border: 5px #333;
     border-radius: 8px;
@@ -108,7 +112,7 @@ main, p, article {
 }
 
 .brand-logo {
-    max-width: 120px
+    max-width: 140px
 }
 
 .brand-orange {
