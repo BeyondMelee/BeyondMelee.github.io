@@ -50,11 +50,6 @@ a.button {
 
 body {
     margin: 0;
-    background-image: url("/images/graphics/bg1.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
 }
 
 h1 {
@@ -93,6 +88,10 @@ main, p, article {
 
 } */
 
+.black-bg {
+    background-color: black;
+}
+
 .blurb {
     color: white;
     background-color: black;
@@ -108,7 +107,7 @@ main, p, article {
 }
 
 .brand-logo {
-    max-width: 100px
+    max-width: 120px
 }
 
 .brand-orange {
@@ -187,6 +186,9 @@ main, p, article {
     width: 65%;
     height: 80px;
     background: rgba(0.6, 0.6, 0.6, 0.6);
+    padding: 8px;
+    height: fit-content;
+    height: -moz-fit-content;
     /* position: relative; */
 }
 
