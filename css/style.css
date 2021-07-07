@@ -75,7 +75,6 @@ nav {
     font-family: monts;
     font-size: 32px;
     text-align: center;
-    width: 60%;
     overflow: hidden;
     padding: 12px 0px;
     margin: auto;
@@ -247,6 +246,7 @@ main, p, article {
 
 .page-wide {
     width: 70%;
+    margin: 0 auto;
 }
 
 .parallax {
