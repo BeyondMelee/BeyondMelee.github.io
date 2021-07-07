@@ -56,7 +56,7 @@ a.button {
     text-decoration: none;
     background-color: #ff5e00;
     color: #010101;
-    padding: 6px;
+    padding: 8px;
     border-radius: 8px;
 }
 
@@ -70,7 +70,7 @@ a.discord {
     text-decoration: none;
     background-color: #5865F2;
     color: #FFFFFF;
-    padding: 6px;
+    padding: 8px;
     border-radius: 8px;
 }
 
@@ -89,7 +89,7 @@ a.patreon {
     text-decoration: none;
     background-color: #FF424D;
     color: #FFFFFF;
-    padding: 6px;
+    padding: 8px;
     border-radius: 8px;
 }
 
@@ -253,12 +253,11 @@ main, p, article {
 .holder {
     margin-left: auto;
     margin-right: auto;
-    width: 65%;
+    width: 70%;
+    min-height: 400px;
     /* height: 80px; */
     background: rgba(0.6, 0.6, 0.6, 0.6);
     padding: 8px;
-    height: fit-content;
-    height: -moz-fit-content;
     /* position: relative; */
 }
 
