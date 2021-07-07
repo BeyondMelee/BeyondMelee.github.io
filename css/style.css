@@ -65,6 +65,7 @@ a.discord {
     font-family: monts;
     width: -moz-fit-content;
     width: fit-content;
+    max-height: 25px;
     text-align: right;
     font-size: 20px;
     text-decoration: none;
@@ -84,6 +85,7 @@ a.patreon {
     font-family: monts;
     width: -moz-fit-content;
     width: fit-content;
+    max-height: 25px;
     text-align: right;
     font-size: 20px;
     text-decoration: none;
@@ -104,6 +106,7 @@ a.twitter {
     width: -moz-fit-content;
     width: fit-content;
     text-align: right;
+    max-height: 25px;
     font-size: 20px;
     text-decoration: none;
     background-color: #1DA1F2;
