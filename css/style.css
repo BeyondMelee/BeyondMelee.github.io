@@ -63,7 +63,8 @@ a.button {
 a.discord {
     appearance: button;
     font-family: monts;
-    width: 120px;
+    width: -moz-fit-content;
+    width: fit-content;
     text-align: right;
     font-size: 20px;
     text-decoration: none;
@@ -75,13 +76,14 @@ a.discord {
 
 a.discord::before {
     font-family: icons;
-    content: '';
+    content: ' ';
 }
 
 a.patreon {
     appearance: button;
     font-family: monts;
-    width: 120px;
+    width: -moz-fit-content;
+    width: fit-content;
     text-align: right;
     font-size: 20px;
     text-decoration: none;
@@ -93,13 +95,14 @@ a.patreon {
 
 a.patreon::before {
     font-family: icons;
-    content: '';
+    content: ' ';
 }
 
 a.twitter {
     appearance: button;
     font-family: monts;
-    width: 120px;
+    width: -moz-fit-content;
+    width: fit-content;
     text-align: right;
     font-size: 20px;
     text-decoration: none;
@@ -111,7 +114,7 @@ a.twitter {
 
 a.twitter::before {
     font-family: icons;
-    content: '';
+    content: ' ';
 }
 
 a.nav {
