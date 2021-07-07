@@ -77,8 +77,7 @@ nav {
     text-align: center;
     width: 60%;
     overflow: hidden;
-    padding-top: 4px;
-    padding-bottom: 4px;
+    padding: 12px 0px;
     margin: auto;
     border: 5px #333;
     border-radius: 8px;
