@@ -26,6 +26,17 @@
     to {box-shadow: 0 0 12px #ff5e00;}
 }
 
+@keyframes huerotate {
+    0% {
+    -webkit-filter: hue-rotate(0deg);
+    filter: hue-rotate(0deg);
+    }
+    100% {
+    -webkit-filter: hue-rotate(360deg);
+    filter: hue-rotate(360deg);
+    }
+}
+
 a:link {
     color: lightgray;
     text-decoration: none;
@@ -313,8 +324,8 @@ main, p, article {
     transform: skew(25deg);
 }
 
-.page-margin {
-    padding: 300px 0px;
+.page-header-margin {
+    padding: 150px 0px;
 }
 
 .page-title {
@@ -333,6 +344,16 @@ main, p, article {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.rainbow {
+    -webkit-animation: huerotate 30s linear infinite;
+    animation: huerotate 10s linear infinite;
+    background: -webkit-gradient(linear, left top, right top, from(cyan), to(orange));
+    background: linear-gradient(to right, cyan, orange);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .sidebar {
