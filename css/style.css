@@ -108,6 +108,10 @@ main, p, article {
     color: #ff5e00;
 }
 
+.brand-logo {
+    max-width: 100px
+}
+
 .bottom-gap{
     margin-bottom: 30px;
 }
