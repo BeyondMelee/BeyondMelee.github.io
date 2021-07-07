@@ -313,6 +313,10 @@ main, p, article {
     transform: skew(25deg);
 }
 
+.page-margin {
+    padding: 300px 0px;
+}
+
 .page-title {
     height: auto;
     margin: auto;
