@@ -8,6 +8,18 @@
     src: url("/fonts/Montserrat_Black/Montserrat-Black.otf")
 }
 
+@font-face {
+  font-family: 'icomoon';
+  src:  url('/fonts/icons/icomoon.eot?6ne2l2');
+  src:  url('/fonts/icons/icomoon.eot?6ne2l2#iefix') format('embedded-opentype'),
+    url('/fonts/icons/icomoon.ttf?6ne2l2') format('truetype'),
+    url('/fonts/icons/icomoon.woff?6ne2l2') format('woff'),
+    url('/fonts/icons/icomoon.svg?6ne2l2#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
 @keyframes fade {
     from {box-shadow: 0 0 12px #ff5e00;}
     to {box-shadow: 0 0 12px #0caee6;}
@@ -48,8 +60,59 @@ a.button {
     border-radius: 8px;
 }
 
-a.nav {
+a.discord {
+    appearance: button;
+    font-family: monts;
+    width: 200px;
+    text-align: right;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #5865F2;
+    color: #FFFFFF;
+    padding: 6px;
+    border-radius: 8px;
+}
 
+a.discord::before {
+    content: ;
+}
+
+a.patreon {
+    appearance: button;
+    font-family: monts;
+    width: 200px;
+    text-align: right;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #FF424D;
+    color: #FFFFFF;
+    padding: 6px;
+    border-radius: 8px;
+}
+
+a.patreon::before {
+    content: ;
+}
+
+a.twitter {
+    appearance: button;
+    font-family: monts;
+    width: 200px;
+    text-align: right;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #1DA1F2;
+    color: #FFFFFF;
+    padding: 6px;
+    border-radius: 8px;
+}
+
+a.twitter::before {
+    content: ;
+}
+
+a.nav {
+    content:'';
 }
 
 body {
@@ -88,10 +151,6 @@ main, p, article {
     color: white;
     text-align: center;
 }
-
-/* video {
-
-} */
 
 .black-bg {
     background-color: black;
