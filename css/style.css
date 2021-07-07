@@ -50,6 +50,11 @@ a.button {
 
 body {
     margin: 0;
+    background-image: url("/images/graphics/bg1.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 h1 {
@@ -163,7 +168,7 @@ main, p, article {
 }
 
 .header-image {
-    background-image: url("/images/graphics/bg.jpg");
+    background-image: url("/images/graphics/bg2.png");
     height: 50%;
     background-repeat: no-repeat;
     position: relative;
@@ -230,7 +235,7 @@ main, p, article {
 }
 
 .parallax {
-    background-image: url("/images/graphics/bg.jpg");
+    background-image: url("/images/graphics/bg1.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
