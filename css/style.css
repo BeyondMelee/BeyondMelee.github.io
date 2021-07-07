@@ -9,7 +9,7 @@
 }
 
 @font-face {
-  font-family: 'icomoon';
+  font-family: 'icons';
   src:  url('/fonts/icons/icomoon.eot?6ne2l2');
   src:  url('/fonts/icons/icomoon.eot?6ne2l2#iefix') format('embedded-opentype'),
     url('/fonts/icons/icomoon.ttf?6ne2l2') format('truetype'),
@@ -74,6 +74,7 @@ a.discord {
 }
 
 a.discord::before {
+    font-family: icons;
     content: '';
 }
 
@@ -91,6 +92,7 @@ a.patreon {
 }
 
 a.patreon::before {
+    font-family: icons;
     content: '';
 }
 
@@ -108,6 +110,7 @@ a.twitter {
 }
 
 a.twitter::before {
+    font-family: icons;
     content: '';
 }
 
