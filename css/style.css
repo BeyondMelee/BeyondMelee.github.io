@@ -251,13 +251,10 @@ ul {
 }
 
 .csp-overlay {
-    position: relative;
     background-color: black;
     transition: .5s ease;
     opacity: 0;
     margin: 0px;
-    height: 100%;
-    width: 100%;
 }
 
 .csp-text {
