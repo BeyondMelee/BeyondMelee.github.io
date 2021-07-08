@@ -172,14 +172,12 @@ main, p, article {
     text-align: center;
 }
 
-.black-bg {
-    background-color: black;
+ul {
+    list-style-type: none;
 }
 
-.blurb {
-    color: white;
+.black-bg {
     background-color: black;
-    font-size: 16px;
 }
 
 .brand-blue {
@@ -232,6 +230,10 @@ main, p, article {
     background-image: linear-gradient(grey, black);
 }
 
+.char-item:hover .csp-overlay {
+    opacity: 0.5;
+}
+
 .container {
     padding: 15px;
     display: flex;
@@ -246,6 +248,13 @@ main, p, article {
 
 .content {
     position: relative;
+}
+
+.csp-overlay {
+    color: white;
+    background-color: black;
+    font-size: 16px;
+    transition: .5s ease;
 }
 
 /* .download-glow {
@@ -315,10 +324,6 @@ main, p, article {
     padding: 0px;
     margin: 5px;
     background-image: linear-gradient(grey, black);
-}
-
-.item:hover .blurb {
-    opacity: 0.5;
 }
 
 .light-font {
