@@ -251,8 +251,9 @@ ul {
 }
 
 .csp-overlay {
-    display: inline-block;
-    position: relative;
+    position: absolute;
+    top: 0;
+    left: 0;
     background-color: black;
     transition: .5s ease;
     opacity: 0;
