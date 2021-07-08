@@ -5,3 +5,5 @@ collections_dir: collections
 collections:
     characters:
         output: true
+    faqs:
+        output: false

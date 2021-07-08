@@ -7,3 +7,11 @@ title: Beyond Melee FAQ
         <img src="/images/graphics/bm-logo-transparent.png" class="vert-align center title-image"/>
     </div>
 </header>
+
+<div class="holder center-text bottom-gap glow-blue">
+    {% for faq in site.faqs %}
+        <div class="">
+            {{ faq.content }}
+        </div>
+    {% endfor %}
+</div>
