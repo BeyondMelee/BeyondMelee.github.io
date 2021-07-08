@@ -199,6 +199,24 @@ main, p, article {
     text-align: center;
 }
 
+summary .small {
+    color: #fefefe;
+    font-family: monts;
+    font-size: 16px;
+}
+
+summary .medium {
+    color: #fefefe;
+    font-family: monts;
+    font-size: 16px;
+}
+
+summary .large {
+    color: #fefefe;
+    font-family: monts;
+    font-size: 16px;
+}
+
 ul {
     list-style-type: none;
 }
