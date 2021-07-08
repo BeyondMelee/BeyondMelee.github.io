@@ -211,22 +211,25 @@ p {
     margin: 4px 0px;
 }
 
-summary .small {
+.small {
     color: #fefefe;
     font-family: monts;
     font-size: 14px;
+    display: inline;
 }
 
-summary .medium {
+.medium {
     color: #fefefe;
     font-family: monts;
     font-size: 24px;
+    display: inline;
 }
 
-summary .large {
+.large {
     color: #fefefe;
     font-family: monts;
     font-size: 36px;
+    display: inline;
 }
 
 ul.chars{
@@ -392,14 +395,17 @@ ul.chars{
 
 .indent-1 {
     margin-left: 20px;
+    display: inline;
 }
 
 .indent-2 {
     margin-left: 20px;
+    display: inline;
 }
 
 .indent-3 {
     margin-left: 20px;
+    display: inline;
 }
 
 
