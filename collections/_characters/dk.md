@@ -3,6 +3,7 @@ layout: character
 title: dk
 image: dk.png
 name: Donkey Kong
+over: 
 ---
 
 ## Changes to Donkey Kong
