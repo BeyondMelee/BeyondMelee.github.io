@@ -251,6 +251,7 @@ ul {
 }
 
 .csp-overlay {
+    display: inline-block;
     position: relative;
     background-color: black;
     transition: .5s ease;
