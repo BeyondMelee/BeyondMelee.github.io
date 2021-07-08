@@ -16,7 +16,7 @@ title: Beyond Melee Changelog
                 <summary class="large">Characters</summary>
                 Character changes below
                     {% for char in site.characters %}
-                        <details>
+                        <details id="{{ char.title }}">
                             <summary class="medium">{{ char.name }}</summary>
 
                             <details class="small-gap">

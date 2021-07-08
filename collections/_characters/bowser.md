@@ -8,37 +8,55 @@ over: Bowser’s up b out of shield is heavily nerfed to encourage him to be mor
 
 jump frames
 8 > 5
+
 standing turn frames
 8 > 4
+
 normal landing lag
 6 > 4
+
 shield size
 31.25 > 34
+
 Walk Int Velocity
 0.03 > .1
+
 Walk Max Velocity
 .65 > .8
+
 dash int velocity
 1 > 1.4
+
 run max velocity 1.5 > 1.6
 
 Jab 2:
+
 Active frames 8-10 > 5-7
+
 IASA 29 > 21
 
 Dtilt:
+
 Active frames: 14-18, 27-31 > 14-18, 25-29
+
 IASA 55 > 53(via fsm) > 50
 
+
 utilt:
+
 iasa 50 > 40
 
+
 ftilt:
+
 bkb 31/32/25/29 > 30
+
 high:
 dmg 15/13/15 > 15
+
 mid:
 dmg 14/12/13 > 15
+
 low:
 dmg  13/11/13 > 15
 
@@ -46,9 +64,13 @@ dash attack:
 iasa 56 > 46
 
 Fair:
+
 Strong hit 14 > 15
+
 weak hit 12/11 > 13
+
 fair landing lag
+
 30 > 25
 
 Dair:
