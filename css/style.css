@@ -325,7 +325,7 @@ main, p, article {
 }
 
 .page-header-margin {
-    padding: 150px 0px;
+    padding: 120px 0px;
 }
 
 .page-title {
@@ -348,9 +348,9 @@ main, p, article {
 
 .rainbow {
     -webkit-animation: huerotate 30s linear infinite;
-    animation: huerotate 10s linear infinite;
+    animation: huerotate 7s linear infinite;
     background: -webkit-gradient(linear, left top, right top, from(cyan), to(orange));
-    background: linear-gradient(to right, #f262ff, #6fff62, #ffab62);
+    background: linear-gradient(to right, cyan, orange);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
