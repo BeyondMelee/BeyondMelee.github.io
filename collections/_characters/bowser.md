@@ -84,18 +84,27 @@ bkb 0 > 10]
 VFX added
 
 Nair:
+
 First active frame 8 > 5
+
 dmg 13 > 15
+
 landing lag 30 > 23
 
 Bair:
+
 Strong hit damage 13 > 15
+
 landing lag 35 > 29
+
 landing hit removed
 
 Uair:
+
 Active frames
+
 22-25 > 17-21
+
 
 grab:
 offsetest hitbox size 1200 > 1400
