@@ -69,9 +69,7 @@ Strong hit 14 > 15
 
 weak hit 12/11 > 13
 
-fair landing lag
-
-30 > 25
+fair landing lag 30 > 25
 
 Dair:
 will be deleted:
