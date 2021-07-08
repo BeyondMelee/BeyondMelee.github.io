@@ -123,29 +123,52 @@ dthrow:
 now actually hits puff/gnw
 
 side b:
+
 First active frames 16 > 14
+
 grab hitboxes 600/1400 > 1800/1800
+
 throw f
+
 sped up 1.25x
+
 angle 80 > 75
+
 throw b
+
 dmg 11 > 4
+
 angle 361 > 75
+
 bkb 60 > 140
+
 kbg 100 > 15
 
+
 grounded up b:
+
 Grounded moving speed 1.5 > 1.3
+
 Momentum preservation on turning 1.6 > 0.8 > 1.6
+
 Grounded turning speed 0.15 > 0.1
+
 intangibility removed
+
 first active frame 5 > 6
+
 sweet spot damage 13 > 8
+
 move ends earlier
+
 5 damage sour spot lasts less long
+
 3 damage sour spot removed
+
 ability to multi-hit removed
 
+
 Neutral b:
+
 Replaced with fireball. Recharge the fireball by getting a grab with side b.
 added weak fire effects on mouth
