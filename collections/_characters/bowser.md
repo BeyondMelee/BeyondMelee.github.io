@@ -6,7 +6,6 @@ name: Bowser
 over: Bowser’s up b out of shield is heavily nerfed to encourage him to be more aggressive and camp in shield less. Fireball was added and bound to grabs to also encourage and reward aggression.
 ---
 
-## Changes to Bowser
 jump frames
 8 > 5
 standing turn frames

@@ -193,10 +193,17 @@ nav {
     background-color: #3330;
 }
 
-main, p, article {
+main, article {
     font-family: monts;
     color: white;
     text-align: center;
+}
+
+p {
+    font-family: monts;
+    color: white;
+    text-align: left;
+    font-size: 16px;
 }
 
 summary .small {
@@ -208,13 +215,13 @@ summary .small {
 summary .medium {
     color: #fefefe;
     font-family: monts;
-    font-size: 16px;
+    font-size: 24px;
 }
 
 summary .large {
     color: #fefefe;
     font-family: monts;
-    font-size: 16px;
+    font-size: 36px;
 }
 
 ul {
