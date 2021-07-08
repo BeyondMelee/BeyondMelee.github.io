@@ -257,6 +257,9 @@ ul {
 }
 
 .csp-text {
+    font-family: monts;
+    margin: auto;
+    text-align: center;
     color: white;
     font-size: 16px;
 }
