@@ -251,10 +251,14 @@ ul {
 }
 
 .csp-overlay {
-    color: white;
     background-color: black;
-    font-size: 16px;
     transition: .5s ease;
+    opacity: 0;
+}
+
+.csp-text {
+    color: white;
+    font-size: 16px;
 }
 
 /* .download-glow {
