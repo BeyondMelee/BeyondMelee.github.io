@@ -2,10 +2,19 @@
 layout: character
 title: marth
 image: marth.png
-name: marth
+name: Marth
+over: Uthrow is no longer a free chain grab. Counter and up b have slight nerfs to tone down his gimp game.
 ---
 
-## Changes to Marth
-![marth](/images/content/css/marth.png)
+Uthrow:
+Turns Marth around
+BKB 60 > 85
 
-Marth’s only significant changes are to his early percent gimps through tweaks to his up b and counter, encouraging mix ups from both Marth and his opponent.
+Up B:
+Strong hit:
+bkb 80 > 50
+kbg 70 > 100
+
+Counter hit box:
+angle 361 > 65
+kbg: 35 > 55

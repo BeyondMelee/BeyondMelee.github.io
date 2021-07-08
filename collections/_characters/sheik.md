@@ -2,10 +2,42 @@
 layout: character
 title: sheik
 image: sheik.png
-name: sheik
+name: Sheik
+over: Down throw and up throw are a DI mix up. Chain has less startup and endlag for cheeky jab resets and edge guards.
 ---
 
-## Changes to Sheik
-![sheik](/images/content/css/sheik.png)
+Sheik:PlSk
+Dsmash:
+Weak hits:
+DMG 10 > 8
+BKB 35 > 33
+KBG 80 > 96
 
-Sheik’s chain grabs are a problem in Melee, but when the list of viable characters Sheik can chaingrab goes from 1 to something like 30, it becomes a catastrophe. So, we changed it. Down throw and up throw are a DI mix up, but their knockback also scales less with percent than vanilla Sheik’s down throw. This means that in super high percent situations she can, if she guesses right, get a combo hit where she wouldn’t be able to in vanilla. The Goal was not to nerf or buff sheiks throws, but make them more exciting and DI-mixup based.
+Side b:
+Frame chain comes out 22 > 10
+How long chain is out before reeling in 10 > 1
+Frame after releasing b chain reels in 18 > 10
+Frame you can move chain around 32 > 15
+damage 5/3/3/3 > 3/1/1/1
+BKB 35/14/8/6 > 30/30/0/0
+
+Needle:
+Duration on ground 120 > 1
+Damage 3 > 2
+BKB 24 > 22
+KBG 34 > 45
+
+Dthrow:
+Sped up
+Angle 80 > 65
+KBG 50 > 28
+BKB 70 > 74
+Endlag -4
+
+Uthrow:
+Sped up (slowed down from last patch)
+release point adjusted
+Angle 88 > 115
+BKB 90 > 74
+KBG 30 > 27
+Endlag changed to match dthrow (18f)

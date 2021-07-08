@@ -18,7 +18,7 @@ title: Beyond Melee Changelog
                     {% for char in site.characters %}
                         <details id="{{ char.title }}" class="indent-2">
                             <summary class="medium">{{ char.name }}</summary>
-
+                            {{ char.over }}
                             <details class="small-gap indent-3">
                                 <summary class="small">Value Changes for {{ char.name }}</summary>
                                 {{ char.content }}

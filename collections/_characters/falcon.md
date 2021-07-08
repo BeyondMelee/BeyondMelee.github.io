@@ -3,9 +3,11 @@ layout: character
 title: falcon
 image: falcon.png
 name: Captain Falcon
+over: Gentleman is now consistent. Nipple fire spikes. That’s it.
 ---
 
-## Changes to Captain Falcon
-![Captain Falcon](/images/content/css/falcon.png)
-
-Falcon only got one change to bring him more in line with Beyond Melee. His gentleman is more consistent like it is in PAL. His nipple spike also has a fire effect, so that it’s distinguishable from the meteor hit.
+Falcon:PlCa
+switched to PAL base, so this is changes from PAL default
+knee changed to NTSC
+nipple spike added fire effect
+(note, need to make side b pass through projectiles like in NTSC)

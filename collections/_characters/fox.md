@@ -3,9 +3,25 @@ layout: character
 title: fox
 image: fox.png
 name: Fox
+over: General damage output nerfs, plus usmash is slightly weaker.
 ---
 
-## Changes to Fox
-![Fox](/images/content/css/fox.png)
+Up throw:
+Turns Fox around
+Angle 90 > 98
 
-Fox feels just how you remember. The only change is that his damage output has been pulled back slightly on some moves, but you’d never notice if we hadn’t told you.
+Forward throw:
+Angle 45 > 75
+DMG 3 > 2
+KBG 130 > 110
+BKB 35 > 75
+
+Neutral b:
+DMG 3 > 2
+
+Usmash:
+DMG 18/13 > 17/9
+
+bair:
+dmg 15 > 13
+kbg 100 > 113

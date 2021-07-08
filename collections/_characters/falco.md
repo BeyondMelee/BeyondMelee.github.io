@@ -3,9 +3,12 @@ layout: character
 title: falco
 image: falco.png
 name: Falco
+over: Only nerfed damage output.
 ---
 
-## Changes to Falco
-![Falco](/images/content/css/falco.png)
+bair:
+dmg 15 > 13
+kbg 100 > 113
 
-Falco’s insanely strong, but he aligns with the project’s goals very closely. His only changes are tweaks to his damage output, and a nerf to the damage of his laser which discourage laser camping.
+laser:
+dmg 3 > 2

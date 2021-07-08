@@ -2,10 +2,42 @@
 layout: character
 title: samus
 image: samus.png
-name: samus
+name: Samus
+over: Samus has a new usmash. Her neutral b can charge in the air. You can only do two bomb jumps per air time, speeding up her recovery while still having a wealth of mix ups.
 ---
 
-## Changes to Samus
-![samus](/images/content/css/samus.png)
+Usmash:
+now a single hit, normal move
+active frames 9-14
+dmg 15
+angle 80
+bkb 32
+kbg 97
 
-Samus is not really buffed or nerfed, just different. She’s been retuned for faster play with a more natural flow. She can now charge neutral b in the air. She’ll reach a full charge slightly quicker than Melee. Her up smash is also now a functional, beautiful move, that’s based on her parry from Samus Returns. Lastly, her bomb jumps are now limited to two per air time, which speeds up her recovery process for a more engaging experience for both players. These changes together may seem small, but in practice she’s very fresh.
+Fair:
+first hit:
+bkb 20 > 25
+kbg 100 > 90
+
+Neutral b:
+Added ability to charge in the air.
+
+Down b:
+reduced ability to stall starting 3rd bomb jump
+
+Dthrow:
+IASA 42 > 38
+
+Fthrow:
+kbg 45 > 60
+
+bthrow:
+kbg 42 > 55
+
+Back roll: Subject AF to change
+invincible frames 26 > 20
+vulnerable frames 13 > 10
+
+Forward roll: Subject AF to change
+invincible frames 26 > 17
+vulnerable frames 14 > 11
