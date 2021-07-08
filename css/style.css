@@ -286,6 +286,7 @@ ul.chars{
     padding: 0px;
     margin: 5px;
     background-image: linear-gradient(grey, black);
+    image-rendering: crisp-edges;
 }
 
 .char-item:hover .csp-overlay {
@@ -361,7 +362,7 @@ ul.chars{
 .holder {
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 60%;
     min-height: 100px;
     /* height: 80px; */
     background: rgba(0.6, 0.6, 0.6, 0.6);
