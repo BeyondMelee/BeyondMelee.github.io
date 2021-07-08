@@ -204,12 +204,13 @@ p {
     color: white;
     text-align: left;
     font-size: 16px;
+    margin: 4px 0px;
 }
 
 summary .small {
     color: #fefefe;
     font-family: monts;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 summary .medium {
@@ -377,6 +378,18 @@ ul {
     min-height: 250px;
     max-height: 250px;
     transition: .5s ease;
+}
+
+.indent-1 {
+    text-indent: 10px;
+}
+
+.indent-2 {
+    text-indent: 20px;
+}
+
+.indent-3 {
+    text-indent: 30px;
 }
 
 .item {

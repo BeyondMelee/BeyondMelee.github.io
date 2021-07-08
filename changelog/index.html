@@ -12,14 +12,14 @@ title: Beyond Melee Changelog
 <div class="">
     <div class="holder center-text bottom-gap glow-blue top-gap">
         <section class="">
-            <details class="bottom-gap">
+            <details class="indent-1">
                 <summary class="large">Characters</summary>
                 Character changes below
                     {% for char in site.characters %}
-                        <details id="{{ char.title }}">
+                        <details id="{{ char.title }}" class="indent-2">
                             <summary class="medium">{{ char.name }}</summary>
 
-                            <details class="small-gap">
+                            <details class="small-gap indent-3">
                                 <summary class="small">Value Changes for {{ char.name }}</summary>
                                 {{ char.content }}
                             </details>
