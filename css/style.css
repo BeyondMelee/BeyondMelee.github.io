@@ -213,6 +213,18 @@ main, p, article {
     margin-right: auto;
 }
 
+.char-container {
+    padding: 15px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: stretch;
+    align-content: space-evenly;
+    background: rgba(0.6, 0.6, 0.6, 0.6);
+    width: 65%;
+    margin: 0 auto;
+}
+
 .container {
     padding: 15px;
     display: flex;
