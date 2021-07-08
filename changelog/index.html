@@ -9,3 +9,25 @@ title: Beyond Melee Changelog
         </h1>
     </div>
 </header>
+<div class="">
+    <section class="top-gap bottom-gap">
+        <a href="/download" class="center button button-text download-glow">Download Here</a>
+    </section>
+    <div class="holder center-text bottom-gap glow-blue">
+        <section class="">
+            <details>
+                <summary>Characters</summary>
+                Character changes below
+                    {% for char in site.characters }
+                        <details>
+                            <summary>{{ char.name }}</summary>
+                            
+                            <details>
+                                <summary>Value Changes for {{ char.name }}</summary>
+                            </details>
+                        </details>
+                    {% endfor %}
+            </details>
+        </section>
+    </div>
+</div>
