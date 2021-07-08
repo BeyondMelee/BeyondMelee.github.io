@@ -222,7 +222,14 @@ main, p, article {
     align-content: space-evenly;
     background: rgba(0.6, 0.6, 0.6, 0.6);
     width: 65%;
-    margin: 0 auto;
+    margin: 10px auto;
+}
+
+.char-item {
+    flex: 1 1 auto;
+    padding: 0px;
+    margin: 5px;
+    background-image: linear-gradient(grey, black);
 }
 
 .container {
