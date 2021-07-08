@@ -140,6 +140,12 @@ body {
     background-color: black;
 }
 
+details {
+    font-family: monts;
+    color: white;
+    text-align: left;
+}
+
 h1 {
     color: #fefefe;
     text-align: center;
