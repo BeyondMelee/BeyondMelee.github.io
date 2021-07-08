@@ -147,6 +147,10 @@ details {
     font-size: 20px;
 }
 
+details.inner-detal {
+    margin: 8px 0px;
+}
+
 h1 {
     color: #fefefe;
     text-align: center;
@@ -397,6 +401,8 @@ ul.chars{
 .indent-3 {
     margin-left: 20px;
 }
+
+
 
 .item {
     flex: 1 1 auto;
