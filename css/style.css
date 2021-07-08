@@ -276,6 +276,11 @@ ul.chars{
     margin: 10px auto;
 }
 
+.char-icon {
+    height: 30px;
+    max-height: 30px;
+}
+
 .char-item {
     flex: 1 1 auto;
     padding: 0px;
