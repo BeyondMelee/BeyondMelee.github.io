@@ -591,6 +591,7 @@ ul.chars{
 
 .title {
     position: relative;
+    display: block;
     z-index: 1;
 }
 
