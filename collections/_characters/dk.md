@@ -6,8 +6,9 @@ name: Donkey Kong
 over: Beefed up vanilla DK with a nerfed/tweaked grab game and rolling dash attack.
 ---
 
-DK:
-Dash attack now do a rolley
+<span style="color:cyan">Dash attack:</span>.
+
+now do a rolley
 
 DK tilt turn 8 > 4
 
@@ -17,11 +18,20 @@ Run Speed 1.6 > 1.7
 
 Jump Squat 6 > 5
 
-Jab 1:
+
+<span style="color:cyan">Spot dodge:</span>.
+
+i frames: 2-23 > 2-18
+
+total frames: 37 > 27
+
+
+<span style="color:cyan">Jab 1:</span>.
 
 Angle 361 > 60
 
-Jab 2:
+
+<span style="color:cyan">Jab 2:</span>.
 
 BKB 0 > 30
 
@@ -29,13 +39,18 @@ Angle 361 > 70
 
 IASA 34 > 30
 
-Giant punch no longer goes in to special fall
 
-ftilt
+<span style="color:cyan">Giant Punch:</span>.
+
+No longer goes in to special fall
+
+
+<span style="color:cyan">f-tilt</span>.
 
 all hits do 11%
 
-utilt
+
+<span style="color:cyan">u-tilt</span>.
 
 all hits do 11%
 
@@ -43,7 +58,8 @@ angle 100 > 95
 
 iasa 39 > 33
 
-dtilt:
+
+<span style="color:cyan">d-tilt:</span>.
 
 angle 40 > 35
 
@@ -51,21 +67,25 @@ kbg 80 > 90
 
 bkb 10 > 15
 
-nair:
+
+<span style="color:cyan">nair:</span>.
 
 first active frame 10 > 5
 
 Spinny effect added
 
-Fair
+
+<span style="color:cyan">Fair</span>.
 
 First active frame 25 > 22
 
-IASA 60 > 47
+IASA 60 > 47 
 
-dair:
+
+<span style="color:cyan">dair:</span>.
 
 landing lag 31 > 26
+
 
 strong hit:
 
@@ -81,15 +101,18 @@ kbg 90 > 80
 
 bkb 20 > 45
 
-Usmash
+
+<span style="color:cyan">Usmash</span>.
 
 IASA 53 > 32
 
-Dsmash
+
+<span style="color:cyan">Dsmash</span>.
 
 IASA 55 > 42
 
-side b:
+
+<span style="color:cyan">side b:</span>.
 
 no longer grounds opponents
 
@@ -97,13 +120,16 @@ no longer grounds opponents
 
 aerial gravity 0.05 > 0.08 to compensate 15f reduced lag
 
-Down b:
+
+<span style="color:cyan">Down b:</span>.
 
 Angle 84 > 90
 
-up b:
+
+<span style="color:cyan">up b:</span>.
 
 DK keeps giant punch charge when hit out of up b
+
 
 Grounded:
 
@@ -111,11 +137,12 @@ Strong hit:
 
 Damage 12 > 10
 
-bkb 60 > 40
+bkb 60 > 50
 
 Mid hit:
 
 Damage 8 > 5
+
 
 Air version:
 
@@ -127,22 +154,20 @@ Weak hit:
 
 Damage 2 > 1
 
-uthrow:
+
+<span style="color:cyan">uthrow:</span>.
 
 angle 90 > 80
 
 kbg 50 > 70
 
 
-cargo uthrow:
+<span style="color:cyan">cargo uthrow:</span>.
 
-dmg 7 > 9
+kbg 30 > 35
 
-angle 90 > 85
 
-kbg 30 > 50
-
-cargo fthrow:
+<span style="color:cyan">cargo fthrow:</span>.
 
 Sped up 1.5x
 
@@ -154,7 +179,8 @@ bkb 80 > 80
 
 kbg 50 > 30
 
-cargo bthrow:
+
+<span style="color:cyan">cargo bthrow:</span>.
 
 Sped up 1.5x
 
@@ -165,3 +191,10 @@ angle 55 > 69
 bkb 80 > 80
 
 kbg 50 > 30
+
+
+<span style="color:cyan">Pummel:</span>.
+
+sped up 1.15x
+
+dmg 3 > 2
