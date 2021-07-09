@@ -229,7 +229,6 @@ p {
     color: #fefefe;
     font-family: monts;
     font-size: 36px;
-    display: inline;
 }
 
 ul.chars{
@@ -404,7 +403,6 @@ ul.chars{
 .indent-3 {
     margin-left: 20px;
 }
-
 
 
 .item {

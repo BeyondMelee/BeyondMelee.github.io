@@ -7,8 +7,11 @@ over: Pichu is a space animal. His shine is like Falco’s but it self damages P
 ---
 
 Weight 55 > 67
+
 Walk max velocity 1.24 > 1.45
+
 Run 1.72 > 1.9
+
 Friction 0.01 > 0.095
 Jump V Int Velocity 2.6 > 3.3
 Ground to air jump momentum mlti 0.8 > 0.9
