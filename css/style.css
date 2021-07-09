@@ -37,6 +37,10 @@
     }
 }
 
+a {
+    cursor: pointer;
+}
+
 a:link {
     color: lightgray;
     text-decoration: none;
