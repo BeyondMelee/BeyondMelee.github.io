@@ -167,10 +167,10 @@ h2 {
 }
 
 h3 {
-    color: #fefefe;
+    color: cyan;
     text-align: left;
     font-family: monts;
-    font-size: 36px;
+    font-size: 18px;
 }
 
 h4 {
@@ -184,6 +184,8 @@ h5 {
     font-family: monts;
     font-size: 16px;
 }
+
+
 
 nav {
     font-family: monts;
