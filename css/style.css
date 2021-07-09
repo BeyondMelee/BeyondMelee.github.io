@@ -626,6 +626,8 @@ ul.chars{
 
 .video-bg {
     position: relative;
+    filter: blur(4px);
+    -webkit-filter: blur(4px);
     width: auto;
     min-width: 100%;
     height: auto;
