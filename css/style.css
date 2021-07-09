@@ -589,6 +589,11 @@ ul.chars{
     color: red;
 }
 
+.title {
+    position: relative;
+    z-index: 1;
+}
+
 .title-image {
     max-height: 100px;
     margin-top: 20px;
