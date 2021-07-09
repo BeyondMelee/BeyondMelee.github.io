@@ -10,11 +10,11 @@
 
 @font-face {
   font-family: 'icons';
-  src:  url('/fonts/icons/icomoon.eot?6ne2l2');
-  src:  url('/fonts/icons/icomoon.eot?6ne2l2#iefix') format('embedded-opentype'),
-    url('/fonts/icons/icomoon.ttf?6ne2l2') format('truetype'),
-    url('/fonts/icons/icomoon.woff?6ne2l2') format('woff'),
-    url('/fonts/icons/icomoon.svg?6ne2l2#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?z521qv');
+  src:  url('fonts/icomoon.eot?z521qv#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?z521qv') format('truetype'),
+    url('fonts/icomoon.woff?z521qv') format('woff'),
+    url('fonts/icomoon.svg?z521qv#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -91,7 +91,7 @@ a.discord {
 }
 
 a.discord::before {
-    font-family: icons;
+    font-family: icons !important;
     content: ' ';
 }
 
@@ -111,7 +111,7 @@ a.patreon {
 }
 
 a.patreon::before {
-    font-family: icons;
+    font-family: icons !important;
     content: ' ';
 }
 
@@ -131,8 +131,28 @@ a.twitter {
 }
 
 a.twitter::before {
-    font-family: icons;
+    font-family: icons !important;
     content: ' ';
+}
+
+a.github {
+    appearance: button;
+    font-family: monts;
+    width: -moz-fit-content;
+    width: fit-content;
+    text-align: right;
+    max-height: 25px;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #1DA1F2;
+    color: #FFFFFF;
+    padding: 6px;
+    border-radius: 8px;
+}
+
+a.github::before {
+    font-family: icons !important;
+    content: ' ';
 }
 
 a.nav {
