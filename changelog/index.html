@@ -14,13 +14,13 @@ title: Beyond Melee Changelog
         <section class="">
             <details class="">
                 <summary class="large">Characters</summary>
-                <p class="indent-1 no-return"><p>
+                <p class="indent no-return"><p>
                     {% for char in site.characters %}
-                        <details id="{{ char.title }}" class="indent-1">
+                        <details id="{{ char.title }}" class="indent">
                             <summary class="medium"><p class="medium no-return"><img src="/images/content/char-icons/{{ char.image }}" class="char-icon"><img> {{ char.name }}</p></summary>
                             <div class="glow-blue">
-                                <p class="indent-1 medium">{{ char.over }}</p>
-                                <details class="inner-detail indent-1">
+                                <p class="indent medium">{{ char.over }}</p>
+                                <details class="inner-detail indent">
                                     <summary><p class="small no-return">Value Changes for {{ char.name }}</p></summary>
                                     <div class="indent-1">
                                         {{ char.content }}

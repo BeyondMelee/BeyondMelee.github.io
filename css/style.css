@@ -392,18 +392,9 @@ ul.chars{
     transition: .5s ease;
 }
 
-.indent-1 {
-    margin-left: 20px;
+.indent {
+    margin: 0px 20px;
 }
-
-.indent-2 {
-    margin-left: 20px;
-}
-
-.indent-3 {
-    margin-left: 20px;
-}
-
 
 .item {
     flex: 1 1 auto;
