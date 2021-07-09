@@ -7,6 +7,7 @@ over: Bowser’s up b out of shield is heavily nerfed to encourage him to be mor
 ---
 
 jump frames
+
 8 > 5
 
 standing turn frames
@@ -16,12 +17,15 @@ normal landing lag
 6 > 4
 
 shield size
+
 31.25 > 34
 
 Walk Int Velocity
+
 0.03 > .1
 
 Walk Max Velocity
+
 .65 > .8
 
 dash int velocity
@@ -41,7 +45,6 @@ Active frames: 14-18, 27-31 > 14-18, 25-29
 
 IASA 55 > 53(via fsm) > 50
 
-
 utilt:
 
 iasa 50 > 40
@@ -52,15 +55,19 @@ ftilt:
 bkb 31/32/25/29 > 30
 
 high:
+
 dmg 15/13/15 > 15
 
 mid:
+
 dmg 14/12/13 > 15
 
 low:
+
 dmg  13/11/13 > 15
 
 dash attack:
+
 iasa 56 > 46
 
 Fair:
@@ -72,13 +79,21 @@ weak hit 12/11 > 13
 fair landing lag 30 > 25
 
 Dair:
+
 will be deleted:
+
 [14-42 > 14-25
+
 Angle 80 > 270
+
 dmg per hit 3 > 5
+
 kbg 100 > 110
+
 weight set kb 10 > 0
+
 bkb 0 > 10]
+
 VFX added
 
 Nair:
@@ -105,19 +120,27 @@ Active frames
 
 
 grab:
+
 offsetest hitbox size 1200 > 1400
 
 dashgrab:
+
 offsetest hitbox size 1200 > 1500
 
 Uthrow:
+
 Sped up
+
 Angle 70 > 75
+
 Weight set knockback 120 > 0
+
 bkb 0 > 70
+
 kbg 100 > 105
 
 dthrow:
+
 now actually hits puff/gnw
 
 side b:
@@ -141,7 +164,6 @@ angle 361 > 75
 bkb 60 > 140
 
 kbg 100 > 15
-
 
 grounded up b:
 
@@ -169,4 +191,5 @@ ability to multi-hit removed
 Neutral b:
 
 Replaced with fireball. Recharge the fireball by getting a grab with side b.
+
 added weak fire effects on mouth
