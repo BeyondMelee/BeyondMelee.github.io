@@ -631,6 +631,7 @@ ul.chars{
     min-height: 100%;
     background: transparent url('bg2.png') no-repeat;
     background-size: cover;
+    z-index: -1;
 }
 
 #introVideo {
