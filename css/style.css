@@ -150,6 +150,7 @@ a.download {
     transition: all 0.2s ease-in-out;
     width: fit-content;
     width: -moz-fit-content;
+    margin-bottom: auto;
 }
 
 a.download:hover {
