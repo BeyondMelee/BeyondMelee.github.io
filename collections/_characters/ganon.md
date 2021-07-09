@@ -75,15 +75,25 @@ KBG 130 > 130
 BKB 30 > 50
 
 Fthrow:
+
 Damage 4 > 6
+
 Angle 45 > 40
+
 KBG 105 > 95
+
 BKB 45 > 40
+
 Element: Normal > Darkness
 
 Uthrow:
+
 Full animation sped up 1.5x (release frame 7, 33 frames of endlag > 22)
+
 Angle 90 > 105
+
 Throw Hitbox 3% > 6% (10% total)
+
 KBG 105 > 44
+
 Base 50 > 74

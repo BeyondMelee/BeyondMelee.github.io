@@ -11,9 +11,11 @@ jump frames
 8 > 5
 
 standing turn frames
+
 8 > 4
 
 normal landing lag
+
 6 > 4
 
 shield size
@@ -29,9 +31,18 @@ Walk Max Velocity
 .65 > .8
 
 dash int velocity
+
 1 > 1.4
 
 run max velocity 1.5 > 1.6
+
+
+Spot dodge:
+
+i frames: 4-24 > 2-18
+
+total frames: 42 > 27
+
 
 Jab 2:
 
@@ -39,13 +50,15 @@ Active frames 8-10 > 5-7
 
 IASA 29 > 21
 
+
 Dtilt:
 
 Active frames: 14-18, 27-31 > 14-18, 25-29
 
 IASA 55 > 53(via fsm) > 50
 
-utilt:
+
+utilt: 
 
 iasa 50 > 40
 
@@ -66,9 +79,11 @@ low:
 
 dmg  13/11/13 > 15
 
-dash attack:
+
+dash attack: 
 
 iasa 56 > 46
+
 
 Fair:
 
@@ -76,33 +91,24 @@ Strong hit 14 > 15
 
 weak hit 12/11 > 13
 
-fair landing lag 30 > 25
+fair landing lag
+
+30 > 25
+
 
 Dair:
 
-will be deleted:
+Completely replaced
 
-[14-42 > 14-25
 
-Angle 80 > 270
-
-dmg per hit 3 > 5
-
-kbg 100 > 110
-
-weight set kb 10 > 0
-
-bkb 0 > 10]
-
-VFX added
-
-Nair:
+Nair: 
 
 First active frame 8 > 5
 
 dmg 13 > 15
 
 landing lag 30 > 23
+
 
 Bair:
 
@@ -112,20 +118,26 @@ landing lag 35 > 29
 
 landing hit removed
 
+
 Uair:
 
 Active frames
 
-22-25 > 17-21
+22-25 > 17-21 
+
 
 
 grab:
 
 offsetest hitbox size 1200 > 1400
 
-dashgrab:
+ 
+
+dashgrab: 
 
 offsetest hitbox size 1200 > 1500
+
+
 
 Uthrow:
 
@@ -139,13 +151,19 @@ bkb 0 > 70
 
 kbg 100 > 105
 
+
+
 dthrow:
+
+sped up 1.35x
 
 now actually hits puff/gnw
 
-side b:
 
-First active frames 16 > 14
+
+side b: 
+
+First active frames 16 > 12
 
 grab hitboxes 600/1400 > 1800/1800
 
@@ -164,6 +182,7 @@ angle 361 > 75
 bkb 60 > 140
 
 kbg 100 > 15
+
 
 grounded up b:
 
@@ -192,4 +211,11 @@ Neutral b:
 
 Replaced with fireball. Recharge the fireball by getting a grab with side b.
 
-added weak fire effects on mouth
+added weak fire effects on mouth 
+
+
+Pummel:
+
+sped up 1.15x
+
+dmg 3 > 2
