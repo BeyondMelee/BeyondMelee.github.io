@@ -62,17 +62,21 @@ a:active {
 }
 
 a.button {
-    appearance: button;
+    padding: 8px 6px;
     font-family: monts;
-    width: -moz-fit-content;
-    width: fit-content;
-    text-align: center;
-    font-size: 30px;
-    text-decoration: none;
+    color: white;
+    border: 2px solid #0caee6;
     background-color: #0caee6;
-    color: #010101;
-    padding: 8px;
-    border-radius: 8px;
+    border-radius: 7px;
+    outline: none;
+    transition: all 0.2s ease-in-out;
+    width: fit-content;
+    width: -moz-fit-content;
+}
+
+a.button:hover {
+    padding: 8px 10px;
+    box-shadow: 0 0 12px rgba(12, 174, 230, 0.8);
 }
 
 a.discord {
