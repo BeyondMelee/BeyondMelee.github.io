@@ -593,6 +593,7 @@ ul.chars{
     max-height: 100px;
     margin-top: 20px;
     margin-bottom: 20px;
+    z-index: 1;
 }
 
 .title-margin {
@@ -623,7 +624,7 @@ ul.chars{
     min-width: 100%;
     height: auto;
     min-height: 100%;
-    background: transparent url('960x360.png') no-repeat;
+    background: transparent url('bg2.png') no-repeat;
     background-size: cover;
 }
 
