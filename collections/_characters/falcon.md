@@ -9,7 +9,7 @@ over: Gentleman is now consistent. Nipple fire spikes. That’s it.
 (Switched to PAL base, so these are changes from PAL default)
 
 
-<span style="color:cyan">Knee:</span>
+### Knee:
 
 Changed to NTSC
 

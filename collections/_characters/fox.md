@@ -6,32 +6,60 @@ name: Fox
 over: General damage output nerfs, plus usmash is slightly weaker.
 ---
 
-Up throw:
-
-Turns Fox around
-
-Angle 90 > 98
-
-Forward throw:
-
-Angle 45 > 75
+### Neutral b:
 
 DMG 3 > 2
 
-KBG 130 > 110
 
-BKB 35 > 75
+### Up b:
 
-Neutral b:
+DMG 14 > 12
 
-DMG 3 > 2
+bkb 60 > 59
 
-Usmash:
+kbg 60 > 69
 
-DMG 18/13 > 17/9
+Shield Damage 5 > 0
 
-bair:
+
+### Utilt: 
+
+clean grounded hit:
+
+dmg 12 > 10
+
+bkb 18 > 17
+
+kbg 140 > 163
+
+
+### Usmash:
+
+DMG 18/13 > 16/9
+
+bkb 30 > 30
+
+kbg 112 > 124
+
+
+### uair:
+
+dmg 13 > 11
+
+bkb 40 > 39
+
+kbg 116 > 134
+
+
+### bair:
 
 dmg 15 > 13
 
 kbg 100 > 113
+
+
+### Pummel:
+
+1.15x speed
+
+dmg 3 > 2

@@ -6,7 +6,7 @@ name: Dr. Mario
 over: Doc has stomp, yeet bthrow, better comboing pill, and overall more damage output.
 ---
 
-<span style="color:cyan">Pill:</span>
+### Pill:
 
 int projectile speed 1.4 > 1.2
 
@@ -21,14 +21,14 @@ kbg 25 > 50
 endlag 29f > 26f
 
 
-<span style="color:cyan">Down B</span>
+### Down B
 
 All weak hitboxes now copy/match (improved) mario hitboxes
 
 Final hit: 15 dmg, 361 angle, 2600 size, 90 kbg, 30 base
 
 
-<span style="color:cyan">Up b first hitbox angle 70 > 85</span>
+### Up b first hitbox angle 70 > 85
 
 New sweet spot, all coins removed except for first and last one
 
@@ -43,12 +43,12 @@ sweet spot:
 angle 361
 
 
-<span style="color:cyan">Side b:</span>
+### Side b:
 
 reflection hitbox 6-33 > 10-20
 
 
-<span style="color:cyan">Dair: Ult dair(stomp)</span>
+### Dair: Ult dair(stomp)
 
 Damage : 12
 
@@ -59,7 +59,7 @@ BKB : 40
 KBG : 115
 
 
-<span style="color:cyan">Fair:</span>
+### Fair:
 
 first active frame 18 > 16
 
@@ -68,7 +68,7 @@ IASA 60 > 44
 Total anim time 74 > 56
 
 
-<span style="color:cyan">Nair: </span>
+### Nair: 
 
 strong hit damage 14 > 16
 
@@ -77,7 +77,7 @@ KBG 100 > 90
 Strong hit size 600/600 > 800/800 (to match weak nair size)
 
 
-<span style="color:cyan">Uair:</span>
+### Uair:
 
 Damage 10 > 12
 
@@ -88,7 +88,7 @@ Full anim 33 > 28
 IASA 30 > 28
 
 
-<span style="color:cyan">Bair:</span>
+### Bair:
 
 Strong hit: 
 
@@ -97,14 +97,14 @@ damage 8 > 10
 KBG 65 > 54
 
 
-<span style="color:cyan">Jab 3:</span>
+### Jab 3:
 
 Damage 6 > 8
 
 BKB 18 > 30
 
 
-<span style="color:cyan">Dash Attack:</span>
+### Dash Attack:
 
 Adjusted to be a normal move
 
@@ -126,7 +126,7 @@ KBG 50 > 75
 (gave ID 1 a late hit as well)
  
 
-<span style="color:cyan">dtilt:</span>
+### dtilt:
 
 Damage 9 > 11
 
@@ -139,14 +139,14 @@ growth 82 > 85
 bkb 20 > 35
 
 
-<span style="color:cyan">ftilt:</span>
+### ftilt:
 
 mid angle dmg 8 > 9
 
 low angle dmg 7 > 9
 
 
-<span style="color:cyan">Utilt:</span>
+### Utilt:
 
 Strong hit:
 
@@ -159,7 +159,7 @@ KBG 95 > 90
 BKB 20 > 30
 
 
-<span style="color:cyan">Dsmash:</span>
+### Dsmash:
 
 Front hit:
 
@@ -170,22 +170,22 @@ Back hit:
 dmg 15/13 > 15/15
 
 
-<span style="color:cyan">Usmash:</span>
+### Usmash:
 
 Dmg 16/13 > 16/16
 
 
-<span style="color:cyan">Fsmash:</span>
+### Fsmash:
 
 Dmg - high/mid/low = 20/19/18 > 20/20/20
 
 
-<span style="color:cyan">Dash Grab:</span>
+### Dash Grab:
 
 11 > 9 (vanilla endlag)
 
 
-<span style="color:cyan">Dthrow:</span>
+### Dthrow:
 
 Damage 6 > 9
 
@@ -196,7 +196,7 @@ KBG 40 > 36
 BKB 75 > 75
 
 
-<span style="color:cyan">Uthrow:</span>
+### Uthrow:
 
 Damage 8 > 10
 
@@ -207,12 +207,12 @@ BKB 70 > 75
 KBG 80 > 72
 
 
-<span style="color:cyan">Bthrow:</span>
+### Bthrow:
 
 kbg 72 > 80
 
 
-<span style="color:cyan">Pummel:</span>
+### Pummel:
 
 sped up 1.15x
 

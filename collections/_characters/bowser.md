@@ -6,66 +6,68 @@ name: Bowser
 over: Bowser’s up b out of shield is heavily nerfed to encourage him to be more aggressive and camp in shield less. Fireball was added and bound to grabs to also encourage and reward aggression.
 ---
 
-<span style="color:cyan">jump frames</span>
+### Attributes:
+
+jump frames
 
 8 > 5
 
-<span style="color:cyan">standing turn frames</span>
+standing turn frames
 
 8 > 4
 
-<span style="color:cyan">normal landing lag</span>
+normal landing lag
 
 6 > 4
 
-<span style="color:cyan">shield size</span>
+shield size
 
 31.25 > 34
 
-<span style="color:cyan">Walk Int Velocity</span>
+Walk Int Velocity
 
 0.03 > .1
 
-<span style="color:cyan">Walk Max Velocity</span>
+Walk Max Velocity
 
 .65 > .8
 
-<span style="color:cyan">dash int velocity</span>
+dash int velocity
 
 1 > 1.4
 
-<span style="color:cyan">run max velocity </span>
+run max velocity
 
 1.5 > 1.6
 
 
-<span style="color:cyan">Spot dodge:</span>
+### Spot dodge:
 
 i frames: 4-24 > 2-18
 
 total frames: 42 > 27
 
 
-<span style="color:cyan">Jab 2:</span>
+### Jab 2:
 
 Active frames 8-10 > 5-7
 
 IASA 29 > 21
 
 
-<span style="color:cyan">Dtilt:</span>
+### Dtilt:
 
 Active frames: 14-18, 27-31 > 14-18, 25-29
 
 IASA 55 > 53(via fsm) > 50
 
 
-<span style="color:cyan">utilt: </span>
+### utilt: 
 
 iasa 50 > 40
 
 
-<span style="color:cyan">ftilt:</span>
+### ftilt:
 
 bkb 31/32/25/29 > 30
 
@@ -82,7 +84,7 @@ low:
 dmg  13/11/13 > 15
 
 
-<span style="color:cyan">dash attack:</span>
+### dash attack:
 
 iasa 56 > 46
 
@@ -98,12 +100,12 @@ fair landing lag
 30 > 25
 
 
-<span style="color:cyan">Dair:</span>
+### Dair:
 
 Completely replaced
 
 
-<span style="color:cyan">Nair: </span>
+### Nair: 
 
 First active frame 8 > 5
 
@@ -112,7 +114,7 @@ dmg 13 > 15
 landing lag 30 > 23
 
 
-<span style="color:cyan">Bair:</span>
+### Bair:
 
 Strong hit damage 13 > 15
 
@@ -121,7 +123,7 @@ landing lag 35 > 29
 landing hit removed
 
 
-<span style="color:cyan">Uair:</span>
+### Uair:
 
 Active frames
 
@@ -129,19 +131,19 @@ Active frames
 
 
 
-<span style="color:cyan">grab:</span>
+### grab:
 
 offsetest hitbox size 1200 > 1400
 
  
 
-<span style="color:cyan">dashgrab: </span>
+### dashgrab: 
 
 offsetest hitbox size 1200 > 1500
 
 
 
-<span style="color:cyan">Uthrow:</span>
+### Uthrow:
 
 Sped up
 
@@ -155,7 +157,7 @@ kbg 100 > 105
 
 
 
-<span style="color:cyan">dthrow:</span>
+### dthrow:
 
 sped up 1.35x
 
@@ -163,7 +165,7 @@ now actually hits puff/gnw
 
 
 
-<span style="color:cyan">side b: </span>
+### side b: 
 
 First active frames 16 > 12
 
@@ -186,7 +188,7 @@ bkb 60 > 140
 kbg 100 > 15
 
 
-<span style="color:cyan">grounded up b:</span>
+### grounded up b:
 
 Grounded moving speed 1.5 > 1.3
 
@@ -209,14 +211,14 @@ move ends earlier
 ability to multi-hit removed
 
 
-<span style="color:cyan">Neutral b:</span>
+### Neutral b:
 
 Replaced with fireball. Recharge the fireball by getting a grab with side b.
 
 added weak fire effects on mouth 
 
 
-<span style="color:cyan">Pummel:</span>
+### Pummel:
 
 sped up 1.15x
 

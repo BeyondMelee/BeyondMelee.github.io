@@ -6,19 +6,19 @@ name: Falco
 over: Only nerfed damage output.
 ---
 
-<span style="color:cyan">bair:</span>
+### bair:
 
 dmg 15 > 13
 
 kbg 100 > 113
 
 
-<span style="color:cyan">laser:</span>
+### laser:
 
 dmg 3 > 2
 
 
-<span style="color:cyan">Pummel:</span>
+### Pummel:
 
 1.15x speed
 
