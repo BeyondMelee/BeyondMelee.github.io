@@ -69,7 +69,7 @@ a.button {
     text-align: center;
     font-size: 30px;
     text-decoration: none;
-    background-color: #ff5e00;
+    background-color: #0caee6;
     color: #010101;
     padding: 8px;
     border-radius: 8px;
@@ -167,6 +167,7 @@ details {
     color: white;
     text-align: left;
     font-size: 20px;
+    cursor: pointer;
 }
 
 details.inner-detal {
@@ -174,6 +175,7 @@ details.inner-detal {
 }
 
 h1 {
+    cursor: default;
     color: #fefefe;
     text-align: center;
     font-style: italic;
