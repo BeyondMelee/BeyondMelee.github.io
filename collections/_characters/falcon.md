@@ -6,12 +6,13 @@ name: Captain Falcon
 over: Gentleman is now consistent. Nipple fire spikes. That’s it.
 ---
 
-Falcon:PlCa
+(Switched to PAL base, so these are changes from PAL default)
 
-switched to PAL base, so this is changes from PAL default
 
-knee changed to NTSC
+<span style="color:cyan">Knee:</span>
 
-nipple spike added fire effect
+Changed to NTSC
 
-(note, need to make side b pass through projectiles like in NTSC)
+Spike Hitbox:
+
+added fire effect
