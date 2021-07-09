@@ -135,6 +135,19 @@ a.nav {
     content:'';
 }
 
+a.download {
+    border: 2px solid #0caee6;
+    border-radius: 7px;
+    outline: none;
+    transition: all 0.2s ease-in-out;
+    width: fit-content;
+    width: -moz-fit-content;
+}
+
+a.download:hover {
+    box-shadow: 0 0 12px rgba(12, 174, 230, 0.6);
+}
+
 body {
     margin: 0;
     background-color: black;
