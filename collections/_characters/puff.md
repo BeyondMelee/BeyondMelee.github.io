@@ -6,25 +6,52 @@ name: Jiggilypuff
 over: Rest is weaker, but less endlag. Up b is now healing song. This removes her ability to sing stall. You can only do one side b per jump, which also reduces stalling.
 ---
 
-Dtilt:
+### Dtilt:
+
 Active frames 10-13 > 7-10
 
-Uthrow:
+
+### Uthrow:
+
 dmg 11 > 7
+
 bkb 130 > 129
+
 kbg 25 > 36
 
-Dthrow:
+
+### Dthrow:
+
 Sped up animation
 
-Down b:
+
+### Down b:
+
 dmg 28 > 20
-bkb 78 > 50
+
+bkb 78 > 60
+
+angle 361 > 65
+
 endlag cut in half
+
 invincibility removed
 
-Side b:
-Only once per air time
+slowed descent
 
-Up b:
+
+### Side b:
+
+Only once per double jump
+
+
+### Up b:
+
 Retuned in to Healing Song. Heals herself and her opponent.
+
+
+### Pummel:
+
+1.15x speed
+
+dmg 3 > 2

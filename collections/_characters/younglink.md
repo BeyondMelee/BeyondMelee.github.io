@@ -6,124 +6,243 @@ name: Young Link
 over: Sped up a bit from vanilla in every way. Movement, bair speed, arrow charge time, all faster. The late hit of fair is a meteor. New fsmash hits like a truck.
 ---
 
+### Attributes:
+
 Max walk: 1.2 > 1.4
+
 Shield size 11.625 > 12.2
 
-jab:
+
+### jab:
+
 active frames 6-8 > 4-6
+
 IASA 20 > 17
+
 Angle 361 > 60
-Jab2:
+
+
+### Jab2:
+
 IASA 17 > 16
+
 Angle 361 > 60
-Jab3:
+
+### Jab3:
+
+
 IASA 32 > 29
+
 Angle 361 > 35
+
 added new vfx
 
-Dtilt:
+
+### Dtilt:
+
 Active frames 14-16 > 10-13
+
 IASA 32 > 29
+
 Damage 10/10/9/7 > 10/10/10/9
+
 Angle 280/280/280/70 > 280/280/280/75
+
 added new vfx
 
-Ftilt:
+
+### Ftilt:
+
 Damage 12/11/10 > 12/11
+
 Angle 361 > 38
+
 bkb 5/5/2/2 > 5
+
 added new vfx
 
-Utilt:
+
+### Utilt:
+
 First active frame 9 > 7
+
 Angle 85/70 > 88
-KBG 128/126/125/130 > 130
+
+KBG 128/126/125/130 > 125
+
 added new vfx
 
-Fsmash:
+
+### Fsmash:
+
 New animation, referencing the z-target jump slash from Ocarina of Time
+
 Charge frame: 15
+
 Active frames 29-33
+
 DMG 18
+
 BKB 25
+
 KBG 95
+
 Angle 361
+
 added new vfx
 
-Usmash:
+
+### Usmash: 
+
 hitbox sizes of single hit 800/800/800/500/1650/1650/1200/1000 > 900
+
 made to only do one hit
+
 hit comes out frame 10, charges frame 4
+
 15%, 40 BKB, 90 KBG
+
 15 frames of endlag
+
 added new vfx
 
-Dsmash:
+
+### Dsmash:
+
 DMG 13/12/7/6 > 13
+
 Angle 70/30 > 30
+
 KBG 70/90 > 95
+
 BKB 30/25 > 30
+
 added new vfx
 
-dash attack:
+
+### dash attack:
+
 damage 11/10 > 11
+
 added new vfx
 
-Nair:
+
+### Nair:
+
 Strong hit:
+
 Active frames 4-6 > 3-6
+
 added new vfx
 
-fair:
+
+### fair:
+
 New animation, cloud fair lookalike
+
 active frames 14-17
+
 dmg 12/11/9/9 > 12
+
 Angle 361
+
 BKB 5 > 5
+
 KBG 100 > 100
+
 X offset -400 > -200
+
 Hilt and body hitboxes are meteors on the last 2 frames:
+
 Body (ID 1 now) hitbox buffed from 500 > 600
+
 Hand (ID 0 now) Hitbox nerfed from 700 > 600
+
 Tip hitbox (ID 2 and sakurai angle)
+
 Hilt (Now ID 3)
+
 dmg 8/7/7/5 > 13
+
 angle 76 > 270
-bkb 0 > 30
+
+bkb 0 > 40
+
 kbg 90 > 100
+
 Landing lag 15 > 18 (7 > 9 L cancelled)
+
 added new vfx
 
-bair:
+
+### bair: 
+
 two hits come out closer together (FSMs)
-Second hit:
+
+### Second hit:
+
 bkb 15 > 20
+
 angle 361 > 60
 
-Dair:
-Meteor hitbox size 1100 > 1200
 
-uthrow:
+### Dair:
+
+Meteor hitbox removed
+
+
+### uthrow: 
+
 bkb 18(lol) > 60
+
 growth 230 > 130
 
-bthrow:
+
+### bthrow: 
+
 bkb 24 > 50
 
-fthrow:
+
+### fthrow: 
+
 bkb 25 > 45
 
-Up B(ground):
+
+### Up B(ground): 
+
 FSM'd 1.5x after frame 8
+
 final hit does 5% from 3, hitbox sizes 800/900 > 1200/1200
 
-Neutral b:
+
+### Neutral b:
+
 Earlist possible release frame 14 > 12
+
 in air, endlag -2 frames
+
 total time to charge 45 > 30
+
 charging speed 1.33 > 1.7
+
 Uncharged arrow velocity 1.3 > 1.45
-Hitbox:
+
+### Hitbox:
+
 Shield damage 0 > 10
+
 bkb 45 > 50
+
 KBG 30 > 25
+
+
+### Down b:
+
+Bomb pull in air made 14f slower
+
+
+### pummel:
+
+1.15x speed
+
+dmg 3 > 2

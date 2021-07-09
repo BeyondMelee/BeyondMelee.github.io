@@ -167,52 +167,34 @@ BKB 10 > 30
 
 KBG 80 > 75
 
-  - IASA 35 -> 25
+IASA 35 -> 25
 
 
-Dash attack reworked... again
+### Dash attack:
 
-FSM'd the beginning to allow for more of a speed boost. Retains vanilla startup. 
+Reworked
 
-Strong Dash Attack
+Sped up beginning to allow for more of a speed boost. Retains vanilla startup. 
 
-Shifted hitbox bones from butt to legs (1 > 55/54)
+Strong Dash Attack:
 
-Size 900 > 800
+Shifted hitboxes from butt to legs
 
-ID 0 
+Size: 900 > 800
 
-X & Y offset: 0
+Damage: 8 > 9
 
-Z offset: 300 (moved it a little further down his leg)
+BKB: 70 > 50
 
-Damage 8 > 9
+KBG: 30 > 75
 
-BKB 70 > 50
+Angle: 110 > 97
 
-KBG 30 > 75
+Weak Dash attack:
 
-Angle changed from 110 > 97
+2 active frames removed
 
-ID 1 
-
-Size 600 > 700
-
-X offset: -50
-
-Y & Z offset: 0
-
-Weak Dash attack (2 active frames removed)
-
-Shifted hitbox bones from butt to legs (1 > 55/54)
-
-ID 0 Size 800 > 600
-
-X offset: -150
-
-Z offset: 150
-
-Y offset: 0
+Shifted hitbox bones from butt to legs
 
 Damage from 7 > 8
 
