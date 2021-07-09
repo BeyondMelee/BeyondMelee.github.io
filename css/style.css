@@ -397,6 +397,10 @@ ul.chars{
     font-size: 16px;
 }
 
+.divider {
+    border-top: 1px solid rgba(220, 220, 220, 1);
+}
+
 .download-item {
     flex: 0 1 auto;
     padding: 0px;
@@ -424,7 +428,7 @@ ul.chars{
 
 .footer-flex {
     display: flex;
-    flex-flow: column wrap;
+    flex-flow: row wrap;
     justify-content: space-evenly;
     align-content: space-evenly;
     margin: 0 auto;
