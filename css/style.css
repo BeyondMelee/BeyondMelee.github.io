@@ -62,6 +62,7 @@ a:active {
 }
 
 a.button {
+    font-size: 18px;
     padding: 8px 6px;
     font-family: monts;
     color: white;
@@ -164,6 +165,7 @@ a.nav {
 }
 
 a.download {
+    font-size: 18px;
     padding: 8px 6px;
     font-family: monts;
     color: white;
