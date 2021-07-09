@@ -399,6 +399,7 @@ ul.chars{
 
 .divider {
     border-top: 1px solid rgba(220, 220, 220, 1);
+    margin: 15px 50px;
 }
 
 .download-item {
@@ -422,6 +423,7 @@ ul.chars{
 } */
 
 .footer-container {
+    margin-top: 20px;
     width: 60%;
     background: rgba(0.6, 0.6, 0.6, 0.6);
 }
