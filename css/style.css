@@ -422,6 +422,10 @@ ul.chars{
     float: right;
 }
 
+.no-return {
+    display: inline;
+}
+
 .no-spacing {
     padding: 0px;
     margin: 0px;
@@ -455,8 +459,8 @@ ul.chars{
 }
 
 .rainbow {
-    -webkit-animation: huerotate 30s linear infinite;
-    animation: huerotate 7s linear infinite;
+    -webkit-animation: huerotate 5s linear infinite;
+    animation: huerotate 5s linear infinite;
     background: -webkit-gradient(linear, left top, right top, from(cyan), to(orange));
     background: linear-gradient(to right, cyan, orange);
     background-clip: text;
