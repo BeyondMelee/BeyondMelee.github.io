@@ -391,6 +391,23 @@ ul.chars{
     animation-iteration-count: infinite;
 } */
 
+.footer-container {
+    width: 60%;
+    background: rgba(0.6, 0.6, 0.6, 0.6);
+}
+
+.footer-flex {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-evenly;
+    align-content: space-evenly;
+    margin: 0 auto;
+}
+
+.footer-item {
+    flex: 0 1 auto;
+}
+
 .glow-orange {
     border: 2px solid #ff5e00;
     border-radius: 7px;
