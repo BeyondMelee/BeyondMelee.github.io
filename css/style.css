@@ -140,6 +140,7 @@ a.nav {
 }
 
 a.download {
+    padding: 6px 4px;
     font-family: monts;
     color: white;
     border: 2px solid #0caee6;
@@ -152,6 +153,7 @@ a.download {
 }
 
 a.download:hover {
+    padding: 8px 6px;
     box-shadow: 0 0 12px rgba(12, 174, 230, 0.8);
 }
 
