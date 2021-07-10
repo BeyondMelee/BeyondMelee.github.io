@@ -672,6 +672,7 @@ ul.chars{
 
 .trailer {
     width: 90%;
+    min-height: 400px;
     height: auto;
 }
 
