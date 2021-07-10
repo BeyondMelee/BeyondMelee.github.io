@@ -502,7 +502,7 @@ ul.chars{
 .home-main {
     display: flex;
     width: 60%;
-    flex-flow: column nowrap;
+    flex-flow: row nowrap;
     justify-content: space-around;
     align-items: center;
     align-content: flex-start;
