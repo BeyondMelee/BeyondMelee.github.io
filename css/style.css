@@ -601,6 +601,7 @@ ul.chars{
 .subnav {
     float: right;
     overflow: hidden;
+    margin: 0px 4px;
 }
 
 .nav-pages a:hover, .subnav:hover .subnav-menu {
@@ -639,7 +640,7 @@ ul.chars{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    color: black;
+    color: #0caee6;
 }
 
 .target-highlight {
