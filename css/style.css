@@ -501,7 +501,8 @@ ul.chars{
 }
 
 .feature-image {
-    
+    width: 200px;
+
 }
 
 .feature-paragraph {
