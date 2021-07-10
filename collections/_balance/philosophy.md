@@ -1,6 +1,6 @@
 ---
 layout: empty
-title: Credits Page
+title: Balance Philosophy
 ---
 
 ### Fun at any cost; why Bowser and Mewtwo have nerfs in Beyond Melee:

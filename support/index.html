@@ -2,6 +2,7 @@
 layout: default
 title: Beyond Melee Support
 ---
+
 <header class="page-title bottom-gap">
     <div class="page-header-margin header-image">
         <h1 class="vert-align center title-header-text">
@@ -9,3 +10,9 @@ title: Beyond Melee Support
         </h1>
     </div>
 </header>
+
+<div class="holder glow-blue top-gap bottom-gap">
+    {% for balance in site.support %}
+        {{ support.content }}
+    {% endfor %}
+</div>

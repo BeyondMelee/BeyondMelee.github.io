@@ -11,3 +11,5 @@ collections:
         output: false
     balance:
         output: false
+    support:
+        output: false
