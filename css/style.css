@@ -680,6 +680,11 @@ ul.chars{
     margin-top: 30px;
 }
 
+.trailer {
+    width: 90%;
+    height: auto;
+}
+
 .twitter-timeline {
     position: static;
     visibility: visible;
