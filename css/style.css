@@ -436,6 +436,10 @@ ul.chars{
     margin: 5px;
 }
 
+.font-icons {
+    font-family: icons;
+}
+
 .footer-container {
     margin-top: 50px;
     width: 60%;
