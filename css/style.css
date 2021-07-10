@@ -502,9 +502,9 @@ ul.chars{
 .home-main {
     display: flex;
     width: 60%;
-    flex-flow: row nowrap;
+    flex-flow: column nowrap;
     justify-content: space-around;
-    align-items: flex-start;
+    align-items: center;
     align-content: flex-start;
 
 }
