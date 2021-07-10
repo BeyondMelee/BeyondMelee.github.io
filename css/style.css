@@ -445,7 +445,7 @@ ul.chars{
     margin: 0 auto;
 }
 
-.content-container.features {
+.content-container-features {
     padding: 15px;
     display: flex;
     flex-flow: column wrap;
@@ -464,7 +464,7 @@ ul.chars{
     width: 200px;
 }
 
-.content-item.features {
+.content-item-features {
     flex: 0 1 auto;
     padding: 0px;
     margin: 5px;
