@@ -184,6 +184,10 @@ a.download:hover {
     box-shadow: 0 0 12px rgba(12, 174, 230, 0.8);
 }
 
+a.font-icons {
+    font-family: icons;
+}
+
 body {
     margin: 0;
     background-color: black;
@@ -434,10 +438,6 @@ ul.chars{
     flex: 0 1 auto;
     padding: 0px;
     margin: 5px;
-}
-
-.font-icons {
-    font-family: icons;
 }
 
 .footer-container {
