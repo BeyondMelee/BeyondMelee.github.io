@@ -504,7 +504,7 @@ ul.chars{
     width: 60%;
     flex-flow: row wrap;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
     align-content: flex-start;
 
 }
