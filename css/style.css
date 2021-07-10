@@ -221,6 +221,10 @@ h2 {
     font-size: 48px;
 }
 
+h2.content {
+    text-align: left;
+}
+
 h3 {
     color: cyan;
     text-align: left;
