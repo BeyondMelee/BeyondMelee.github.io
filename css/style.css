@@ -443,6 +443,12 @@ ul.chars{
     width: 200px;
 }
 
+.content-item.features {
+    flex: 0 1 auto;
+    padding: 0px;
+    margin: 5px;
+}
+
 .csp-overlay {
     background-color: black;
     transition: .5s ease;
