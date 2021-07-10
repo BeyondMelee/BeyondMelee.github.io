@@ -607,20 +607,6 @@ ul.chars{
     margin-bottom: 15px;
 }
 
-.remove-highlight {
-    background: rgba(0, 0, 0, 0)
-}
-
-.testclass {
-    background-color: black;
-
-}
-
-.testclass::before {
-    content: "*****";
-    color: red;
-}
-
 .title {
     position: relative;
     display: block;
