@@ -509,7 +509,7 @@ ul.chars{
 
 }
 
-.home-main section:nth-child(2){
+.home-main div:nth-child(2){
     margin-left: auto;
     margin-right: 0;
 }
