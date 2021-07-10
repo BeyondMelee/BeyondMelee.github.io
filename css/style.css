@@ -621,10 +621,10 @@ ul.chars{
 }
 
 .title-image {
-    max-height: 200px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    z-index: 300000;
+    max-width:100%;
+    max-height:100%;
+    margin-top:-50%;
+    margin-left:-50%;
 }
 
 .title-margin {
