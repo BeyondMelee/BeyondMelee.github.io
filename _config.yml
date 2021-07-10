@@ -4,6 +4,6 @@ collections_dir: collections
 
 collections:
     characters:
-        output: true
+        output: false
     faqs:
         output: false
