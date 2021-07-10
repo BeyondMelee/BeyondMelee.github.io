@@ -2,7 +2,7 @@
 layout: character
 title: raichu
 image: raichu.png
-name: raichu
+name: Raichu
 over: Raichu isn’t just a Pikachu clone. Almost all of his moves are entirely new, but stay true to the spirit of the Pikachu lineage.
 His neutral special is Electro Ball, a strong projectile that’s slow to come out, slow to travel across the stage, but if it hits you you’re likely to be combo’d to death... You’ll quickly see this is a pattern with this character.
 Up special at first seems very similar to Pikachu’s up special, but it’s quite different. It has a longer startup, and only has a hitbox at the end of the zip. If you hit with this hitbox, you can cancel your up b into a jump, aerial, or airdodge.
