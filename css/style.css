@@ -392,6 +392,8 @@ ul.chars{
 .csp-text {
     font-family: monts;
     margin: auto;
+    word-wrap: normal;
+    overflow-wrap: normal;
     text-align: center;
     color: white;
     font-size: 16px;
