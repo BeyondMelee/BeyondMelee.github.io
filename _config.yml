@@ -13,3 +13,5 @@ collections:
         output: false
     support:
         output: false
+    features:
+        output: false
