@@ -463,6 +463,10 @@ ul.chars{
     font-family: monts;
 }
 
+.footer-social {
+    width: 200px;
+}
+
 .glow-orange {
     border: 2px solid #ff5e00;
     border-radius: 7px;

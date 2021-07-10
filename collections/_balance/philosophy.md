@@ -1,5 +1,5 @@
 ---
-layout: empty
+layout: default
 title: Balance Philosophy
 ---
 
@@ -7,15 +7,15 @@ title: Balance Philosophy
 
 Mewtwo is a very bad character in Melee, a solo Mewtwo main is extremely unlikely to win anything more than a local in the modern era. He has no solid approaches other than dtilt, he gets combo’d like hell due to having one of the biggest hurtboxes in the game because of his tail, and generally his punish game is short and weak verses most of the cast. With all of this in mind, why would Beyond Melee nerf Mewtwo’s up b and nair before buffing this poor Pokemon?
 The end goal of Beyond Melee isn’t just to make a more balanced Melee in terms of characters on a tier list, it’s also to make a more balanced Melee in terms of the type of gameplay a player will be doing in the game at a given time.
-In vanilla Mewtwo’s case, his gameplay was not balanced. 
-Shippu and Zoma are closely ranked top Japan Melee players https://www.ssbwiki.com/Japan_SSBM_Rank_2018 . Zoma is also widely regarded as one of the best active Mewtwo players in the world. His combo videos are also fantastic https://youtu.be/qg4ErjgdgYw .
+In vanilla Mewtwo’s case, his gameplay was not balanced.
+Shippu and Zoma are closely ranked top [Japan Melee players](https://www.ssbwiki.com/Japan_SSBM_Rank_2018). Zoma is also widely regarded as one of the best active Mewtwo players in the world. His combo videos are [also fantastic](https://youtu.be/qg4ErjgdgYw) .
 
 
-In this set https://youtu.be/JuoZgHOTb3o?t=1019 , Shippu and Zoma play out a match of Peach vs Mewtwo on Final Destination. The match took seven minutes and seventeen seconds. Zoma spent four minutes and thirty seconds cornered at the ledge with no real avenue of escape while Shippu had no clear avenue to approach. 
+In [this set](https://youtu.be/JuoZgHOTb3o?t=1019) , Shippu and Zoma play out a match of Peach vs Mewtwo on Final Destination. The match took seven minutes and seventeen seconds. Zoma spent four minutes and thirty seconds cornered at the ledge with no real avenue of escape while Shippu had no clear avenue to approach.
 This is the problem with Mewtwo’s design. Neither player was trying to camp, they were both simply trying to win. In matchups like this where there’s no avenue of approach nor consequence of corner camping, Melee is at its least balanced towards the end goal of engaging and aggressive gameplay. Engaging gameplay and aggression is something Mewtwo’s design struggled to adhere to.
 Lets start with up b. We nerfed it’s distance, and it’s endlag. The move is laggier while also traveling less far, which hurts him a lot of course and takes away one of the best pieces of his kit: the piece that lets him escape disadvantage and recover easier than almost anyone else in the game. In return, his up b now has a hitbox when he reappears. It’s quite strong too, but doesn’t come out instantly. If someone is throwing out a move to where he’s teleporting to, the non-Mewtwo player will win every time. However, the new up b hitbox makes for a fantastic combo ender. You can combo his new side b, his dtilt, or his dair in to up b to get kill confirms that would be impossible in Vanilla.
 
-What these changes to up b do is they make it so that Mewtwo feels far, far less safe in the corner. In the Shippu vs Zoma set, Shippu gets too little reward for hits he gets on Mewtwo in the corner. This is because having advantage vs Mewtwo, but not a true combo, is almost useless due to up b. In Beyond Melee, this isn’t true. Play out the same scenario in Beyond Melee, and Shippu will be much much more aggressive against Zoma due to the reward he gets off of the hits from the nerfed up b. In turn, Zoma will be more aggressive due to the wealth of buffs Mewtwo has received combined with the nerfs to the parts of his kit that encourage camping. 
+What these changes to up b do is they make it so that Mewtwo feels far, far less safe in the corner. In the Shippu vs Zoma set, Shippu gets too little reward for hits he gets on Mewtwo in the corner. This is because having advantage vs Mewtwo, but not a true combo, is almost useless due to up b. In Beyond Melee, this isn’t true. Play out the same scenario in Beyond Melee, and Shippu will be much much more aggressive against Zoma due to the reward he gets off of the hits from the nerfed up b. In turn, Zoma will be more aggressive due to the wealth of buffs Mewtwo has received combined with the nerfs to the parts of his kit that encourage camping.
 The same philosophy of the up b changes applies to the Mewtwo nair changes. Shortening its duration by over half and removing the landing hitbox makes it much less strong at covering Mewtwo’s goal to land safely from disadvantage, but it makes it better at comboing aggressively and gives Mewtwo a wide new set of strings he never would have had access to before. This is a recurring theme in Beyond Melee changes. We want disadvantage to be, well, disadvantageous.
 These types of changes that encouarge aggression, reduce stalling, and heavily encourage close up interaction are riddled through Beyond Melee.
 The Beyond Melee balance philosophy is also why Kirby, Ice Climbers, Game and Watch, and Yoshi aren’t in Demo 1. We plan on retooling their kit to better adhere to our design goals, and to keep every single character in the game as fun and engaging to fight against as possible.
@@ -23,7 +23,7 @@ The Beyond Melee balance philosophy is also why Kirby, Ice Climbers, Game and Wa
 
 You will see throughout the changelog a massive amount of changes to characters’ grab games. This is because of another one of the major pillars of the Beyond Melee design philosophy is to heavily reduce repetitive, slow, uninteractive combo strings where possible. We want for a player who’s willing to do all they can to win to have to play and punish in a style that requires a wealth of mixups or extremely difficult punishes.
 With that in mind, most chain grabs in the game had to go. Over half of the Melee cast has a completely new grab game compared to Vanilla.
-This ruthless philosophy is also in service of one of the biggest goals of the project, which is to celebrate the success of any and all characters on the roster if or when they do well at any level of play. We want for casuals to be happy at any character ending up on their win screen in the same way we try to imagine any character in the Beyond Melee cast winning 10 nationals in a row and still impressing and stunning the audience while bringing them joy. 
+This ruthless philosophy is also in service of one of the biggest goals of the project, which is to celebrate the success of any and all characters on the roster if or when they do well at any level of play. We want for casuals to be happy at any character ending up on their win screen in the same way we try to imagine any character in the Beyond Melee cast winning 10 nationals in a row and still impressing and stunning the audience while bringing them joy.
 
 ### Muscle memory uncanny valley; why the top tier changes are different than the low and mid tiers’ changes:
 
