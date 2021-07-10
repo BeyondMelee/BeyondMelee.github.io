@@ -201,8 +201,8 @@ details.inner-detal {
     margin: 8px 0px;
 }
 
-summary {
-    cursor: pointer;
+details:target {
+    background: rgba(255, 94, 0, 0.7);
 }
 
 h1 {

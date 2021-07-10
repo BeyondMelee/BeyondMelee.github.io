@@ -12,11 +12,11 @@ title: Beyond Melee Changelog
 <div class="">
     <div class="holder center-text bottom-gap glow-blue top-gap">
         <section class="">
-            <details class="">
-                <summary class="large">Characters</summary>
+            <div class="large">
+                Characters
                 <p class="indent no-return"></p>
                     {% for char in site.characters %}
-                        <details id="{{ char.title }}" class="indent">
+                        <details id="{{ char.title }}" class="indent highlight">
                             <summary class="medium"><p class="medium no-return"><img src="/images/content/char-icons/{{ char.image }}" class="char-icon"></img> {{ char.name }}</p></summary>
                             <div class="glow-blue">
                                 <p class="indent medium">{{ char.over }}</p>
@@ -29,7 +29,7 @@ title: Beyond Melee Changelog
                             </div>
                         </details>
                     {% endfor %}
-            </details>
+            </div>
         </section>
     </div>
 </div>
