@@ -499,6 +499,16 @@ ul.chars{
     /* position: relative; */
 }
 
+.home-main {
+    display: flex;
+    width: 60%;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    align-content: flex-start;
+
+}
+
 /* .holder::before {
     content: "";
     display: inline-block;
