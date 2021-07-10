@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Pichu
+name: Raichu
+title: raichu
+image:
 ---
 Raichu isn’t just a Pikachu clone. Almost all of his moves are entirely new, but stay true to the spirit of the Pikachu lineage.
 His neutral special is Electro Ball, a strong projectile that’s slow to come out, slow to travel across the stage, but if it hits you you’re likely to be combo’d to death... You’ll quickly see this is a pattern with this character.

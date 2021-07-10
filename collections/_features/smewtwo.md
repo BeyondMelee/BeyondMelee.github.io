@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Shadow Mewtwos
+name: Shadow Mewtwo
+title: smewtwo
+image:
 ---
 Shadow Mewtwo bursts into Beyond Melee with a diverse and unique moveset. He has similarities to Mewtwo in appearance, but in gameplay he couldn’t be more different. Shadow Mewtwo’s signature mechanic is his ability to Mega Evolve! That’s right, Mega Evolution is making its first appearance in competitive Smash! You can mega evolve with down b, once you’ve dealt 60% to your opponent with A button attacks. Watch your meter rise with damage, and plan your match around your next Mega Evolution. Mega Shadow Mewtwo deals more damage and knockback on all of his moves than his normal form, and he moves faster as well. You remain in your mega form unless you whiff attacks, get hit, or your opponent dies. You can refill meter while mega evolved by landing more attacks, though, so if you want to keep the momentum in your favor, make smart plays.
 Mega evolution is great, but that’s not the only surprise up his sleeve. Shadow Mewtwo, ironically, has no Shadow Ball. Instead, press neutral special to activate Light Pillar. As you hold B, an indicator travels along the stage. Let go of the button to activate the beam! It’s solid for both shield pressure and combos, however it’s quite slow to start up, and slow to cool down. It’s a commitment, but you can use this move to extend tech chases, combos, or to punish campy opponents!

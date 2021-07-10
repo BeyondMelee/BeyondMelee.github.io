@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Pichu
+name: Fay
+title: fay
+image: 
 ---
 Fay is a weapons specialist, lost in time. Though she’s only made an official appearance in the forgotten Star Fox 2, Fay feels both familiar and completely new. Her moveset is inspired by Fox from the original Super Smash Brothers, with tons of new twists. Most notably, her specials, like her sniper... The P.A.W.P.
 Fox, Falco, and Wolf all have iconic blasters, but they can’t hold a candle to the P.A.W.P.
