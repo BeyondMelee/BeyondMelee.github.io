@@ -186,6 +186,7 @@ a.download:hover {
 }
 
 a.download-small {
+    margin-top: 10px;
     font-size: 12px;
     padding: 6px 4px;
     font-family: monts;
