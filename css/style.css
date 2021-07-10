@@ -186,6 +186,7 @@ a.download:hover {
 
 a.font-icons {
     font-family: icons;
+    font-size: 20px;
 }
 
 body {
