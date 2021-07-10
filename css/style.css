@@ -665,7 +665,7 @@ ul.chars{
 }
 
 .title-header-text {
-
+    overflow:hidden;
 }
 
 .title-image {

@@ -7,3 +7,5 @@ collections:
         output: false
     faqs:
         output: false
+    credits:
+        output: false
