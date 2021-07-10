@@ -509,6 +509,11 @@ ul.chars{
 
 }
 
+.home-main section:nth-child(2){
+    margin-left: auto;
+    margin-right: 0;
+}
+
 /* .holder::before {
     content: "";
     display: inline-block;
