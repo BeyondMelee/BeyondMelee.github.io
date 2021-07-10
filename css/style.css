@@ -424,6 +424,18 @@ ul.chars{
     margin: 0 auto;
 }
 
+.content-container.features {
+    padding: 15px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    align-content: flex-start;
+    background: rgba(0.6, 0.6, 0.6, 0.6);
+    width: 65%;
+    margin: 0 auto;
+}
+
 .content-item {
     flex: 0 1 auto;
     padding: 0px;
