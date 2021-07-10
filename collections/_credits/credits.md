@@ -57,9 +57,9 @@ Big Yellow:
 Animator,
 [@VerySpicyJoe](https://twitter.com/VerySpicyJoe)
 
-Silvalfo:
-Animator,
-[@SilvalfoBowz](https://twitter.com/SilvalfoBowz)
+NyxTheShield:
+Stages,
+[@NyxTheShield](https://twitter.com/NyxTheShield)
 
 Cynth3tic:
 Website Lead/Patcher Lead,
@@ -80,6 +80,10 @@ Models/textures,
 Pigs:
 Models/animations/textures,
 [@PigsSSBM](https://twitter.com/PigsSSBM)
+
+Silvalfo:
+Animator,
+[@SilvalfoBowz](https://twitter.com/SilvalfoBowz)
 
 Spamitburns:
 Models/textures,
