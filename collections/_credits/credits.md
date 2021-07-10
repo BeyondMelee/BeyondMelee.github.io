@@ -3,94 +3,94 @@ layout: empty
 title: Credits Page
 ---
 Hamyojo:
-###### Lead Dev
+Lead Dev
 [@hamyojo](https://twitter.com/hamyojo)
 
 Tri Wing:
-###### Lead Dev
+Lead Dev
 [@TriWing_](https://twitter.com/TriWing_)
 
 Sunsette:
-###### Lead Dev
+Lead Dev
 [@sunsette6](https://twitter.com/sunsette6)
 
 Janthor:
-###### Lead Dev
+Lead Dev
 [@BM_Janthor](https://twitter.com/BM_Janthor)
 
 Fennel:
-###### Lead Dev
+Lead Dev
 
 Starkley:
-###### Skull Kid lead, animator,
+Skull Kid lead, animator,
 [@SSBM_Starkey](https://twitter.com/SSBM_Starkey)
 
 Big Yellow:
-###### Animator,
+Animator,
 [@VerySpicyJoe](https://twitter.com/VerySpicyJoe)
 
 Firelis:
-###### Animator,
+Animator,
 [@Firelis_TH](https://twitter.com/Firelis_TH)
 
 Happymilla:
-###### Animator,
+Animator,
 [@HappyMillaReal](https://twitter.com/HappyMillaReal)
 
 Silvalfo:
-###### Animator,
+Animator,
 [@SilvalfoBowz](https://twitter.com/SilvalfoBowz)
 
 SuperSmasherFan:
-###### Animator,
+Animator,
 [@fan_smasher](https://twitter.com/fan_smasher)
 
 Cynth3tic:
-###### Website Lead/Patcher Lead,
+Website Lead/Patcher Lead,
 [@cyntheticTV](https://twitter.com/cyntheticTV)
 
 GoGurt:
-###### Effects Lead,
+Effects Lead,
 [@IBVFX99](https://twitter.com/IBVFX99)
 
 Kayleigh McKgee//Ghaspey:
-###### Voice actor, Raichu, Fay, Announcer,
+Voice actor, Raichu, Fay, Announcer,
 [@GhaspeyVO](https://twitter.com/GhaspeyVO)
 
 Cjag:
-###### Models/textures, Stages Lead,
+Models/textures, Stages Lead,
 [@SSBM_Cjag](https://twitter.com/SSBM_Cjag)
 
 Dr3am:
-###### Balance,
+Balance,
 [@Dr3am95](https://twitter.com/Dr3am95)
 
 CatBoymage:
-###### Models,
+Models,
 [@catboymage](https://twitter.com/catboymage)
 
 Eazy:
-###### Models/textures,
+Models/textures,
 [@Eazy0001](https://twitter.com/Eazy0001)
 
 Pigs:
-###### Models/textures,
+Models/textures,
 [@PigsSSBM](https://twitter.com/PigsSSBM)
 
 Smaitburns:
-###### Models/textures,
+Models/textures,
 [@spamitburns](https://twitter.com/spamitburns)
 
 Vancity_Primal:
-###### Models/textures,
+Models/textures,
 [@Vancity_Primal](https://twitter.com/Vancity_Primal)
 
 Rapito:
-###### Coder
+Coder
 [@RobertPeraltaB](https://twitter.com/RobertPeraltaB)
 
 Capernicus:
-###### Coder
+Coder
 [@CappyBM](https://twitter.com/CappyBM)
 
 Credit to Aaron Dulger for sound effects for Skull Kid
