@@ -598,7 +598,7 @@ ul.chars{
 .sidebar {
     float: right;
     width: 25%;
-    margin: 10px;
+    margin: 0px 10px;
     max-width: 300px;
     min-width: 200px;
 }
