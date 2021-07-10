@@ -9,3 +9,12 @@ title: Beyond Melee Features
         </h1>
     </div>
 </header>
+
+<div class="holder glow-blue top-gap bottom-gap content-container">
+    {% for feature in site.features %}
+        <div id="{{ feature.title }}" class="content-item">
+            <h4>{{ feature.title }}</h4>
+            <P>{{ feature.content }}</p>
+            </div>
+    {% endfor %}
+</div>
