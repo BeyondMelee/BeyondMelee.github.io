@@ -245,6 +245,13 @@ h5 {
     font-size: 16px;
 }
 
+h6 {
+    color: #0caee6;
+    font-family: monts;
+    font-size: 16px;
+    display: inline;
+}
+
 
 
 nav {
