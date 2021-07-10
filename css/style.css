@@ -150,6 +150,7 @@ a.github {
     font-size: 20px;
     text-decoration: none;
     background-color: #6e5494;
+
     color: #FFFFFF;
     padding: 6px;
     border-radius: 8px;
@@ -416,8 +417,8 @@ ul.chars{
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
-    align-items: stretch;
-    align-content: space-evenly;
+    align-items: flex-start;
+    align-content: flex-start;
     background: rgba(0.6, 0.6, 0.6, 0.6);
     width: 65%;
     margin: 0 auto;
@@ -427,6 +428,7 @@ ul.chars{
     flex: 0 1 auto;
     padding: 0px;
     margin: 5px;
+    width: 200px;
 }
 
 .csp-overlay {
@@ -457,6 +459,12 @@ ul.chars{
     flex: 0 1 auto;
     padding: 0px;
     margin: 5px;
+}
+
+.feature-paragraph {
+    margin-left: 0px;
+    text-align: left;
+    line-height: 1.5;
 }
 
 .footer-container {
