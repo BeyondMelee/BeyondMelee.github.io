@@ -373,6 +373,19 @@ ul.chars{
     justify-content: space-evenly;
     align-items: stretch;
     align-content: space-evenly;
+    background: rgba(0.6, 0.6, 0.6, 0.6);
+    width: 65%;
+    margin: 0 auto;
+}
+
+.container-main {
+    padding: 15px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: stretch;
+    align-content: center;
+    background: rgba(0.6, 0.6, 0.6, 0.6);
     width: 65%;
     margin: 0 auto;
 }
