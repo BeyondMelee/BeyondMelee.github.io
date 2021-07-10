@@ -502,8 +502,8 @@ ul.chars{
 .home-main {
     display: flex;
     width: 60%;
-    flex-flow: row nowrap;
-    justify-content: space-around;
+    flex-flow: row wrap;
+    justify-content: space-between;
     align-items: center;
     align-content: flex-start;
 
@@ -599,7 +599,8 @@ ul.chars{
     float: right;
     width: 25%;
     margin: 10px;
-    overflow: auto;
+    max-width: 300px;
+    min-width: 200px;
 }
 
 .small-gap {
