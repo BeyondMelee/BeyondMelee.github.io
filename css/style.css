@@ -483,7 +483,8 @@ ul.chars{
 
 .hero-vid-container {
     width: 100%;
-    height: 700px;
+    height: 600px;
+    max-height: 600px;
     overflow: hidden;
     position: relative;
 }
@@ -596,7 +597,6 @@ ul.chars{
 }
 
 .sidebar {
-    float: right;
     width: 25%;
     margin: 0px 10px;
     max-width: 300px;
@@ -613,6 +613,7 @@ ul.chars{
 }
 
 .nav-pages a:hover, .subnav:hover .subnav-menu {
+    margin: 0px 4px;
     background-image: url("/images/graphics/bg1.jpg");
     background-attachment: fixed;
     background-position: center;
@@ -701,9 +702,9 @@ ul.chars{
     position: relative;
     filter: blur(8px) !important;
     -webkit-filter: blur(8px) !important;
-    width: 100% !important;
+    width: auto !important;
     min-width: 100%;
-    height: auto !important;
+    height: 100% !important;
     min-height: 100%;
     background: transparent url('/images/graphics/bg2.png') no-repeat;
     background-size: cover;
