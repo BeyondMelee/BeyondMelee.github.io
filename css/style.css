@@ -612,16 +612,19 @@ ul.chars{
 }
 
 .title {
-    position: relative;
+    position: absolute;
+    top: 30px;
+    left: 50%;
     display: block;
-    z-index: 2;
+    z-index: 300000;
+    text-align: center;
 }
 
 .title-image {
-    max-height: 100px;
+    max-height: 200px;
     margin-top: 20px;
     margin-bottom: 20px;
-    z-index: 1;
+    z-index: 300000;
 }
 
 .title-margin {
