@@ -514,6 +514,11 @@ ul.chars{
     margin-right: 0;
 }
 
+.home-main div:nth-child(3){
+    margin-right: auto;
+    margin-left: 0;
+}
+
 /* .holder::before {
     content: "";
     display: inline-block;
