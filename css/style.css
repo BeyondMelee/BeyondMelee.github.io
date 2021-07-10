@@ -385,7 +385,6 @@ ul.chars{
     justify-content: center;
     align-items: stretch;
     align-content: center;
-    background: rgba(0.6, 0.6, 0.6, 0.6);
     width: 65%;
     margin: 0 auto;
 }
@@ -586,7 +585,6 @@ ul.chars{
 }
 
 .sidebar {
-    display: block;
     float: right;
     width: 25%;
     margin: 10px;
