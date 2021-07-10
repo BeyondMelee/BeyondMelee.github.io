@@ -3,7 +3,7 @@ layout: empty
 title: Credits Page
 ---
 Hamyojo:
-Lead Dev
+Director
 [@hamyojo](https://twitter.com/hamyojo)
 
 Janthor:
