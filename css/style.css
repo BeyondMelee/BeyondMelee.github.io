@@ -425,21 +425,7 @@ ul.chars{
     flex: 0 1 auto;
     padding: 0px;
     margin: 5px;
-    /* background-image: linear-gradient(grey, black); */
 }
-
-/* .download-glow {
-    border: 2px solid #ff5e00;
-    border-radius: 7px;
-    outline: none;
-    box-shadow: 0 0 12px #ff5e00;
-}
-
-.download-glow:hover {
-    animation-name: fade;
-    animation-duration: 5s;
-    animation-iteration-count: infinite;
-} */
 
 .footer-container {
     margin-top: 50px;
@@ -551,6 +537,7 @@ ul.chars{
 
 .nav-pages {
     float: right;
+    margin: 0px 4px;
 }
 
 .no-return {
@@ -616,7 +603,6 @@ ul.chars{
 }
 
 .nav-pages a:hover, .subnav:hover .subnav-menu {
-    margin: 0px 4px;
     background-image: url("/images/graphics/bg1.jpg");
     background-attachment: fixed;
     background-position: center;
