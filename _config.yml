@@ -9,3 +9,5 @@ collections:
         output: false
     credits:
         output: false
+    balance:
+        output: false
