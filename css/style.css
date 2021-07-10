@@ -607,6 +607,50 @@ ul.chars{
     margin-bottom: 15px;
 }
 
+.subnav {
+    float: right;
+    overflow: hidden;
+}
+
+.nav-pages a:hover, .subnav:hover .subnav-menu {
+    background-image: url("/images/graphics/bg1.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.subnav:hover .subnav-content {
+  display: block;
+}
+
+.subnav-content {
+    display: none;
+    position: absolute;
+    left: 0;
+    background-image: url("/images/graphics/bg1.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    z-index: 2;
+}
+
+.subnav-content a {
+    float: right;
+    color: white;
+}
+
+.subnav-content a:hover {
+    background-image: url("/images/graphics/bg1.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+}
+
 .target-highlight {
     background-color: rgba(0.8, 0.8, 0.8, 0.6)
 }
