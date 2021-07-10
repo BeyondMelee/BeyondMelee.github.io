@@ -305,6 +305,7 @@ ul.chars{
 
 .brand-link {
     float: left;
+    z-index: 2;
 }
 
 .brand-logo {
