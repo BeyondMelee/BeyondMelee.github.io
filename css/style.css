@@ -607,6 +607,10 @@ ul.chars{
     margin-bottom: 15px;
 }
 
+.target-highlight {
+    background-color: rgba(0.8, 0.8, 0.8, 0.6)
+}
+
 .title {
     position: relative;
     display: block;
