@@ -264,7 +264,7 @@ nav {
     text-align: center;
     overflow: hidden;
     padding: 16px 0px;
-    margin: auto;
+    margin: auto 4px;
     border: 5px #333;
     border-radius: 8px;
     background-color: #3330;
