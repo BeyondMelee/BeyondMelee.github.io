@@ -898,6 +898,9 @@ ul.chars{
 }
 
 @media screen and (max-width: 640px) {
+    .char-container {
+        width: 80%;
+    }
     .container-main,
     .footer-container,
     .holder,
