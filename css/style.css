@@ -676,6 +676,7 @@ ul.chars{
 }
 
 .subnav {
+    display: inline;
     overflow: hidden;
     margin: 0px 4px;
 }
