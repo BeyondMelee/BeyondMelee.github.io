@@ -548,7 +548,7 @@ ul.chars{
     
 }
 
-.feature-paragraph {
+.feature-title {
     margin-left: 0px;
     text-align: center;
     line-height: 1.5;
@@ -699,7 +699,11 @@ ul.chars{
     margin: 0 auto;
 }
 
-@media only screen and (max-device-width:1742px) {
+.home-text {
+    display: none;
+}
+
+@media only screen and (max-width:1742px) {
     .page-wide {
         width: 100%;
         margin: 0 auto;
@@ -718,21 +722,17 @@ ul.chars{
         float: none;
     }
     .home-text {
-        display: block !important;
+        display: block;
     }
     .home-main {
         width: 100%;
     }
     .sidebar {
-        width: 100% !important;
+        width: 100%;
     }
     .title-header-text {
         font-size: 15vw;
     }
-}
-
-.home-text {
-    display: none;
 }
 
 .parallax {
@@ -771,9 +771,9 @@ ul.chars{
 }
 
 .subnav:hover {
-    border-bottom: 0.1vh solid white;
-    border-bottom-left-radius: 0.1vh;
-    border-bottom-right-radius: 0.1vh;
+    border-bottom: 1px solid white;
+    border-bottom-left-radius: 1px;
+    border-bottom-right-radius: 1px;
 }
 
 .nav-pages a:hover, .subnav:hover .subnav-menu {
