@@ -162,7 +162,7 @@ a.github::before {
 }
 
 a.nav {
-    content:'';
+    margin: 0px 4px;
 }
 
 a.download {
