@@ -687,6 +687,7 @@ ul.chars{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    display: inline;
 }
 
 .subnav:hover .subnav-content {
