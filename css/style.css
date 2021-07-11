@@ -678,7 +678,6 @@ ul.chars{
 .subnav {
     overflow: hidden;
     margin: 0px 4px;
-    width: 65%;
 }
 
 .nav-pages a:hover, .subnav:hover .subnav-menu {
@@ -709,6 +708,7 @@ ul.chars{
     width: 100%;
     z-index: 2;
     float: right;
+    width: 65%;
 }
 
 .subnav-content a {
