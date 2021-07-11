@@ -476,9 +476,23 @@ ul.chars{
     width: 350px;
 }
 
-.content-item a{
+.content-item-2 {
+    flex: 0 1 auto;
+    padding: 0px;
+    margin: 5px;
+    width: 400px;
+}
+
+.content-item-main{
     font-family: monts;
     color: #0caee6;
+}
+
+.content-item-title {
+    flex: 0 1 auto;
+    padding: 0px;
+    margin: 5px;
+    width: 600px;
 }
 
 .content-item-features {
