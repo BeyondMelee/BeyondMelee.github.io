@@ -503,6 +503,7 @@ ul.chars{
 .feature-image {
     height: 300px;
     width: auto;
+    max-width: 600px;
 }
 
 .feature-paragraph {
