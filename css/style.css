@@ -351,7 +351,8 @@ ul.chars{
 }
 
 .brand-logo {
-    max-width: 140px
+    float:left;
+    max-width: 20vw;
 }
 
 .brand-orange {
@@ -537,14 +538,19 @@ ul.chars{
 }
 
 .feature-image {
-    max-height: 300px;
-    width: auto;
-    max-width: 500px;
+    height: 100%;
+    width: 100%;
+    max-height: 16em;
+    object-fit: contain;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 
 .feature-paragraph {
     margin-left: 0px;
-    text-align: left;
+    text-align: center;
     line-height: 1.5;
 }
 
@@ -661,6 +667,10 @@ ul.chars{
     margin: 0px 4px;
 }
 
+.nav-pages::after {
+    clear: both;
+}
+
 .no-return {
     display: inline;
 }
@@ -687,6 +697,42 @@ ul.chars{
 .page-wide {
     width: 60%;
     margin: 0 auto;
+}
+
+@media only screen and (max-device-width:1742px) {
+    .page-wide {
+        width: 100%;
+        margin: 0 auto;
+    }
+    a.nav {
+        text-align: center;
+        font-size:0.5em
+    }
+    .nav-pages {
+        float: none;
+    }
+    .brand-logo {
+        display: none;
+    }
+    .brand-link {
+        float: none;
+    }
+    .home-text {
+        display: block !important;
+    }
+    .home-main {
+        width: 100%;
+    }
+    .sidebar {
+        width: 100% !important;
+    }
+    .title-header-text {
+        font-size: 15vw;
+    }
+}
+
+.home-text {
+    display: none;
 }
 
 .parallax {
@@ -724,6 +770,12 @@ ul.chars{
     margin: 0px 4px;
 }
 
+.subnav:hover {
+    border-bottom: 0.1vh solid white;
+    border-bottom-left-radius: 0.1vh;
+    border-bottom-right-radius: 0.1vh;
+}
+
 .nav-pages a:hover, .subnav:hover .subnav-menu {
     background-image: url("/images/graphics/bg1.jpg");
     background-attachment: fixed;
@@ -734,9 +786,10 @@ ul.chars{
 }
 
 .subnav:hover .subnav-content {
-  display: block;
-  visibility: visible;
-  opacity: 1;
+    background: transparent;
+    display: block;
+    visibility: visible;
+    opacity: 1;
 }
 
 .subnav-content {
@@ -761,12 +814,8 @@ ul.chars{
 }
 
 .subnav-content a:hover {
-    background-image: url("/images/graphics/bg1.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
     color: #0caee6;
+    background: transparent;
 }
 
 .target-highlight {
@@ -839,4 +888,11 @@ ul.chars{
     position: absolute;
     top: 50%;
     transform: translate(-50%, -50%);
+}
+
+code {
+    border: 0.1em solid darkgrey;
+    border-radius: 0.25em;
+    padding: 0.1em;
+    background: black;
 }

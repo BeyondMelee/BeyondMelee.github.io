@@ -8,12 +8,11 @@ title: Beyond Melee Downloads
             <h1 class="center title-header-text">
                 Download
             </h1>
-            <a href="/mediafire/" id="patcher_dl" class="download center center-text small-gap">
-                Download Beyond Melee Windows Patcher
-            </a>
+            <a href="" id="patcher_dl" class="download center center-text small-gap"></a>
             <!-- <a href="/mega/" id="patcher_dl" class="download-small center center-text">
                 Mega Mirror Download Link
             </a> -->
+            <script>const osStr=navigator.platform.toLowerCase();const dlElement=document.getElementById("patcher_dl");if(osStr.includes("mac")){var txt="Install Beyond Melee On macOS";var lnk="#macdl"}else if(osStr.includes("linux")){var txt="Install Beyond Melee On Linux";var lnk="#linuxdl"}else{var txt="Download Beyond Melee Windows Patcher";var lnk="/mediafire/"}dlElement.innerHTML=txt;dlElement.setAttribute("href",lnk);</script>
         </div>
     </div>
 </header>
@@ -32,10 +31,10 @@ title: Beyond Melee Downloads
         </p>
     </article>
     <article class="download-item">
-        <h2>How to install on Mac:</h2>
+        <h2 id="macdl">How to install on Mac:</h2>
         <p style="text-align:left;">
             1. Download <a href="https://projects.sappharad.com/tools/multipatch.html">MultiPatch</a><br>
-            2. Download the xdelta file of the version you want here <a href="https://www.mediafire.com/folder/34g1tp747x2zp/Beyond+Melee+xdeltas">Beyond Melee v1.0.0</a><br>
+            2. Download the xdelta file of the version you want here: <a href="https://www.mediafire.com/folder/34g1tp747x2zp/Beyond+Melee+xdeltas">Beyond Melee v1.0.0</a><br>
             3. Open MultiPatch<br>
             3a (optional; This step is just for finding your vanilla ISO, if you know where it is, skip it.) Open Dolphin, the one you use for rollback/slippi(and make sure its updated), and right click your vanilla Melee iso, then click “open containing folder”. See where your vanilla ISO is stored in your computer.<br>
             4. For the first field, find the patch with the extension ".xdelta" in the folder you downloaded it to.<br>
@@ -43,7 +42,20 @@ title: Beyond Melee Downloads
             6. Third field, browse to the folder your vanilla ISO is in, then put in Beyond-Melee-1-0-0.iso (or Diet-Beyond). Click Save.<br>
             7. Patch.<br>
             You’re good to go and have Beyond Melee installed on Mac!<br>
-            If you still have any problems, make sure to first check the <a href="/faq/">FAQ</a>
+            If you still have any problems, make sure to first check the <a href="/faq/">FAQ</a>.
+        </p>
+    </article>
+    <article class="download-item">
+        <h2 id="linuxdl">How to install on Linux:</h2>
+        <p style="text-align:left;">
+            1. Download <a href="https://github.com/jmacd/xdelta">xdelta</a> for your distribution. It will likely be available through your package manager under the name <code>xdelta3</code><br>
+            2. Download the xdelta file of the version you want here: <a href="https://www.mediafire.com/folder/34g1tp747x2zp/Beyond+Melee+xdeltas">Beyond Melee v1.0.0</a><br>
+            3. Open up a terminal<br>
+            4. Run <code>xdelta3 -d -s vanilla_melee_path xdelta_file_path desired_final_path</code>, replacing the last 3 arguments with what the text implies<br>
+            5. Give your computer time to patch your vanilla Melee image. It shouldn't take much more than a couple minutes.<br>
+            6. Move the patched image somewhere safe and launch it with Dolphin.
+            You’re good to go and have Beyond Melee installed on your computer!<br>
+            If you still have any problems, make sure to first check the <a href="/faq/">FAQ</a>.
         </p>
     </article>
 </div>
