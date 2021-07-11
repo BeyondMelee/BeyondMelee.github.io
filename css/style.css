@@ -835,14 +835,6 @@ ul.chars{
     background-color: rgba(0.8, 0.8, 0.8, 0.4)
 }
 
-.title {
-    position: relative;
-    display: block;
-    z-index: 300000;
-    text-align: center;
-    margin: 13% 0px;
-}
-
 .title-header-text {
     overflow:hidden;
 }
@@ -880,17 +872,27 @@ ul.chars{
     margin-bottom: auto;
 }
 
+.title {
+    text-align: center;
+}
+
 .video-bg {
-    position: absolute;
-    filter: blur(8px) !important;
-    -webkit-filter: blur(8px) !important;
-    width: 100% !important;
+    -webkit-filter: blur(8px);
+    filter: blur(8px);
     background: transparent url('/images/graphics/bg2.png') no-repeat;
     background-size: cover;
-    top: 0;
     left: 0;
     overflow: hidden;
     z-index: -1;
+}
+
+.title,
+.video-bg {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    left: 0;
+    transform: translateY(-50%);
 }
 
 #introVideo {
