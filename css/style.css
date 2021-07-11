@@ -469,6 +469,13 @@ ul.chars{
     width: 200px;
 }
 
+.content-item {
+    flex: 0 1 auto;
+    padding: 0px;
+    margin: 5px;
+    width: 350px;
+}
+
 .content-item a{
     font-family: monts;
     color: #0caee6;
