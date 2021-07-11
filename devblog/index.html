@@ -1,0 +1,23 @@
+---
+layout: default
+title: Beyond Melee Devblog
+---
+<header class="page-title bottom-gap">
+    <div class="page-header-margin header-image">
+        <h1 class="vert-align center title-header-text">
+            Devblog
+        </h1>
+    </div>
+</header>
+
+<div class="holder glow-blue top-gap bottom-gap content-container">
+    {% assign sorted = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted %}
+        <div class="blog-item">
+            <h4>{{ post.name }}</h4>
+            <p class="date">{{ post.date }}</p>
+            <p>{{ post.content }}</p>
+                <!-- <a href="">Click here to read more <strong>></strong></a> -->
+            </div>
+    {% endfor %}
+</div>

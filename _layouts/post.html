@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        {% include header.html %}
+        {% include analytics.html %}
+        <title>{{ page.title }}</title>
+    </head>
+    <body class="parallax">
+        {% include gtm.html %}
+        {% include nav-bar.html %}
+
+        <div class="holder glow-blue top-gap bottom-gap content-container">
+            <div class="blog-item">
+                <h4>{{ page.name }}</h4>
+                <p class="date">{{ page.date }}</p>
+                <p>{{content}}</p>
+            </div>
+        </div>
+
+        {% include footer.html %}
+    </body>
+</html>

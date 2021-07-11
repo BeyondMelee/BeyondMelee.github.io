@@ -15,3 +15,6 @@ collections:
         output: false
     features:
         output: false
+    posts:
+        output: true
+        permalink: /devblog/:title/

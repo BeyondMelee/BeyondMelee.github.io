@@ -315,6 +315,11 @@ p {
     margin: 4px 0px;
 }
 
+ul {
+    font-family: monts;
+    color: white;
+}
+
 .small {
     color: #fefefe;
     font-family: monts;
@@ -339,6 +344,13 @@ ul.chars{
 
 .black-bg {
     background-color: black;
+}
+
+.blog-item {
+    flex: 0 1 auto;
+    padding: 0px;
+    margin: 5px;
+    width: auto;
 }
 
 .brand-blue {
@@ -413,8 +425,6 @@ ul.chars{
     width: 65%;
     margin: 0 auto;
 }
-
-
 
 .container-download {
     padding: 15px;
@@ -523,6 +533,13 @@ ul.chars{
     text-align: center;
     color: white;
     font-size: 16px;
+}
+
+.date {
+    font-family: monts;
+    font-size: 12px;
+    color: grey;
+    margin: 6px 0px;
 }
 
 .divider {
