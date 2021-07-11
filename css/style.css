@@ -42,7 +42,7 @@ a {
 }
 
 a:link {
-    color: lightgray;
+    color: gray;
     text-decoration: none;
 }
 
@@ -163,6 +163,7 @@ a.github::before {
 
 a.nav {
     margin: 0px 4px;
+    color: white;
 }
 
 a.download {
