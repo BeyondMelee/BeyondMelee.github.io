@@ -610,6 +610,12 @@ ul.chars{
     /* position: relative; */
 }
 
+@media screen and (max-width: 640px) {
+    .holder {
+        width: 90%;
+    }
+}
+
 .home-main {
     display: flex;
     width: 60%;
