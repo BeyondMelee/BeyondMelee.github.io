@@ -284,6 +284,11 @@ h6 {
     display: inline;
 }
 
+iframe {
+    max-height: 1000px;
+    overflow: auto;
+}
+
 nav {
     font-family: monts;
     font-size: 26px;
