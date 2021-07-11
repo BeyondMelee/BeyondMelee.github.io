@@ -708,6 +708,7 @@ ul.chars{
     transition: all ease 0.5s;
     width: 100%;
     z-index: 2;
+    width: 65%;
 }
 
 .subnav-content a {
