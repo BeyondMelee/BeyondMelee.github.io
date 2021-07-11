@@ -166,6 +166,10 @@ a.nav {
     color: white;
 }
 
+a.nav:hover {
+    color: grey;
+}
+
 a.download {
     font-size: 18px;
     padding: 8px 6px;
