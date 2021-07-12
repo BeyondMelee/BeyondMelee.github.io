@@ -14,10 +14,12 @@ title: Beyond Melee Devblog
     {% assign sorted = site.posts | sort: 'date' | reverse %}
     {% for post in sorted %}
         <div class="blog-item">
-            <h4>{{ post.name }}</h4>
-            <p class="date">{{ post.date }}</p>
-            <p>{{ post.content }}</p>
-                <!-- <a href="">Click here to read more <strong>></strong></a> -->
+            <h4 class="blog-title">{{ post.name }}</h4>
+            <p class="date">{{ post.date | date_to_string: "ordinal", "US" }}</p>
+            <div class="excerpt-gradient">
+                <p class="">{{ post.excerpt }}</p>
             </div>
+            <a class="button-margin" href="{{ post.url }}">Click here to read more <strong>></strong></a>
+        </div>
     {% endfor %}
 </div>

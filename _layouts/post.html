@@ -4,18 +4,24 @@
     <head>
         {% include header.html %}
         {% include analytics.html %}
-        <title>{{ page.title }}</title>
+        <title>{{ page.name }}</title>
     </head>
     <body class="parallax">
         {% include gtm.html %}
         {% include nav-bar.html %}
-
-        <div class="holder glow-blue top-gap bottom-gap content-container">
-            <div class="blog-item">
-                <h4>{{ page.name }}</h4>
-                <p class="date">{{ page.date }}</p>
-                <p>{{content}}</p>
+        <header class="page-title bottom-gap">
+            <div class="page-header-margin header-image">
+                <h1 class="vert-align center title-header-text">
+                    {{ page.name }}
+                </h1>
             </div>
+        </header>
+        <div class="holder glow-blue top-gap bottom-gap content-container">
+            <article class="blog-item blog">
+                <h4 class="blog-title">{{ page.name }}</h4>
+                <p class="date">{{ page.date | date_to_string: "ordinal", "US" }}</p>
+                <p class="">{{ content }}</p>
+            </article>
         </div>
 
         {% include footer.html %}

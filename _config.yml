@@ -2,6 +2,8 @@ name: Beyond melee
 
 collections_dir: collections
 
+excerpt_separator: <!--more-->
+
 collections:
     characters:
         output: false
@@ -17,4 +19,4 @@ collections:
         output: false
     posts:
         output: true
-        permalink: /devblog/:title/
+        permalink: /devblog/:categories/:year/:month/:day/:title/
