@@ -793,6 +793,7 @@ ul.chars{
   display: block;
   visibility: visible;
   opacity: 1;
+  background: transparent;
 }
 
 .subnav-content {
