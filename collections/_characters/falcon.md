@@ -8,17 +8,17 @@ over: Gentleman is now consistent. Nipple fire spikes. That’s it. Upair has so
 
 (Switched to PAL base, so these are changes from PAL default)
 
-##Knee
+### Knee
 
 Changed to NTSC
 
-##Pummel:
+### Pummel:
 
 1.15x speed
 
 dmg 3 > 2
 
-##Uair:
+### Uair:
 
 Strong hit ID 0:
 
@@ -36,13 +36,13 @@ BKB 8 > 8
 
 KBG 80 > 93
 
-##Nair:
+### Nair:
 
 Weak hit:
 
 DMG 6/5 > 5
 
-##Ftilt:
+### Ftilt:
 
 High:
 
