@@ -3,7 +3,7 @@ layout: character
 title: fox
 image: fox.png
 name: Fox
-over: General damage output nerfs, plus usmash is slightly weaker.
+over: General damage output nerfs.
 ---
 
 ### Neutral b:

@@ -3,7 +3,7 @@ layout: character
 title: marth
 image: marth.png
 name: Marth
-over: Uthrow is no longer a free chain grab. Counter and up b have slight nerfs to tone down his gimp game.
+over: Counter is tweaked. Various damage tweaks.
 ---
 
 ### dtilt:
