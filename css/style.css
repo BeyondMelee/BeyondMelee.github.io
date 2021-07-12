@@ -582,11 +582,20 @@ ul.chars{
     margin: 5px;
 }
 
-.excerpt-gradient::after {
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 255));
-    content: '';
-    display: block;
+.excerpt-gradient {
     position: relative;
+    overflow: hidden;
+}
+
+.excerpt-gradient .read-more {
+    position: relative;
+    top: -100px;
+    margin: 0;
+    padding: 60px 0px 20px 0px;
+    background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.6));
+    display: grid;
+    justify-content: center;
+    align-content: start;
 }
 
 .feature-image {

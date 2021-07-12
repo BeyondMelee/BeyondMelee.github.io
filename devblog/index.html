@@ -18,8 +18,8 @@ title: Beyond Melee Devblog
             <p class="date">{{ post.date | date_to_string: "ordinal", "US" }}</p>
             <div class="excerpt-gradient">
                 <p class="">{{ post.excerpt }}</p>
+                <p class="read-more"><a class="button-margin" href="{{ post.url }}">Read more <strong>></strong></a></p>
             </div>
-            <a class="button-margin" href="{{ post.url }}">Click here to read more <strong>></strong></a>
         </div>
     {% endfor %}
 </div>
