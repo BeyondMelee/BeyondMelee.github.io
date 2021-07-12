@@ -829,14 +829,6 @@ ul.chars{
     background-color: rgba(0.8, 0.8, 0.8, 0.4)
 }
 
-.title {
-    position: relative;
-    display: block;
-    z-index: 300000;
-    text-align: center;
-    margin: 13% 0px;
-}
-
 .title-header-text {
     overflow:hidden;
 }
@@ -874,17 +866,59 @@ ul.chars{
     margin-bottom: auto;
 }
 
-.video-bg {
-    position: absolute;
-    filter: blur(8px) !important;
-    -webkit-filter: blur(8px) !important;
-    width: 100% !important;
-    background: transparent url('/images/graphics/bg2.png') no-repeat;
-    background-size: cover;
-    top: 0;
-    left: 0;
-    overflow: hidden;
-    z-index: -1;
+.hero {
+  position: relative;
+}
+
+.hero__video {
+  position: absolute;
+  top: 0;
+  right: -8px;
+  bottom: 0;
+  left: -8px;
+  display: block;
+  width: calc(100% + 16px);
+  height: 100%;
+  object-fit: cover;
+  -webkit-filter: blur(8px);
+  filter: blur(8px);
+  z-index: -1;
+}
+
+.hero__items {
+  display: grid;
+  grid-gap: 12px;
+  grid-template-areas:
+      ". logotype ."
+      "cta cta cta";
+  grid-template-rows: minmax(0, 1fr) auto;
+  grid-template-columns: 10vw auto 10vw;
+  padding: 5vh 3vw;
+  height: 60vh;
+}
+
+.hero__logotype-container {
+  grid-area: logotype;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero__logotype {
+  width: 100%;
+  max-width: 1000px;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.hero__cta {
+  grid-area: cta;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
 }
 
 #introVideo {
