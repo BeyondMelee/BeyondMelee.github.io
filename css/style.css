@@ -677,12 +677,6 @@ ul.chars{
     /* position: relative; */
 }
 
-@media screen and (max-width: 640px) {
-    .holder {
-        width: 90%;
-    }
-}
-
 .home-main {
     display: flex;
     width: 60%;
@@ -901,4 +895,20 @@ ul.chars{
     position: absolute;
     top: 50%;
     transform: translate(-50%, -50%);
+}
+
+@media screen and (max-width: 640px) {
+    .char-container {
+        width: 80%;
+    }
+    .container-main,
+    .footer-container,
+    .holder,
+    .home-main,
+    .page-wide {
+        width: 90%;
+    }
+    #introVideo {
+        max-width: 80%;
+    }
 }
