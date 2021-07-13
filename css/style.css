@@ -237,6 +237,13 @@ body {
     background-color: black;
 }
 
+code {
+    border: 0.1em solid darkgrey;
+    border-radius: 0.25em;
+    padding: 0.1em;
+    background: black;
+}
+
 details {
     font-family: monts;
     color: white;
@@ -458,8 +465,8 @@ ul.chars{
 .container-download {
     padding: 15px;
     display: flex;
-    flex-flow: row wrap;
-    justify-content: space-evenly;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
     align-items: stretch;
     align-content: space-evenly;
     background: rgba(0.6, 0.6, 0.6, 0.6);
