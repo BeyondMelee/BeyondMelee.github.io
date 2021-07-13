@@ -17,6 +17,16 @@ collections:
         output: false
     features:
         output: false
+        order:
+            - fay.md
+            - skullkid.md
+            - raichu.md
+            - wolf.md
+            - smewtwo.md
+            - rebalance.md
+            - controls.md
+            - stages.md
+            - modes.md
     posts:
         output: true
         permalink: /devblog/:categories/:year/:month/:day/:title/
