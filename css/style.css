@@ -250,7 +250,7 @@ details.inner-detal {
 }
 
 details:target {
-    background: rgba(255, 255, 255, 0.7);
+    background: rgba(255, 255, 255, 0.4);
 }
 
 h1 {
@@ -823,10 +823,6 @@ ul.chars{
     background-size: cover;
     background-repeat: no-repeat;
     color: #0caee6;
-}
-
-.target-highlight {
-    background-color: rgba(0.7, 0.7, 0.7, 0.3)
 }
 
 .title-header-text {
