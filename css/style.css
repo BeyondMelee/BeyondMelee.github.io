@@ -947,3 +947,10 @@ ul.chars{
         max-width: 80%;
     }
 }
+
+code {
+    border: 0.1em solid darkgrey;
+    border-radius: 0.25em;
+    padding: 0.1em;
+    background: black;
+}
