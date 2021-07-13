@@ -11,7 +11,8 @@ title: Beyond Melee Features
 </header>
 
 <div class="holder glow-blue top-gap bottom-gap content-container-features">
-    {% for feature in site.features %}
+    {% assign feature-list = site.features | sort: 'order'}
+    {% for feature in feature-list %}
         <div id="{{ feature.title }}" class="content-item-features feature-paragraph">
             <h4>{{ feature.name }}</h4>
             <img class="feature-image" src="/images/content/features/{{ feature.image }}"</img>
