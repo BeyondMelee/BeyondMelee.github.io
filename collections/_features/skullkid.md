@@ -3,7 +3,7 @@ layout: default
 name: Skull Kid
 title: skullkid
 image: skullkid.png
-sort: 2
+order: 2
 ---
 
 The tricky terror of Termina wreaks his havoc on the Beyond Melee cast with his speed, and mischievous mix ups. His counter is actually a curse, planting a poisonous flower on his opponent's head, but the counterplay is what you’d expect... Except for one thing.
