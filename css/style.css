@@ -869,6 +869,7 @@ ul.chars{
 
 .hero {
   position: relative;
+  overflow: hidden;
 }
 
 .hero__video {
