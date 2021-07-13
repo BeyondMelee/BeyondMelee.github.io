@@ -599,9 +599,10 @@ ul.chars{
 }
 
 .feature-image {
-    max-height: 300px;
-    width: auto;
-    max-width: 500px;
+    max-height: 16em;
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
 }
 
 .feature-paragraph {
