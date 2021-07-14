@@ -235,7 +235,8 @@ Angle 361 > 60
 
 IASA 26
 
-Flare Blade:
+
+### Flare Blade:
 
 Base Damage 6 > 8
 
