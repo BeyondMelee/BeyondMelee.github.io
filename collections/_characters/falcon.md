@@ -22,7 +22,7 @@ dmg 3 > 2
 
 Strong hit ID 0:
 
-DMG 13 > 12
+DMG 13 > 12 (kb compensated) 
 
 BKB 10 > 10
 
@@ -30,7 +30,7 @@ KBG 100 > 107
 
 Weak hit ID 0:
 
-DMG 12 > 10
+DMG 12 > 10 (kb compensated) 
 
 BKB 8 > 8
 
@@ -40,7 +40,7 @@ KBG 80 > 93
 
 Weak hit:
 
-DMG 6/5 > 5
+DMG 6/5 > 5 (kb compensated) 
 
 ### Ftilt:
 
