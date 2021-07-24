@@ -8,7 +8,7 @@ over: Only nerfed damage output.
 
 ### bair:
 
-dmg 15 > 13
+dmg 15 > 13 (kb compensated) 
 
 kbg 100 > 113
 
