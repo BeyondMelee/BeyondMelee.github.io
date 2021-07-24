@@ -10,7 +10,7 @@ over: Counter is tweaked. Various damage tweaks.
 
 9 dmg hitbox:
 
-dmg 9 > 8
+dmg 9 > 8 (kb compensated) 
 
 base 40 > 39
 
@@ -18,7 +18,7 @@ kbg 40 > 44
 
 ### fsmash:
 
-14 > 12 dmg
+14 > 12 dmg (kb compensated) 
 
 60 > 60 base 
 
@@ -28,7 +28,7 @@ kbg 40 > 44
 
 ID 0 hitbox (early): 
 
-9 > 8 dmg 
+9 > 8 dmg (kb compensated) 
 
 40 > 39 base 
 
@@ -36,7 +36,7 @@ ID 0 hitbox (early):
 
 ID 1 hitbox (early): 
 
-9 > 8 dmg 
+9 > 8 dmg (kb compensated)  
 
 40 > 39 base 
 
@@ -44,7 +44,7 @@ ID 1 hitbox (early):
 
 ID 0 hitbox (late): 
 
-10 > 8 dmg 
+10 > 8 dmg (kb compensated)  
 
 40 > 37 base 
 
@@ -52,7 +52,7 @@ ID 0 hitbox (late):
 
 ID 1 hitbox (late): 
 
-9 > 8 dmg 
+9 > 8 dmg (kb compensated)  
 
 30 > 28 base 
 
@@ -60,7 +60,7 @@ ID 1 hitbox (late):
 
 ID 2 hitbox (late): 
 
-9 > 8 dmg 
+9 > 8 dmg (kb compensated)  
 
 30 > 28 base 
 
@@ -70,7 +70,7 @@ ID 2 hitbox (late):
 
 9% hitbox:
 
-9 > 8 dmg
+9 > 8 dmg (kb compensated) 
 
 20 > 19 base
 
@@ -78,7 +78,7 @@ ID 2 hitbox (late):
 
 10% hitbox:
 
-10 > 8 dmg
+10 > 8 dmg (kb compensated) 
 
 30 > 29 base
 
