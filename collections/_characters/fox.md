@@ -13,7 +13,7 @@ DMG 3 > 2
 
 ### Up b:
 
-DMG 14 > 12
+DMG 14 > 12 (kb compensated) 
 
 bkb 60 > 59
 
@@ -26,7 +26,7 @@ Shield Damage 5 > 0
 
 clean grounded hit:
 
-dmg 12 > 10
+dmg 12 > 10 (kb compensated) 
 
 bkb 18 > 17
 
@@ -35,7 +35,7 @@ kbg 140 > 163
 
 ### Usmash:
 
-DMG 18/13 > 16/9
+DMG 18/13 > 16/9 (strong hit kb compensated) 
 
 bkb 30 > 30
 
@@ -44,7 +44,7 @@ kbg 112 > 124
 
 ### uair:
 
-dmg 13 > 11
+dmg 13 > 11 (kb compensated) 
 
 bkb 40 > 39
 
@@ -53,7 +53,7 @@ kbg 116 > 134
 
 ### bair:
 
-dmg 15 > 13
+dmg 15 > 13 (kb compensated) 
 
 kbg 100 > 113
 
