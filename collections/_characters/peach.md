@@ -13,13 +13,13 @@ First active frame 9 > 6
 
 ### dsmash:
 
-dmg 14 > 12
+dmg 14 > 12 (kb compensated) 
 
 kbg 80 > 91
 
 bkb 40 > 39
 
-dmg 12 > 10
+dmg 12 > 10 (kb compensated) 
 
 kbg 80 > 93
 
@@ -32,6 +32,10 @@ bkb 35 > 34
 
 interrupt frame 20 > 28
 
+
+### Turnips:
+
+Reworked.
 
 ### Pummel:
 
