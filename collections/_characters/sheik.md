@@ -10,7 +10,7 @@ over: Down throw and up throw are a DI mix up. Chain has less startup and endlag
 
 Weak hits:
 
-DMG 10 > 8 
+DMG 10 > 8  (kb compensated) 
 
 BKB 35 > 33
 
@@ -35,7 +35,7 @@ Needle:
 
 Duration on ground 120 > 1
 
-Damage 3 > 2
+Damage 3 > 2 (kb compensated) 
 
 BKB 24 > 22
 
