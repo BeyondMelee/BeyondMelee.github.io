@@ -13,7 +13,7 @@ Active frames 10-13 > 7-10
 
 ### Uthrow:
 
-dmg 11 > 7
+dmg 11 > 7 (kb compensated) 
 
 bkb 130 > 129
 
