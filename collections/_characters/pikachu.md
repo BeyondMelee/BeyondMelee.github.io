@@ -80,7 +80,7 @@ start and end of down b sped up
 
 First hit:
 
-DMG 4 > 7
+DMG 4 > 7 (kb compensated) 
 
 BKB 100 > 97
 
@@ -88,7 +88,7 @@ KBG 60 > 40
 
 Middle (spike) hit:
 
-DMG 4 > 7
+DMG 4 > 7 (kb compensated) 
 
 BKB 60 > 63
 
@@ -96,7 +96,7 @@ KBG 60 > 40
 
 Late hit:
 
-DMG 4 > 7
+DMG 4 > 7 (kb compensated) 
 
 BKB 80 > 78
 
