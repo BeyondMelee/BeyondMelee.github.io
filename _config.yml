@@ -7,6 +7,10 @@ excerpt_separator: <!--more-->
 collections:
     characters:
         output: false
+    stages:
+        output: false
+    systems:
+        output: false
     faqs:
         output: false
     credits:
