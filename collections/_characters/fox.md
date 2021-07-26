@@ -39,7 +39,7 @@ DMG 18/13 > 16/9 (strong hit kb compensated)
 
 bkb 30 > 30
 
-kbg 112 > 124
+kbg 112 > 125
 
 
 ### uair:
