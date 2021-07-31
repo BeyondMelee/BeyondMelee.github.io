@@ -42,6 +42,20 @@ title: Beyond Melee Changelog
                         </div>
                     </details>
                 {% endfor %}
+                Systems
+                {% for system in site.systems %}
+                    <details id="{{ system.title }}" class="indent">
+                        <summary id="" class="medium">
+                            <p class="medium no-return ">
+                                <!-- <img src="/images/content/system-icons/{{ system.image }}" class="system-icon"></img> -->
+                                {{ system.name }}
+                            </p>
+                        </summary>
+                        <div class="glow-blue">
+                            {{ system.content }}
+                        </div>
+                    </details>
+                {% endfor %}
             </div>
         </section>
     </div>
