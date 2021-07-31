@@ -28,6 +28,20 @@ title: Beyond Melee Changelog
                         </div>
                     </details>
                 {% endfor %}
+                Stages
+                {% for stage in site.stages %}
+                    <details id="{{ stage.title }}" class="indent">
+                        <summary id="" class="medium">
+                            <p class="medium no-return ">
+                                <!-- <img src="/images/content/stage-icons/{{ stage.image }}" class="stage-icon"></img> -->
+                                {{ stage.name }}
+                            </p>
+                        </summary>
+                        <div class="glow-blue">
+                            {{ stage.content }}
+                        </div>
+                    </details>
+                {% endfor %}
             </div>
         </section>
     </div>
