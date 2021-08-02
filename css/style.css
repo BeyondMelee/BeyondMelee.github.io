@@ -778,6 +778,7 @@ ul.chars{
     display: inline;
     overflow: hidden;
     margin: 0px 4px;
+    padding-bottom: 4px;
 }
 
 .nav-pages a:hover, .subnav:hover .subnav-menu {
@@ -787,6 +788,7 @@ ul.chars{
     background-size: cover;
     background-repeat: no-repeat;
     display: inline;
+    padding-bottom: 4px;
 }
 
 .subnav:hover .subnav-content {
