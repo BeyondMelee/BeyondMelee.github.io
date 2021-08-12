@@ -6,7 +6,7 @@ permalink: /ruleset/
 ---
 For both best of fives and best of threes:
 
-Starters:
+**Starters:**
 
 Smashville
 
@@ -18,7 +18,7 @@ Small Battlefield
 
 Final Destination
 
-Counter picks:
+**Counter picks:**
 
 Sprout Tower
 
@@ -30,7 +30,7 @@ Stadium
 
 3 bans, no dsr, character first stage second
 
-FAQ:
+**FAQ:**
 
 Q: “Can I run my own Beyond Melee tournaments without your permission?”
 
