@@ -19,7 +19,7 @@ Fountain of Dreams
 Dreamland
 Stadium
 
-3 bans, no dsr, character first stage second\
+3 bans, no dsr, character first stage second
 
 Q: “Can I run my own Beyond Melee tournaments without your permission?”
 
