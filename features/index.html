@@ -15,7 +15,9 @@ title: Beyond Melee Features
     {% for feature in feature-list %}
         <div id="{{ feature.title }}" class="content-item-features feature-paragraph">
             <h4>{{ feature.name }}</h4>
+            {{ if feature.image }}
             <img class="feature-image" src="/images/content/features/{{ feature.image }}"</img>
+            {{ endif }}
             <p class="">{{ feature.content }}</p>
             </div>
     {% endfor %}
