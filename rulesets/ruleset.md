@@ -7,19 +7,30 @@ permalink: /ruleset/
 For both best of fives and best of threes:
 
 Starters:
+
 Smashville
+
 Yoshi’s
+
 Battlefield
+
 Small Battlefield
+
 Final Destination
 
 Counter picks:
+
 Sprout Tower
+
 Fountain of Dreams
+
 Dreamland
+
 Stadium
 
 3 bans, no dsr, character first stage second
+
+FAQ:
 
 Q: “Can I run my own Beyond Melee tournaments without your permission?”
 
@@ -37,7 +48,6 @@ The more tournaments are ran and the more stable the ruleset gets the more likel
 Q: “There are some weird stages listed as starters instead of a counter picks. Shouldn’t weirder stages be mostly counter picks and normal stages be starters?”
 
 A: Not necessarily! While this mindset makes a lot of sense at a surface level, there’s no reason that as the set goes on the game needs to get more (or less) polarized, and there should be a variety of options at every step of the set. Many sets or players will end up on weirder stages, and many sets or players will play 5 games in a row on very normal stages. Spreading out the stage list like this lets everyone get more of what they want.
-
 
 Q: “You can’t make all TO’s have the same ruleset!”
 
@@ -75,6 +85,7 @@ Q: “What is DSR?”
 A: https://www.ssbwiki.com/Dave%27s_Stupid_Rule
 
 Q: “Why no DSR?”
+
 A: We hear you, but no DSR makes sets much less predictable and leads to less of a feeling of being “trapped” on a stage you don't like, even as the counter picker, later in to the set. No DSR, in combination with our large number of bans(3) lets both players express a lot more decision making and freedom through the set while also letting players be able to ban stages that feel the worst to them.
 
 Q: “What about Auto L Cancel(ALC) and Tap jump toggle. Should those be allowed?”
