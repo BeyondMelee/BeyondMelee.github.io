@@ -6,7 +6,7 @@ permalink: /ruleset/
 ---
 For both best of fives and best of threes:
 
-**Starters:**
+**STARTERS:**
 
 Smashville
 
@@ -18,7 +18,7 @@ Small Battlefield
 
 Final Destination
 
-**Counter picks:**
+**COUNTER PICKS:**
 
 Sprout Tower
 
