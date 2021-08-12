@@ -2,7 +2,7 @@
 layout: hero-header
 title: Beyond Melee Rulesets
 header: Beyond Melee Official Rulesets
-permalink: /rulesets/
+permalink: /ruleset/
 ---
 For both best of fives and best of threes:
 
