@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        {% include header.html %}
+        {% include analytics.html %}
+        <title>{{ page.title }}</title>
+    </head>
+    <body class="parallax">
+        {% include gtm.html %}
+        {% include nav-bar.html %}
+        {% include hero-img.html %}
+        <div class="holder center-text bottom-gap glow-blue top-gap">
+            {{content}}
+        </div>
+
+        {% include footer.html %}
+    </body>
+</html>

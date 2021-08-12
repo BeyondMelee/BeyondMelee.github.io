@@ -327,6 +327,16 @@ article.blog {
     text-align: left;
 }
 
+ol {
+    font-family: monts;
+    color: white;
+    text-align: left;
+}
+
+ol li::marker {
+    color: #0caee6;
+}
+
 p {
     font-family: monts;
     color: white;
