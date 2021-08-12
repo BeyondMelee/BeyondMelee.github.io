@@ -67,14 +67,6 @@ Q: “What if someone just wants to run an event without your ruleset?”
 A: Beyond Melee is still just a game we drop in to the world. We cant do anything about it, and, honestly, we’re fine with it. It just makes our jobs a lot harder in the long run.
 Tournaments that run these alternative rulesets will give back less valuable feedback on character balance, stage balance, and more, and that’s feedback we always want to hear.
 
-Q: “How come at some events the Melee top tiers are banned? That’s really exclusionary. I just want to play my main in this cool game!”
-
-A: There’s a couple reasons this happens.
-Many players enter Beyond Melee events because players want a change of pace, and when that change of pace ends up being playing as or against what you play at every other event it’s a bit of a bummer.
-On the topic of variety, if you are trying as hard as you can to win in Beyond Melee and Melee top tiers are allowed, you’ll feel an urge to swap to your Melee top tier main, and then your opponent might as well. Many times in Beyond Melee events have both opponents started as their Beyond Melee main and ended the set in Melee top tier matches, which isn’t really why those players are here.
-When a Beyond Melee tournament bracket is specifically a side event or, what’s happening now, a BMvitational qualifier it’s important that Melee players who have never played Beyond Melee wont swoop in, win with their Melee main, and then dip. While this may not seem like a huge issue, it often defeats the purpose of these brackets and events. In the case of BMVitational qualifier spots, it’s very important to make sure the players who make it in are in it for Beyond Melee, not just some quick Melee money.
-This stuff comes off as exclusionary, I get it, but often times these bans happen just to add more spice or test different skills than what everyone’s used to being tested on. It’s also very possible that as the meta grows, characters get buffed, and the culture changes that in the future there will be no events with Melee top tiers banned.
-
 Q: “Why character first and stage second? Melee and Ult aren’t like that.”
 
 A: After years of playtesting and research, it’s an idea that Project M/+ came up with, and we think it’s great. While it feels odd at first, it offers MUCH more power to the counterpicker, whereas stage first offers much more power to the previous games winner. Being able to take characters to stages they don't like rather than what happens in stage first, which is picking a stage, then your opponent picking a character that’s great on that stage... It just makes the match a lot more dynamic and less frustrating.
