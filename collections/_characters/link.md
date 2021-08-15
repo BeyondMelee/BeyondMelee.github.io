@@ -36,19 +36,6 @@ BKB 8 > 40
 Arrow angle 70 > 82
 
 
-### Bomb:
-
-Explosion:
-
-dmg 3 > 9
-
-kbg 26 > 12
-
-bkb 25 > 27
-
-angle 70 > 80
-
-shield damage 0 > 12
 
 ### Jab 1:
 
@@ -215,9 +202,24 @@ hand grab hitbox sizes 300/1000 > 800/1200
 hand grab hitbox size 800 > 1000
 
 
-### down b air:
+### down b(bomb pull):
 
 10f lag added
+
+
+### Bomb:
+
+Explosion:
+
+dmg 3 > 9
+
+kbg 26 > 12
+
+bkb 25 > 27
+
+angle 70 > 80
+
+shield damage 0 > 12
 
 
 ### pummel:
