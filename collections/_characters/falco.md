@@ -17,6 +17,7 @@ kbg 100 > 113
 
 dmg 3 > 2
 
+Here's how this change affects hitlag and shieldstun: https://docs.google.com/document/d/12UATHH5RQZdEm7KeGrN1jTkfxAZGC5xEHvqH0zFW3tg/edit?usp=sharing
 
 ### Pummel:
 
