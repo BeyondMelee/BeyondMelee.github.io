@@ -31,7 +31,8 @@ damage 5/3/3/3 > 3/1/1/1
 
 BKB 35/14/8/6 > 30/30/0/0
 
-Needle:
+
+### Needle:
 
 Duration on ground 120 > 1
 
@@ -52,12 +53,11 @@ KBG 50 > 28
 
 BKB 70 > 74
 
-Endlag -4
 
 
 ### Uthrow:
 
-Sped up (slowed down from last patch)
+Sped up
 
 release point adjusted
 
@@ -66,8 +66,6 @@ Angle 88 > 115
 BKB 90 > 74
 
 KBG 30 > 27
-
-Endlag changed to match dthrow (18f)
 
 
 ### Pummel:
