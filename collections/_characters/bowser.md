@@ -5,6 +5,7 @@ image: bowser.png
 name: Bowser
 over: Bowser’s up b out of shield is heavily nerfed to encourage him to be more aggressive and camp in shield less. Fireball was added and bound to grabs to also encourage and reward aggression.
 ---
+## Vanilla > Demo 1
 
 ### Attributes:
 
