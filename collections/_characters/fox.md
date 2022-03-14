@@ -6,6 +6,8 @@ name: Fox
 over: General damage output nerfs.
 ---
 
+## Vanilla > Demo 1
+
 ### Neutral b:
 
 DMG 3 > 2

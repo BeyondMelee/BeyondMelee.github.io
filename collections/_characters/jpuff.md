@@ -6,6 +6,8 @@ name: Jigglypuff
 over: Rest is weaker, but less endlag. Up b is now healing song. This removes her ability to sing stall. You can only do one side b per jump, which also reduces stalling.
 ---
 
+## Vanilla > Demo 1
+
 ### Dtilt:
 
 Active frames 10-13 > 7-10

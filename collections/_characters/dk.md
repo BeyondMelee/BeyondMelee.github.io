@@ -6,6 +6,8 @@ name: Donkey Kong
 over: Beefed up vanilla DK with a nerfed/tweaked grab game and rolling dash attack.
 ---
 
+## Vanilla > Demo 1
+
 ### Attributes:
 
 tilt turn 8 > 4

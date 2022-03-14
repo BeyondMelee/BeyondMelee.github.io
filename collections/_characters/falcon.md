@@ -6,6 +6,8 @@ name: Captain Falcon
 over: Gentleman is now consistent. Nipple fire spikes. That’s it. Upair has some damage tweaks.
 ---
 
+## Vanilla > Demo 1
+
 (Switched to PAL base, so these are changes from PAL default)
 
 ### Knee

@@ -6,6 +6,8 @@ name: Sheik
 over: Down throw and up throw are a DI mix up. Chain has less startup and endlag for cheeky jab resets and edge guards.
 ---
 
+## Vanilla > Demo 1
+
 ### Dsmash:
 
 Weak hits:

@@ -6,6 +6,8 @@ name: Roy
 over: About what you expect, but with a new jab, bair, and dsmash anims. Feels great.
 ---
 
+## Vanilla > Demo 1
+
 ### Attributes:
 
 Jump-squat 5 > 4

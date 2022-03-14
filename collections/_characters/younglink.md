@@ -6,6 +6,8 @@ name: Young Link
 over: Sped up a bit from vanilla in every way. Movement, bair speed, arrow charge time, all faster. The late hit of fair is a meteor. New fsmash hits like a truck.
 ---
 
+## Vanilla > Demo 1
+
 ### Attributes:
 
 Max walk: 1.2 > 1.4

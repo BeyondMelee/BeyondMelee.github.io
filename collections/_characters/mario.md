@@ -6,6 +6,8 @@ name: Mario
 over: Mario is now a speed demon. He has a new usmash.
 ---
 
+## Vanilla > Demo 1
+
 ### Attributes:
 
 Max walk speed 1.1 -> 1.2

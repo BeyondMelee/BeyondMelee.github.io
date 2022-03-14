@@ -6,6 +6,8 @@ name: Link
 over: Basically just beefed up vanilla Link. Arrow is a stand out as it has heavily increased combo usage. Jab is amazing.
 ---
 
+## Vanilla > Demo 1
+
 ### Attributes:
 
 jump squat 6 > 5

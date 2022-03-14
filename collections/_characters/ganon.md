@@ -6,6 +6,8 @@ name: Ganon
 over: Side b cancels on hit in the air in to a jump, wave dash back, or aerial. The rest of the character is pretty straight forward.
 ---
 
+## Vanilla > Demo 1
+
 ### Attributes
 
 jump squat 6 > 5

@@ -6,6 +6,8 @@ name: Zelda
 over: Zelda has been reworked to not be “bair and fair the character.” This involves changing those two moves, but they’re still great. She’s also now much faster with a deep combo game based around nair mix ups.
 ---
 
+## Vanilla > Demo 1
+
 ### Attributes:
 
 jump squat 6 > 4

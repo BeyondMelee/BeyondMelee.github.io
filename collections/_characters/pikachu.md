@@ -6,6 +6,8 @@ name: Pikachu
 over: Basically vanilla Pika but with a combo dthrow and a few buffed moves.
 ---
 
+## Vanilla > Demo 1
+
 ### Attributes:
 
 Shield size:

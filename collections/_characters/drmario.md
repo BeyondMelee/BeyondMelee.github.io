@@ -6,6 +6,8 @@ name: Dr. Mario
 over: Doc has stomp, yeet bthrow, better comboing pill, and overall more damage output.
 ---
 
+## Vanilla > Demo 1
+
 ### Pill:
 
 int projectile speed 1.4 > 1.2

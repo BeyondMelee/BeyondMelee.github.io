@@ -6,6 +6,8 @@ name: Mewtwo
 over: Up b and nair have been nerfed in disadvantage, but are better in advantage. Overall, he’s a beefed up vanilla Mewtwo. Do rising double jump aerials by holding the jump button.
 ---
 
+## Vanilla > Demo 1
+
 ### Attributes:
 
 run: 1.4>1.65

@@ -6,6 +6,8 @@ name: Marth
 over: Counter is tweaked. Various damage tweaks.
 ---
 
+## Vanilla > Demo 1
+
 ### dtilt:
 
 9 dmg hitbox:

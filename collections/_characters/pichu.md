@@ -6,6 +6,8 @@ name: Pichu
 over: Pichu is a space animal. His shine is like Falco’s but it self damages Pichu. His recovery is weakened to help him fit further in to his spacie archetype.
 ---
 
+## Vanilla > Demo 1
+
 ### Attributes:
 
 Weight 55 > 67

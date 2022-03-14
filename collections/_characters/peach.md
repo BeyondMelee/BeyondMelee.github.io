@@ -6,6 +6,8 @@ name: Peach
 over: Basically vanilla Peach with lower damage total on dsmash, and no more random turnip pulls. She will pull a stitch after she dishes out 300% through the course of a match.
 ---
 
+## Vanilla > Demo 1
+
 ### Utilt: 
 
 First active frame 9 > 6
