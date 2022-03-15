@@ -6,6 +6,62 @@ name: Dr. Mario
 over: Doc has stomp, yeet bthrow, better comboing pill, and overall more damage output.
 ---
 
+## Doc Demo 1 > Demo 2 changelog:
+
+### Pill: 
+
+duration 40 > 50
+
+BKB 20 > 35
+
+Shield damage 0 > 6
+
+### Ftilt:
+
+DMG 9 > 11
+
+### Fsmash:
+
+Damage 18/19/20 > 22
+
+### Usmash:
+
+Strong hit:
+
+Damage 16 > 18
+
+Weak hit:
+
+Damage 13 > 14
+
+### Dsmash:
+
+Strong hit:
+
+Damage 18/17 > 18/18
+
+Weak hit:
+
+DMG 15/13 > 16
+
+### Dair:
+
+First active frame 13 > 11
+
+### Dthrow:
+
+Damage 9 > 10
+
+KBG 36 > 40
+
+### Bthrow:
+
+KBG 72 > 80
+
+### Fthrow:
+
+Angle 45 > 30
+
 ## Vanilla > Demo 1
 
 ### Pill:
