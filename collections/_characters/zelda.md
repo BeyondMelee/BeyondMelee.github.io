@@ -6,6 +6,42 @@ name: Zelda
 over: Zelda has been reworked to not be “bair and fair the character.” This involves changing those two moves, but they’re still great. She’s also now much faster with a deep combo game based around nair mix ups.
 ---
 
+## Zelda Demo 1 > Demo 2 Changelog:
+
+### Jab:
+
+Turned in to a single hit
+
+interrupt 24 > 27
+
+### Dair:
+
+First active frame 13 > 11
+
+### Ftilt:
+
+Comes out 2 frames faster
+
+### Utilt:
+
+Endlag lowered by 3 frames
+
+### Dsmash:
+
+BKB 20 > 30
+
+### Nair:
+
+Angle 70 > 75
+
+### Uair:
+
+Damage 14 > 15
+
+### Taunt:
+
+Sped up
+
 ## Vanilla > Demo 1
 
 ### Attributes:
