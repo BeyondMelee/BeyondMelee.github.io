@@ -46,7 +46,7 @@ Balance,
 [@Dr3am95](https://twitter.com/Dr3am95)
 
 Rapito:
-Coder
+Coder,
 [@RobertPeraltaB](https://twitter.com/RobertPeraltaB)
 
 Firelis:
@@ -90,12 +90,20 @@ Models/textures,
 [@spamitburns](https://twitter.com/spamitburns)
 
 Vancity_Primal:
-Models/textures,
+Models/textures/logo,
 [@Vancity_Primal](https://twitter.com/Vancity_Primal)
 
 Cappy:
-Coder
+Coder,
 [@CappyBM](https://twitter.com/CappyBM)
+
+Pelipper:
+Coder,
+[@Pelippper](https://mobile.twitter.com/pelippper)
+
+GeminiHero
+Animation/video,
+[@GeminiHero](https://mobile.twitter.com/pelippper)
 
 Credit to Aaron Dulger for sound effects for Skull Kid
 [Aaron Dulger on SoundCloud](https://soundcloud.com/aaron-dulger)
