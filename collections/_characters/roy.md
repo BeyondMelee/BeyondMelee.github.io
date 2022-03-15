@@ -6,6 +6,12 @@ name: Roy
 over: About what you expect, but with a new jab, bair, and dsmash anims. Feels great.
 ---
 
+## Roy Demo 1 to Demo 2 changelog:
+
+### Bair:
+
+Strong hit damage 16 > 15
+
 ## Vanilla > Demo 1
 
 ### Attributes:
