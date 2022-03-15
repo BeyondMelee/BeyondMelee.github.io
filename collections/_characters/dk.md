@@ -6,6 +6,50 @@ name: Donkey Kong
 over: Beefed up vanilla DK with a nerfed/tweaked grab game and rolling dash attack.
 ---
 
+## DK Demo 1 to Demo 2 changelog:
+
+### Grab: 
+
+Grab release normalized (20f > 30f)
+
+### ECB:
+
+Bone 6: 0 > 4 (ECB now variable like the rest of the cast. Improves waveland leniency and speed on every platform in the game.
+
+Shield: 
+
+size: 19 > 20
+
+### Cargo uthrow:
+
+KBG 35 > 30 (revert to vanilla)
+
+### Cargo fthrow:
+
+Lowered endlag
+
+KBG 30 > 25
+
+### Cargo bthrow:
+
+Lowered endlag
+
+KBG 30 > 25
+
+### Cargo dthrow:
+
+DMG 6 > 10
+
+KBG 26 > 35
+
+### Dash Attack:
+
+FAF 9 > 7
+
+Weak Hit frame 13 > 11
+
+Adjusted hitbox positioning throughout
+
 ## Vanilla > Demo 1
 
 ### Attributes:
