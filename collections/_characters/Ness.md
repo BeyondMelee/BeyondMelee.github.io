@@ -3,7 +3,7 @@ layout: character
 title: ness
 image: ness.png
 name: Ness
-over: Write gibberish here
+over: Ness rushes in to Beyond Melee with a totally new style, speed, and combo strings! Use his powerful new specials to mix up and zip around his opponents, attacking them from angles they'll never expect!
 ---
 
 ## Ness Vanilla > Demo 2 CL
