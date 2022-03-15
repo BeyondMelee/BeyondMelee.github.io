@@ -6,6 +6,20 @@ name: Samus
 over: Samus has a new usmash. Her neutral b can charge in the air. You can only do two bomb jumps per air time, speeding up her recovery while still having a wealth of mix ups.
 ---
 
+## Samus Demo 1 > Demo 2 CL
+
+### Usmash:
+
+BKB 32 > 28
+
+KBG 97 > 108
+
+// (Deals the same knockback at 0 but scales more.)
+
+### IASA 42 > 39
+
+Reverted demo 1 bomb jump change
+
 ## Vanilla > Demo 1
 
 ### Usmash: 
