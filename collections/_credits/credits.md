@@ -103,7 +103,7 @@ Coder,
 
 GeminiHero
 Animation/video,
-[@GeminiHero](https://mobile.twitter.com/pelippper)
+[@GeminiHero](https://twitter.com/Gemini_Her0)
 
 Untitled
 Stages,
@@ -128,8 +128,6 @@ Misc character work,
 Aces
 Misc graphics,
 [@acesbuthesvibin](https://twitter.com/acesbuthesvibin)
-
-
 
 
 
