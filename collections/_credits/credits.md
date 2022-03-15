@@ -107,7 +107,7 @@ Animation/video,
 
 Untitled
 Stages,
-[@untitled!yellow](https://twitter.com/untitled1yellow)
+[@untitled1yellow](https://twitter.com/untitled1yellow)
 
 Tizo
 Stages,
@@ -127,7 +127,7 @@ Misc character work,
 
 Aces
 Misc graphics,
-[@VibinAces](https://twitter.com/VibinAces)
+[@acesbuthesvibin](https://twitter.com/acesbuthesvibin)
 
 
 
