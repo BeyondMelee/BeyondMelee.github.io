@@ -1,3 +1,11 @@
+---
+layout: character
+title: ness
+image: ness.png
+name: Ness
+over: Write gibberish here
+---
+
 ## Ness Vanilla > Demo 2 CL
 
 ### Attributes:
