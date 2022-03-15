@@ -6,6 +6,38 @@ name: Ganon
 over: Side b cancels on hit in the air in to a jump, wave dash back, or aerial. The rest of the character is pretty straight forward.
 ---
 
+## Ganon Demo 1 > Demo 2 Changelog 
+
+### Air side b: 
+
+start up sped up by 2 frames.
+
+### Usmash:
+
+FAF 23 > 14
+
+### Dthrow:
+
+BKB 76 > 80
+
+### Uthrow:
+
+BKB 74 > 80
+
+### Fsmash:
+
+New animation!
+
+Active frames 16-18
+
+DMG: 18
+
+BKB: 40
+
+KBG: 83
+
+Angle: 361
+
 ## Vanilla > Demo 1
 
 ### Attributes
