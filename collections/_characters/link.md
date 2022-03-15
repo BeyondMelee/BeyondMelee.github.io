@@ -6,6 +6,82 @@ name: Link
 over: Basically just beefed up vanilla Link. Arrow is a stand out as it has heavily increased combo usage. Jab is amazing.
 ---
 
+## Link Demo 1 to Demo 2 Changelog:
+
+### Shield
+
+Size 12.5 > 13.2
+
+## Roll
+
+frame data normalized 38 > 32
+
+### Fair:
+
+Total anim frames reduced by 2
+
+Added allow interrupt 2f before anim ends
+
+BKB 15 > 20
+
+### Dair: 
+
+Hitbox damage normalized 20/22 > 22
+
+BKB normalized 40/50 > 50
+
+### Bthrow:
+
+DMG 3 > 5
+
+Angle 130 > 135
+
+BKB 40 > 50
+
+### Fthrow:
+
+DMG 3 > 5
+
+Angle 55 > 45
+
+BKB 40 > 50
+
+### Dash Attack:
+
+BKB 10 > 20
+
+Damage normalized 9/11/12 > 12 on all hits
+
+Angle normalized 90/80/70/60 > 85
+
+Knockback growth 100 > 85
+
+### Usmash: 
+
+Hitbox placement tweaked to improve linking.
+
+### Fsmash1: 
+
+FAF 15 > 14
+
+### Dsmash:
+
+Time between hits greatly reduced
+
+1st hit damage normalized 13/16/17/ > 17
+
+1st hit BKB 26 > 35
+
+Angle 75 > 80
+
+2nd hit damage normalized 11/16/17/16 > 16
+
+2nd hit BKB 20 > 30
+
+### Bomb pull:
+
+-10f (revert to vanilla)
+
 ## Vanilla > Demo 1
 
 ### Attributes:
