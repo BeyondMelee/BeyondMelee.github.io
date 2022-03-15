@@ -6,6 +6,68 @@ name: Young Link
 over: Sped up a bit from vanilla in every way. Movement, bair speed, arrow charge time, all faster. The late hit of fair is a meteor. New fsmash hits like a truck.
 ---
 
+## Young Link Changelog Demo 1 > Demo 2:
+
+### Attributes:
+
+Jump squat 4 > 3
+
+Shield size 12.2 > 13.5
+
+Frames to change direction 6 > 4
+
+### Jab:
+
+First active frame 4 > 3
+
+### Jab 2:
+
+First active frame 6 > 4
+
+### Jab 3:
+
+First active frame 6 > 4
+
+### Ftilt:
+
+First active frame 11 > 8
+
+### Bomb pull:
+
+Reverted to vanilla
+
+### Usmash:
+
+Increased size a tad.
+
+Retimed vfx to match hitbox timing
+
+### Grab:
+
+10f of endlag removed
+
+### Dash grab:
+
+10f of endlag removed
+
+### Dair:
+
+Total active frames 52 > 20
+
+Moved AC window 7f later (65 > 72 in code)
+
+### nair:
+
+active frames 4-22 > 3-15
+
+### Uair:
+
+Active frames: 45 > 30
+
+### Bair:
+
+totally reworked
+
 ## Vanilla > Demo 1
 
 ### Attributes:
