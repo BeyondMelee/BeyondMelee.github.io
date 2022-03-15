@@ -34,16 +34,6 @@ BKB 10 > 20
 
 Tweaked hitbox placement
 
-//Sped up end of animation, but didn't change IASA
-Removed the air/ground flags for ID 0 and 1
-ID 3
-Now rooted at bone 0
-Size increased from 800 > 1200
-Z offset: 0
-X offset: 1300
-Y offset: 1000
-heavily reduced deadzone in front of
-
 ### Nair:
 
 Slight animation adjustments
@@ -53,13 +43,6 @@ Center of gravity changed to give move similar range to other nairs
 ### Uair:
 
 Tweaked hitbox placement
-
-//ID 1 
-Size  1100 > 1500
-X offset  2000 > 1500
-ID 2 
-Size  1700 > 2100
-X offset  3500 > 3100
 
 ### Dthrow:
 
