@@ -6,6 +6,40 @@ name: Pichu
 over: Pichu is a space animal. His shine is like Falco’s but it self damages Pichu. His recovery is weakened to help him fit further in to his spacie archetype.
 ---
 
+## Pichu Demo 1 to Demo 2 Changelog:
+
+### Attributes
+
+Weight: 
+
+67 > 70 
+
+Ledge grab box raised to allow pichu to wavedash off ledge without grabbing it instantly
+
+### Fair:
+
+Hitbox placements tweaked
+
+### Dair:
+
+Active frames: 14-28 > 14-19 (fixed error in previous code)
+
+### Bair:
+
+Angle 38 > 35 on one of the hitboxes
+
+Positioning tweaked
+
+### Shine:
+
+JCable on f4 instead of f5 to match other spacies
+
+### Sideb:
+
+Reverse hits less
+
+Deals more hitlag
+
 ## Vanilla > Demo 1
 
 ### Attributes:
