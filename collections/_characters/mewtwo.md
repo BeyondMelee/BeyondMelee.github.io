@@ -6,6 +6,86 @@ name: Mewtwo
 over: Up b and nair have been nerfed in disadvantage, but are better in advantage. Overall, he’s a beefed up vanilla Mewtwo. Do rising double jump aerials by holding the jump button.
 ---
 
+## Mewtwo Demo 1 > Demo 2 changelog:
+
+### Side b:
+
+First active frame: 12 > 10
+
+Side b throw:
+
+Angle 110 > 90
+
+KBG 40 > 45
+
+### Down b:
+
+Start up -3
+
+DMG 6 > 10
+
+KBG 90 > 85
+
+BKB 70 > 65
+
+### Neutral b:
+
+Stage 1(array1):
+
+dmg 7
+
+Angle 115 > 100
+
+Stage 1.5(array2):
+
+damage 5 > 8
+
+angle 361 > 100
+
+Stage 2(array3):
+
+dmg 8 > 10
+
+Angle 110 > 100
+
+Stage 2.5(array4):
+
+Damage 11
+
+angle 361 > 100
+
+Stage 3(array5):
+
+dmg 14 > 15
+
+angle 105 > 100
+
+(array6):
+
+dmg 17
+
+angle 361 > 100 
+
+Stage 4(array7):
+
+bkb 45 > 50
+
+### Jab 1:
+
+FAF 5 > 3
+
+### Usmash:
+
+FAF 10 > 8
+
+### Fsmash:
+
+FAF 18 > 13
+
+### Dsmash:
+
+FAF 20 > 15
+
 ## Vanilla > Demo 1
 
 ### Attributes:
