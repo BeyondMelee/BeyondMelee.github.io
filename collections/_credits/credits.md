@@ -35,7 +35,7 @@ Skull Kid lead, animator,
 
 SuperSmasherFan:
 Animator,
-[@fan_smasher](https://twitter.com/fan_smasher)
+[@Jake_Paustian](https://twitter.com/Jake_Paustian)
 
 Happymilla:
 Animator,
