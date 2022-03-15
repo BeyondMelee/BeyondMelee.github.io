@@ -105,5 +105,33 @@ GeminiHero
 Animation/video,
 [@GeminiHero](https://mobile.twitter.com/pelippper)
 
+Untitled
+Stages,
+[@untitled!yellow](https://twitter.com/untitled1yellow)
+
+Tizo
+Stages,
+[@Ikeawithdilfs](https://twitter.com/Ikeawithdilfs)
+
+meleesadposts
+Misc,
+[@Meleesadposts](https://twitter.com/meleesadposts)
+
+Steph
+Misc logo work,
+[@stephenheo](https://twitter.com/stephenheo)
+
+GhostsSoup
+Misc character work,
+[@GhostsSoup](https://twitter.com/GhostsSoup)
+
+Aces
+Misc graphics,
+[@VibinAces](https://twitter.com/VibinAces)
+
+
+
+
+
 Credit to Aaron Dulger for sound effects for Skull Kid
 [Aaron Dulger on SoundCloud](https://soundcloud.com/aaron-dulger)
