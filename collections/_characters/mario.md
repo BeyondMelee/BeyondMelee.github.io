@@ -5,6 +5,48 @@ image: mario.png
 name: Mario
 over: Mario is now a speed demon. He has a new usmash.
 ---
+##
+
+## Mario Demo 1 > Demo 2 Changelog:
+
+### Fair:
+
+Added a ground only hitbox on the fist to match the air only one
+
+adjusted vfx to clear up hitbox confusion
+
+### Fireball: 
+
+duration 50 > 45
+
+### Dair:
+
+Landing lag 23 > 21
+
+Weak hit: Hitbox sizes: 1100/900 > 1150/1050
+Strong hit: Hitbox sizes 1200/900 > 1250/1100
+
+### Jab 1:
+
+Follow ups allowed 6 > 5
+
+Allow interrupt 16 > 15
+
+### Jab 2:
+
+Follow ups allowed 6 > 5
+
+Allow interrupt 18 > 17
+
+### Jab 3:
+
+First active frame 4 > 3
+
+### Dtilt:
+
+Allow interrupt: 25 > 22
+
+Sped up interrupt frames
 
 ## Vanilla > Demo 1
 
