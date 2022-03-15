@@ -14,7 +14,6 @@ BKB 32 > 28
 
 KBG 97 > 108
 
-// (Deals the same knockback at 0 but scales more.)
 
 ### IASA 42 > 39
 
